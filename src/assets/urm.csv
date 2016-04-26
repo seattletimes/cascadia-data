@@ -1,0 +1,1162 @@
+﻿riskCategory,neighborhood,address,city,state,year,stories,retrofitLevel,occupancyType,occupantLoad,confirmationSource,FID,x,y
+M,Alki/Admiral,1321 Harbor Ave SW,Seattle,Washington,1915,1,No visible,C,2,Ph,1,-122.382542771416,47.5914231316649
+M,Alki/Admiral,2124 California Ave SW,Seattle,Washington,1928,3,No visible,R,2,GSV,2,-122.386378498627,47.5845080987373
+M,Alki/Admiral,2306 42nd Ave SW,Seattle,Washington,1909,2,Visible,G,2,Ph-R,3,-122.385068454007,47.5827073699617
+M,Alki/Admiral,4029 Beach Dr SW,Seattle,Washington,1928,1,No visible,C/R,1,Field,4,-122.409580512772,47.5678096883185
+M,Ballard,1100 NW Leary Way,Seattle,Washington,1932,1,No visible,C,2,GSV,5,-122.371199926681,47.6636865605926
+M,Ballard,1766 NW Market St,Seattle,Washington,1906,2,No visible,C/O,2,SIM,6,-122.381539258022,47.6686971329101
+M,Ballard,1836 NW Market St,Seattle,Washington,1926,1,Sub Alt,C,2,Field,7,-122.381888913771,47.6686971329101
+M,Ballard,1903 NW Market St,Seattle,Washington,1909,3,No visible,C/R,3,Field,8,-122.381839961877,47.6686423531142
+H,Ballard,2000 NW Market St,Seattle,Washington,1924,2,No visible,P,3,Field,9,-122.382289853442,47.6686971329101
+M,Ballard,2016 NW Market St,Seattle,Washington,1906,2,No visible,C/O,2,Field,10,-122.38289942055,47.6686971329101
+M,Ballard,2021 NW 58th St,Seattle,Washington,1900,3,Permit,R,2,GSV,11,-122.382958862072,47.67089180728
+M,Ballard,2026 NW Market St,Seattle,Washington,1904,2,No visible,C,3,Field,12,-122.383388938599,47.6686971329101
+M,Ballard,2032 NW Market St,Seattle,Washington,1928,1,No visible,C,3,Field,13,-122.383729270734,47.6686971329101
+M,Ballard,2056 NW Market St,Seattle,Washington,1925,3,No visible,C/R,3,GSV,14,-122.384379631237,47.6686971329101
+M,Ballard,2116 NW Vernon Pl,Seattle,Washington,1912,1,No visible,O,2,Field,15,-122.383774726386,47.6661248293395
+M,Ballard,2215 NW Market St,Seattle,Washington,1903,2,No visible,C/O,2,GSV,16,-122.385709489997,47.6686423531142
+M,Ballard,2220 NW Market St,Seattle,Washington,1927,1,No visible,C,3,GSV,17,-122.385789910775,47.6686971329101
+M,Ballard,2228 NW Market St,Seattle,Washington,1928,2,No visible,C,2,Field,18,-122.386148891037,47.6686971329101
+M,Ballard,2236 NW Market St,Seattle,Washington,1927,1,No visible,C,2,Field,19,-122.386399477882,47.6686971329101
+M,Ballard,2244 NW Market St,Seattle,Washington,1913,2,No visible,C/O,3,Field,20,-122.386451875714,47.6686954699291
+M,Ballard,2301 NW Market St,Seattle,Washington,1928,1,No visible,C,2,Field,21,-122.386439105264,47.6686423531142
+M,Ballard,2318 NW Market St,Seattle,Washington,1911,1,No visible,C,3,Field,22,-122.387148907289,47.6687064568547
+M,Ballard,4711 Ballard Ave NW,Seattle,Washington,1900,2,No visible,C,2,Field,23,-122.379244348135,47.6630035655555
+M,Ballard,4722 Ballard Ave NW,Seattle,Washington,1902,2,Visible,C,2,Field,24,-122.379719880314,47.663483759892
+H,Ballard,4743 Ballard Ave NW,Seattle,Washington,1900,2,Sub Alt,P,3,Field,25,-122.380059047334,47.6636853947607
+M,Ballard,5000 20th Ave NW,Seattle,Washington,1900,2,No visible,C/R,2,Field,26,-122.382159314757,47.6656970834424
+M,Ballard,5006 20th Ave NW,Seattle,Washington,1900,2,No visible,C/R,2,PR,27,-122.382158149642,47.6656982486244
+M,Ballard,5100 Ballard Ave NW,Seattle,Washington,1905,2,No visible,C/R,3,Field,28,-122.381019436205,47.6645828459413
+M,Ballard,5101 Ballard Ave NW,Seattle,Washington,1905,2,No visible,C/O,2,GSV,29,-122.381029925832,47.664515245746
+M,Ballard,5109 Ballard Ave NW,Seattle,Washington,1900,2,No visible,C,2,Field,30,-122.381249043795,47.6646959011404
+M,Ballard,5129 Ballard Ave NW,Seattle,Washington,1900,2,No visible,C/R,2,GSV,31,-122.381649982567,47.6650350676886
+M,Ballard,5130 Ballard Ave NW,Seattle,Washington,1900,1,Visible,C,3,Field,32,-122.381838796762,47.6652833235971
+M,Ballard,5135 Ballard Ave NW,Seattle,Washington,1900,2,Visible,C/O,2,Field,33,-122.381869100529,47.6652250476654
+M,Ballard,5140 Ballard Ave NW,Seattle,Washington,1902,2,Visible,P,2,GSV-R,34,-122.381999638317,47.6654126959691
+M,Capitol Hill,1515 Bellevue Ave,Seattle,Washington,1925,3,No visible,R,2,GSV,35,-122.326840220534,47.6145097591058
+M,Ballard,5144 Ballard Ave NW,Seattle,Washington,1911,2,No visible,C/R,2,Field,36,-122.382069569467,47.6654733032754
+M,Capitol Hill,1515 Broadway,Seattle,Washington,1912,1,No visible,C,2,Field,37,-122.320850611749,47.6145692004283
+H,Capitol Hill,1515 Melrose Ave,Seattle,Washington,1919,1,Sub Alt,P,3,Field,38,-122.327949796217,47.6146006699421
+M,Ballard,5200 Ballard Ave NW,Seattle,Washington,1900,2,Visible,P,2,Field,39,-122.382489157264,47.6658229592513
+H,Capitol Hill,1518 11th Ave,Seattle,Washington,1915,2,No visible,P,3,GSV,40,-122.318098817811,47.6147195529186
+C,Ballard,5201 Ballard Ave NW,Seattle,Washington,1915,2,No visible,S,3,Field,41,-122.382229245907,47.6655257517908
+M,Capitol Hill,1520 13th Ave,Seattle,Washington,1920,2,No visible,C,2,GSV,42,-122.315498541813,47.6147999737983
+M,Ballard,5205 Ballard Ave NW,Seattle,Washington,1915,1,Visible,C,2,Ph,43,-122.382359784592,47.6656353106075
+H,Ballard,5215 Ballard Ave NW,Seattle,Washington,1902,2,No visible,P,3,Field,44,-122.382589392182,47.6658252902146
+M,Capitol Hill,1520 Bellevue Ave,Seattle,Washington,1918,2,No visible,C/O,2,GSV,45,-122.326748145014,47.6148092976782
+M,Capitol Hill,1520 Melrose Ave,Seattle,Washington,1916,4,Visible,R,2,GSV,46,-122.327858885812,47.6146787595749
+M,Ballard,5218 20th Ave NW,Seattle,Washington,1902,3,Visible,Mixed,2,GSV,47,-122.382118521361,47.6673987429963
+M,Ballard,5221 Ballard Ave NW,Seattle,Washington,1902,2,Permit,C,3,PR,48,-122.38273974411,47.6659558288396
+M,Capitol Hill,1521 15th Ave,Seattle,Washington,1910,4,No visible,R,2,Field,49,-122.312809686538,47.6147988080861
+M,Ballard,5227 Leary Ave NW,Seattle,Washington,1911,5,No visible,Mixed,2,Field,50,-122.381669795809,47.6662157399397
+H,Capitol Hill,1522 12th Ave,Seattle,Washington,1922,1,Sub Alt,P,3,GSV,51,-122.316799262818,47.6147999737983
+M,Ballard,5229 Ballard Ave NW,Seattle,Washington,1900,2,Sub Alt,P,2,Field,52,-122.38289942055,47.6660956909441
+M,Capitol Hill,1525 Boylston Ave,Seattle,Washington,1919,1,Sub Alt,R,2,PR,53,-122.323440398119,47.6147894842043
+M,Ballard,5232 Ballard Ave NW,Seattle,Washington,1903,3,Permit,C,3,PR,54,-122.383028793222,47.6662926641235
+M,Capitol Hill,1531 Belmont Ave,Seattle,Washington,1910,4,Permit,R,2,Field,55,-122.32449053228,47.6150587194777
+M,Ballard,5233 Ballard Ave NW,Seattle,Washington,1900,1,No visible,C,2,Field,56,-122.383060262105,47.6662355538838
+H,Capitol Hill,1531 Melrose Ave,Seattle,Washington,1912,1,Sub Alt,P,3,Field,57,-122.327949796217,47.6146309731153
+M,Capitol Hill,1550 E Olive Way,Seattle,Washington,1924,1,No visible,C,3,GSV,58,-122.325635073088,47.6185611078782
+M,Ballard,5239 Ballard Ave NW,Seattle,Washington,1900,1,Sub Alt,C,2,PR,59,-122.383119703627,47.6662856712955
+M,Ballard,5242 Shilshole Ave NW,Seattle,Washington,1926,1,No visible,I,2,Field,60,-122.383578918807,47.6655735383045
+M,Ballard,5300 Ballard Ave NW,Seattle,Washington,1902,2,No visible,R,2,Field,61,-122.383288703681,47.6665036233697
+H,Ballard,5307 Ballard Ave NW,Seattle,Washington,1927,1,Sub Alt,P,3,PR,62,-122.383429731994,47.6665455819631
+M,Ballard,5310 Ballard Ave NW,Seattle,Washington,1900,2,Sub Alt,P,2,Field,63,-122.383508987657,47.6667029271439
+M,Ballard,5313 Ballard Ave NW,Seattle,Washington,1900,1,Sub Alt,C,2,PR,64,-122.383709456594,47.6667856794236
+M,Ballard,5323 Ballard Ave NW,Seattle,Washington,1901,3,Sub Alt,C/O,3,Ph,65,-122.38390992643,47.6669558454154
+M,Ballard,5333 Ballard Ave NW,Seattle,Washington,1904,1,No visible,C,2,GSV,66,-122.384119719879,47.6671353350777
+M,Capitol Hill,1611 Boylston Ave,Seattle,Washington,1923,1,No visible,C,2,SIM,67,-122.323440398119,47.6156589621827
+M,Ballard,5335 Ballard Ave NW,Seattle,Washington,1909,2,Permit,C/R,2,PR,68,-122.384219954797,47.6672157563756
+M,Ballard,5337 Ballard Ave NW,Seattle,Washington,1900,1,No visible,C,2,Ph,69,-122.384270071807,47.6672658734512
+M,Capitol Hill,1617 Boylston Ave,Seattle,Washington,1921,2,No visible,C/O,2,GSV,70,-122.323449721734,47.6158291282602
+M,Capitol Hill,1617 Yale Ave,Seattle,Washington,1925,6,Permit,R,3,GSV,71,-122.328098983029,47.6158955628156
+M,Ballard,5344 Ballard Ave NW,Seattle,Washington,1900,1,No visible,C,2,WC,72,-122.384408768992,47.6674628464493
+M,Capitol Hill,1619 Belmont Ave,Seattle,Washington,1928,3,No visible,R,2,GSV,73,-122.324499855894,47.6158384525622
+M,Ballard,5345 Ballard Ave NW,Seattle,Washington,1901,2,No visible,C/R,2,Field,74,-122.384469376527,47.6674255497724
+M,Capitol Hill,1620 13th Ave,Seattle,Washington,1908,3,No visible,R,2,GSV,75,-122.31550903144,47.615939852876
+M,Ballard,5348 Ballard Ave NW,Seattle,Washington,1900,2,No visible,C/O,3,Field,76,-122.38452881805,47.6675630812877
+M,Capitol Hill,1620 14th Ave,Seattle,Washington,1919,2,No visible,R,2,GSV,77,-122.314198986821,47.6159305285921
+M,Ballard,5354 Ballard Ave NW,Seattle,Washington,1903,1,Visible,C,2,Field,78,-122.384559120919,47.6675828953253
+M,Capitol Hill,1621 12th Ave,Seattle,Washington,1917,1,Sub Alt,C/O,3,Ph,79,-122.316900662851,47.6156589621827
+M,Ballard,5400 22nd Ave NW,Seattle,Washington,1901,1,No visible,C,2,GSV,80,-122.38475842564,47.6677985165521
+H,Capitol Hill,1625 Broadway,Seattle,Washington,1910,2,No visible,P,3,PR,81,-122.320841257592,47.6155118454599
+M,Capitol Hill,1626 13th Ave,Seattle,Washington,1908,3,Sub Alt,R,2,PR,82,-122.31550903144,47.6161006943915
+M,Ballard,5403 Ballard Ave NW,Seattle,Washington,1901,2,No visible,C/R,3,GSV,83,-122.384813204906,47.6676330126533
+M,Capitol Hill,1628 Bellevue Ave,Seattle,Washington,1916,4,No visible,R,2,GSV,84,-122.326738820502,47.6160587358356
+M,Ballard,5405 Leary Ave NW,Seattle,Washington,1904,2,Sub Alt,C/O,3,Field,85,-122.382619695052,47.6670257763846
+M,Capitol Hill,1629 Harvard Ave,Seattle,Washington,1940,6,No visible,R,3,GSV,86,-122.322180470509,47.6161997634404
+H,Ballard,5414 Ballard Ave NW,Seattle,Washington,1908,2,No visible,P,3,PR,87,-122.385202488037,47.6679337168205
+M,Capitol Hill,1630 Boylston Ave,Seattle,Washington,1917,4,No visible,R,2,Field,88,-122.323368135841,47.6162195775909
+M,Ballard,5419 Ballard Ave NW,Seattle,Washington,1913,1,No visible,C,2,Ph,89,-122.385385474861,47.6679838344166
+M,Capitol Hill,1631 Belmont Ave,Seattle,Washington,1928,3,No visible,R,2,Ph,90,-122.324510345522,47.6161787842064
+M,Ballard,5424 Ballard Ave NW,Seattle,Washington,1906,2,No visible,C/O,3,GSV,91,-122.385723475868,47.668274048628
+M,Capitol Hill,1633 Melrose Ave,Seattle,Washington,1916,5,Permit,R,2,PR,92,-122.327920658462,47.6162708602426
+M,Ballard,5425 Ballard Ave NW,Seattle,Washington,1926,2,No visible,C/R,2,Field,93,-122.385496199406,47.6680537652184
+H,Capitol Hill,1727 Harvard Ave,Seattle,Washington,1923,3,No visible,P,3,Field,94,-122.322209608264,47.6172976841134
+M,Ballard,5425 Russell Ave NW,Seattle,Washington,1910,3,Visible,C/O,3,GSV,95,-122.382849302642,47.6683952631798
+M,Capitol Hill,1736 Belmont Ave,Seattle,Washington,1923,7,No visible,R,3,GSV,96,-122.324439249257,47.6174795050169
+M,Ballard,5429 Ballard Ave NW,Seattle,Washington,1923,1,No visible,C,2,Field,97,-122.385675689986,47.6681738139451
+M,Capitol Hill,1736 Summit Ave,Seattle,Washington,1925,4,No visible,R,2,GSV,98,-122.325498707032,47.617450367331
+M,Ballard,5443 Ballard Ave NW,Seattle,Washington,1906,2,Visible,Mixed,2,Field,99,-122.386067304246,47.6684348906156
+M,Capitol Hill,1743 Summit Ave,Seattle,Washington,1916,4,No visible,C/R,2,GSV,100,-122.325580293822,47.6175785744811
+M,Ballard,5449 Ballard Ave NW,Seattle,Washington,1920,2,Sub Alt,P,2,Field,101,-122.386127911782,47.6684745180213
+M,Capitol Hill,1815 15th Ave,Seattle,Washington,1929,2,No visible,R,2,GSV,102,-122.312789872398,47.6181811485989
+M,Capitol Hill,1819 Bellevue Ave,Seattle,Washington,1929,4,No visible,R,2,GSV,103,-122.326779613897,47.618371128281
+M,Ballard,5463 Leary Ave NW,Seattle,Washington,1950,1,No visible,C,2,Field,104,-122.38413137552,47.6683264973539
+M,Capitol Hill,1820 Boylston Ave,Seattle,Washington,1920,3,No visible,R,2,Ph,105,-122.323378625469,47.6182196103605
+M,Capitol Hill,1833 13th Ave,Seattle,Washington,1928,4,No visible,R,2,GSV,106,-122.315630245613,47.6184981699657
+C,Ballard,5800 15th Ave NW,Seattle,Washington,1922,3,Permit,S,3,PR,107,-122.376198843726,47.6711890150362
+M,Capitol Hill,209 Broadway E,Seattle,Washington,1908,1,No visible,C,2,Field,108,-122.320949680654,47.6203385264421
+M,Ballard,5814 22nd Ave NW,Seattle,Washington,1928,4,No visible,R,2,Field,109,-122.384708307732,47.6713999744546
+M,Capitol Hill,212 11th Ave E,Seattle,Washington,1929,3,No visible,R,2,GSV,110,-122.318179238588,47.6204096230662
+M,Ballard,923 NW 54th St,Seattle,Washington,,1,No visible,G,1,PR,111,-122.369139152792,47.6678721789334
+M,Capitol Hill,214 Summit Ave E,Seattle,Washington,1917,4,No visible,R,2,SIM,112,-122.325228306046,47.6201800158262
+M,Capitol Hill,215 13th Ave E,Seattle,Washington,1909,3,No visible,R,2,Field,113,-122.315669873894,47.6204492511966
+C,Beacon Hill,5117 13th Ave S,Seattle,Washington,1919,3,Permit,S,3,GSV,114,-122.316150068329,47.5558596079564
+M,Capitol Hill,219 Broadway E,Seattle,Washington,1918,2,No visible,C,2,Field,115,-122.320949680654,47.6206182512395
+M,Capitol Hill,221 Belmont Ave E,Seattle,Washington,1928,3,No visible,R,2,GSV,116,-122.324030151087,47.6203699955111
+M,Beacon Hill,5710 Airport Way S,Seattle,Washington,1914,2,No visible,C,3,GSV,117,-122.318802077406,47.5512001324186
+M,Capitol Hill,222 Summit Ave E,Seattle,Washington,1927,4,No visible,R,2,SIM,118,-122.325228306046,47.6203501817223
+H,Beacon Hill,5840 Airport Way S,Seattle,Washington,1903,4,No visible,C,2,GSV,119,-122.318561635235,47.5509576351346
+M,Capitol Hill,223 14th Ave E,Seattle,Washington,1926,3,No visible,R,2,GSV,120,-122.314350504761,47.620619416822
+M,Beacon Hill,5900 Airport Way S,Seattle,Washington,1901,3,Sub Alt,C/O,2,GSV,121,-122.318450661856,47.5508457131659
+M,Capitol Hill,225 Broadway E,Seattle,Washington,1940,2,No visible,C,2,Field,122,-122.320949680654,47.6206683688396
+M,Capitol Hill,300 Broadway E,Seattle,Washington,1909,1,No visible,C,3,GSV,123,-122.320878584389,47.6212499634505
+M,Capitol Hill,300 E Pike St,Seattle,Washington,1910,2,No visible,C/O,3,GSV,124,-122.327487084794,47.6140563719157
+M,Beacon Hill,5919 Airport Way S,Seattle,Washington,1900,2,No visible,R,2,GSV,125,-122.317383188414,47.5496765227404
+M,Capitol Hill,303 Harvard Ave E,Seattle,Washington,1949,3,No visible,R,2,GSV,126,-122.322157160126,47.6212196598748
+M,Beacon Hill,6010 Airport Way S,Seattle,Washington,1910,2,No visible,O,2,GSV,127,-122.31658713824,47.5489818723153
+M,Capitol Hill,305 Bellevue Ave E,Seattle,Washington,1908,5,Visible,R,3,GSV,128,-122.326600123317,47.6211578871001
+M,Belltown,11 Vine St,Seattle,Washington,1911,3,Sub Alt,C/O,3,Ph,129,-122.351202835568,47.6140425914861
+M,Capitol Hill,309 Belmont Ave E,Seattle,Washington,1928,3,No visible,R,2,GSV,130,-122.324030151087,47.6211590526706
+H,Capitol Hill,309 E Harrison St,Seattle,Washington,1928,6,No visible,R,2,GSV,131,-122.327548857444,47.621931792894
+M,Belltown,112 Stewart St,Seattle,Washington,1909,8,Sub Alt,C/R,3,Ph,132,-122.341286393334,47.6103798745229
+M,Belltown,115 Blanchard St,Seattle,Washington,1910,4,Visible,C/R,3,GSV,133,-122.344540978829,47.6131053072473
+M,Belltown,1617 Post Al,Seattle,Washington,1908,3,No visible,C/R,3,PR,134,-122.341644661232,47.6097276287354
+M,Belltown,1901 3rd Ave,Seattle,Washington,1916,2,No visible,C,3,GSV,135,-122.33984626278,47.6116938617393
+M,Belltown,1902 Post Al,Seattle,Washington,1925,2,Visible,C,3,GSV,136,-122.341904571692,47.6100947679233
+M,Belltown,1907 1st Ave,Seattle,Washington,1914,6,No visible,C/R,3,GSV,137,-122.341674964102,47.6104840518698
+M,Belltown,1914 Post Al,Seattle,Washington,1910,5,No visible,C/O,3,GSV,138,-122.342124855667,47.6102253059627
+M,Belltown,1918 1st Ave,Seattle,Washington,1909,6,No visible,C/R,3,Ph,139,-122.341834640542,47.6106448938152
+M,Belltown,1920 Post Al,Seattle,Washington,1910,5,Permit,C/O,3,Field,140,-122.342231709372,47.6102884464193
+M,Belltown,1921 2nd Ave,Seattle,Washington,1917,1,No visible,C,2,GSV,141,-122.341325308352,47.6113943228837
+M,Belltown,1921 3rd Ave,Seattle,Washington,1910,6,Permit,Mixed,3,GSV,142,-122.340385898737,47.6120446832531
+M,Belltown,1924 1st Ave,Seattle,Washington,1909,5,Visible,C/O,3,GSV,143,-122.34216448305,47.6108453628025
+M,Belltown,1924 Post Al,Seattle,Washington,1906,5,Visible,C/R,2,Ph,144,-122.342514138799,47.6104549139194
+M,Belltown,1929 3rd Ave,Seattle,Washington,1914,3,Sub Alt,C/O,3,GSV,145,-122.340536250665,47.6121344283642
+M,Belltown,1930 Post Al,Seattle,Washington,1901,5,Visible,Mixed,3,GSV,146,-122.342725098262,47.6105749624374
+M,Belltown,2019 3rd Ave,Seattle,Washington,1918,2,Permit,O,2,GSV,147,-122.341684288614,47.6128337406994
+M,Belltown,2001 3rd Ave,Seattle,Washington,1919,2,No visible,C/O,3,GSV,148,-122.341124838517,47.6125038985341
+M,Belltown,2025 3rd Ave,Seattle,Washington,1923,1,No visible,C,2,GSV,149,-122.341793847147,47.612894347865
+M,Belltown,2030 1st Ave,Seattle,Washington,1918,3,Visible,C/O,3,GSV,150,-122.343624879597,47.6116950275207
+M,Belltown,2006 2nd Ave,Seattle,Washington,1917,1,No visible,C,2,GSV,151,-122.342153993422,47.6119549385936
+M,Belltown,2031 3rd Ave,Seattle,Washington,1919,2,Permit,O,2,GSV,152,-122.341974502842,47.6130039068871
+M,Belltown,2012 2nd Ave,Seattle,Washington,1924,1,Visible,C,2,GSV,153,-122.342059527485,47.6119042954602
+M,Belltown,2100 1st Ave,Seattle,Washington,1920,1,Permit,C/O,3,GSV,154,-122.344223957077,47.6120446832531
+M,Belltown,2101 1st Ave,Seattle,Washington,1901,5,Visible,C/R,3,GSV,155,-122.344004840013,47.6118442140183
+M,Belltown,2018 1st Ave,Seattle,Washington,1908,3,Permit,C/O,2,Ph,156,-122.343204126684,47.6114549305064
+M,Belltown,2101 3rd Ave,Seattle,Washington,1926,1,Permit,C,1,Ph,157,-122.342454697277,47.6132836315627
+M,Belltown,2106 2nd Ave,Seattle,Washington,1919,2,No visible,O,2,GSV,158,-122.343553783332,47.6127952786095
+M,Belltown,2110 Western Ave,Seattle,Washington,1923,2,Visible,C/O,3,GSV,159,-122.345154043077,47.6114549305064
+M,Belltown,2111 3rd Ave,Seattle,Washington,1923,2,Permit,C/O,3,GSV,160,-122.342584069949,47.613364052834
+M,Belltown,2112 1st Ave,Seattle,Washington,1904,2,Visible,C,3,GSV,161,-122.344404612772,47.6121554080096
+M,Belltown,2114 Western Ave,Seattle,Washington,1902,2,No visible,C,2,GSV,162,-122.345274091237,47.6115353509564
+M,Belltown,2119 2nd Ave,Seattle,Washington,1909,4,Visible,Mixed,2,GSV,163,-122.343795045665,47.612864044291
+M,Belltown,2121 1st Ave,Seattle,Washington,1926,1,No visible,C,3,GSV,164,-122.344675013757,47.6122439877671
+M,Belltown,2132 2nd Ave,Seattle,Washington,1918,6,No visible,R,2,GSV,165,-122.344184329695,47.6131647483496
+M,Belltown,2133 3rd Ave,Seattle,Washington,1928,2,No visible,O,2,GSV,166,-122.343324175742,47.613794129523
+M,Belltown,2136 1st Ave,Seattle,Washington,1925,1,No visible,C,3,Field,167,-122.345003690252,47.612514387981
+M,Belltown,2137 2nd Ave,Seattle,Washington,1927,2,No visible,C/O,2,PR,168,-122.344194819322,47.6131134656796
+M,Belltown,2200 Western Ave,Seattle,Washington,1909,5,Sub Alt,C,3,GSV,169,-122.346314900885,47.6121449184907
+M,Belltown,2201 1st Ave,Seattle,Washington,1900,4,Visible,C/R,3,GSV,170,-122.345354512015,47.6126542509067
+M,Belltown,2204 1st Ave,Seattle,Washington,1910,4,Permit,C/R,2,GSV,171,-122.345334698773,47.6127148576747
+M,Belltown,2205 2nd Ave,Seattle,Washington,1923,6,No visible,C/R,3,GSV,172,-122.344535151457,47.6133139354992
+M,Capitol Hill,315 12th Ave E,Seattle,Washington,1928,3,No visible,R,2,GSV,173,-122.316820242074,47.6216602267742
+M,Capitol Hill,315 Summit Ave E,Seattle,Washington,1930,3,No visible,R,2,GSV,174,-122.325320382465,47.6213187289124
+M,Belltown,2209 1st Ave,Seattle,Washington,1910,4,Visible,C/R,3,GSV,175,-122.345564305464,47.6127742992208
+M,Capitol Hill,321 Broadway E,Seattle,Washington,1910,4,No visible,C/R,2,Field,176,-122.320970659909,47.6216695506417
+M,Belltown,2212 1st Ave,Seattle,Washington,1909,3,Visible,C/R,3,GSV,177,-122.345704168663,47.6129351413895
+M,Belltown,2218 1st Ave,Seattle,Washington,1920,1,Permit,C,3,GSV,178,-122.345933776253,47.6130750037955
+M,Capitol Hill,325 Harvard Ave E,Seattle,Washington,1928,5,No visible,R,2,GSV,179,-122.322089560104,47.6218280615854
+H,Belltown,2220 Western Ave,Seattle,Washington,1913,2,Permit,P,3,GSV,180,-122.346404751278,47.6121943144711
+M,Belltown,2221 3rd Ave,Seattle,Washington,1914,1,Permit,C,2,PR,181,-122.344254260844,47.6143442552576
+M,Capitol Hill,325 Summit Ave E,Seattle,Washington,1929,4,No visible,R,2,GSV,182,-122.325329706977,47.6216695506417
+H,Belltown,2222 2nd Ave,Seattle,Washington,1923,2,No visible,P,3,GSV,183,-122.345094601555,47.6137253638535
+M,Capitol Hill,333 Summit Ave E,Seattle,Washington,1929,4,No visible,R,2,GSV,184,-122.325329706977,47.6217989232954
+M,Belltown,2224 2nd Ave,Seattle,Washington,1911,3,No visible,C/R,3,GSV,185,-122.345223974227,47.6138046193167
+M,Capitol Hill,400 Boylston Ave E,Seattle,Washington,1931,4,No visible,R,2,Ph,186,-122.323018479193,47.6221194417755
+M,Belltown,2231 2nd Ave,Seattle,Washington,1900,2,No visible,C/O,2,Ph,187,-122.3454850507,47.6138943644354
+C,Capitol Hill,400 E Pine St,Seattle,Washington,1917,3,Visible,E,3,Field,188,-122.326449771389,47.6152370437929
+M,Belltown,2234 2nd Ave,Seattle,Washington,1924,1,No visible,C,3,Field,189,-122.345514188455,47.613974785373
+M,Capitol Hill,401 15th Ave E,Seattle,Washington,1922,1,No visible,C,2,Ph,190,-122.312669824238,47.6220996280443
+M,Belltown,2300 1st Ave,Seattle,Washington,1900,3,Permit,C/R,3,GSV,191,-122.346524694335,47.613424659385
+M,Belltown,2301 1st Ave,Seattle,Washington,1902,5,Permit,C/R,3,GSV,192,-122.34666339152,47.6134339841158
+M,Capitol Hill,401 E Pine St,Seattle,Washington,1910,2,No visible,C,2,GSV,193,-122.326689868607,47.6151822642276
+M,Capitol Hill,405 E Olive St,Seattle,Washington,1923,4,No visible,R,2,GSV,194,-122.326439281762,47.6163116535553
+M,Belltown,2303 Western Ave,Seattle,Washington,1908,3,Permit,Mixed,2,GSV,195,-122.347634270017,47.6128337406994
+M,Capitol Hill,417 13th Ave E,Seattle,Washington,1910,4,No visible,R,2,GSV,196,-122.315739805044,47.6224306357713
+M,Belltown,2320 1st Ave,Seattle,Washington,1888,4,No visible,Mixed,2,GSV,197,-122.347155241595,47.6137754813996
+M,Capitol Hill,417 E Union St,Seattle,Washington,1930,3,No visible,R,2,GSV,198,-122.325899645804,47.6129619482686
+M,Belltown,2327 2nd Ave,Seattle,Washington,1924,3,No visible,R,3,GSV,199,-122.346644743393,47.6145738626919
+M,Capitol Hill,420 Broadway E,Seattle,Washington,1930,1,No visible,C,3,Field,200,-122.320898397631,47.622610125913
+M,Belltown,2401 1st Ave,Seattle,Washington,1900,4,Permit,C,3,GSV,201,-122.34803520879,47.6142335308966
+M,Capitol Hill,421 E Pike St,Seattle,Washington,1920,2,Permit,C,2,GSV,202,-122.325749293877,47.6140517096061
+M,Belltown,2407 1st Ave,Seattle,Washington,,2,No visible,C,2,Ph,203,-122.348225188998,47.6143442552576
+H,Capitol Hill,500 Broadway E,Seattle,Washington,1906,1,Permit,P,3,PR,204,-122.320908888157,47.6233688796273
+M,Belltown,2408 2nd Ave,Seattle,Washington,1923,3,Visible,R,3,GSV,205,-122.347103958573,47.6149246842634
+M,Capitol Hill,500 E Pike St,Seattle,Washington,1924,2,Permit,C,2,GSV-R,206,-122.325299403209,47.6141064891446
+M,Capitol Hill,501 E Pine St,Seattle,Washington,1912,3,No visible,C/O,3,GSV,207,-122.325208492804,47.6151717747104
+M,Belltown,2420 2nd Ave,Seattle,Washington,1928,1,No visible,O,2,GSV,208,-122.3476738974,47.6152743402019
+M,Capitol Hill,504 E Denny Way,Seattle,Washington,1914,4,No visible,R,2,GSV,209,-122.324899629552,47.6185168182216
+M,Belltown,2423 1st Ave,Seattle,Washington,1909,3,No visible,C/R,2,GSV,210,-122.348614473028,47.6145738626919
+M,Capitol Hill,505 Boylston Ave E,Seattle,Washington,1930,5,No visible,R,2,Ph,211,-122.323080251844,47.6233805348374
+C,Belltown,2501 Elliott Ave,Seattle,Washington,1910,4,Sub Alt,S,3,PR,212,-122.350704250823,47.6134841013355
+M,Capitol Hill,512 E Pike St,Seattle,Washington,1926,1,No visible,C,2,PR,213,-122.324879815412,47.6141064891446
+M,Belltown,2515 Western Ave,Seattle,Washington,1917,2,No visible,Mixed,3,SIM,214,-122.349924517648,47.6141939028995
+M,Capitol Hill,516 Bellevue Ave E,Seattle,Washington,1928,4,No visible,R,2,Field,215,-122.326538351564,47.6236194666773
+M,Belltown,2604 1st Ave,Seattle,Washington,1903,3,No visible,C/R,3,GSV,216,-122.349904703507,47.615404878635
+M,Capitol Hill,516 E Union St,Seattle,Washington,1924,3,No visible,R,2,Field,217,-122.324679346474,47.6130074035381
+H,Belltown,2800 1st Ave,Seattle,Washington,1942,3,No visible,P,3,GSV,218,-122.352003805815,47.6166543164891
+M,Capitol Hill,517 E Pike St,Seattle,Washington,1910,2,Permit,C,3,Ph,219,-122.324809884262,47.6140517096061
+M,Belltown,2819 Elliott Ave,Seattle,Washington,1902,2,No visible,C/O,3,GSV,220,-122.353804535396,47.6152941540976
+H,Capitol Hill,601 Broadway E,Seattle,Washington,1931,1,Permit,P,3,Field,221,-122.320999798562,47.6243875442608
+H,Belltown,2905 1st Ave,Seattle,Washington,1924,5,Permit,R,2,GSV,222,-122.352904753163,47.6171240215953
+M,Capitol Hill,605 E Denny Way,Seattle,Washington,1927,4,No visible,R,2,GSV,223,-122.323689818951,47.6184515489943
+M,Belltown,2933 2nd Ave,Seattle,Washington,1925,3,No visible,R,2,GSV,224,-122.352774215376,47.618213782786
+M,Capitol Hill,611 E Pine St,Seattle,Washington,1916,2,No visible,C,2,Field,225,-122.323879799159,47.6151915886449
+M,Capitol Hill,615 Broadway E,Seattle,Washington,1931,1,No visible,P,2,Field,226,-122.321010288189,47.6248094626765
+M,Capitol Hill,616 E Thomas St,Seattle,Washington,1927,3,No visible,R,2,GSV,227,-122.323293542435,47.6210867908882
+M,Capitol Hill,619 E Pine St,Seattle,Washington,1917,3,No visible,C,3,Ph,228,-122.323718957604,47.6151915886449
+M,Capitol Hill,713 E Pike St,Seattle,Washington,1911,3,No visible,Mixed,2,Ph,229,-122.322699127212,47.6140423855911
+H,Capitol Hill,722 E Union St,Seattle,Washington,1912,3,No visible,P,3,PR,230,-122.322480009249,47.6130167277376
+M,Capitol Hill,725 E Denny Way,Seattle,Washington,1926,3,No visible,C/R,2,GSV,231,-122.322389098844,47.6187021359999
+H,Capitol Hill,801 E Pine St,Seattle,Washington,1915,3,Permit,P,3,Field,232,-122.321769042109,47.6152020781582
+H,Capitol Hill,807 E Roy St,Seattle,Washington,1925,3,No visible,P,3,Ph,233,-122.321769042109,47.625091518735
+M,Capitol Hill,814 E Pike St,Seattle,Washington,1912,2,Sub Alt,C/O,3,GSV,234,-122.321269033534,47.6140971651394
+M,Belltown,3016 1st Ave,Seattle,Washington,1910,4,Permit,R,2,PR,235,-122.354445571386,47.6180948998819
+H,Capitol Hill,900 E Pine St,Seattle,Washington,1925,2,No visible,P,3,Field,236,-122.320399555069,47.6152766716051
+M,Belltown,3025 1st Ave,Seattle,Washington,1925,1,No visible,C,3,GSV,237,-122.354783572393,47.6182032932714
+M,Capitol Hill,905 E Pike St,Seattle,Washington,1912,3,No visible,C/O,3,PR,238,-122.320338948431,47.614062199348
+M,Capitol Hill,906 E John St,Seattle,Washington,1924,6,Visible,C/R,3,GSV,239,-122.320390231454,47.6199364222242
+M,Capitol Hill,907 E Pine St,Seattle,Washington,1912,2,Visible,P,2,GSV,240,-122.320419369209,47.615211402572
+M,Capitol Hill,910 E Pike St,Seattle,Washington,1908,3,No visible,C/R,3,PR,241,-122.320080203087,47.6141169788755
+M,Capitol Hill,913 E Pike St,Seattle,Washington,1912,3,No visible,C/O,3,Ph,242,-122.319869243624,47.6140715233595
+M,Capitol Hill,914 E Harrison St,Seattle,Washington,1914,4,Visible,R,2,GSV,243,-122.320229389001,47.6220063864279
+M,Capitol Hill,915 E Harrison St,Seattle,Washington,1928,5,No visible,R,2,GSV,244,-122.320279506909,47.6219516066888
+M,Capitol Hill,915 E Pine St,Seattle,Washington,1908,4,No visible,C/O,3,GSV,245,-122.319869243624,47.6152218920813
+H,Capitol Hill,925 E Pike St,Seattle,Washington,1916,1,Sub Alt,P,3,PR,246,-122.319778333219,47.6140715233595
+M,Cascade/Eastlake,1017 Boren Ave,Seattle,Washington,1925,5,No visible,R,3,GSV,247,-122.325642065575,47.609846511889
+H,Cascade/Eastlake,1027 Bellevue Court E,Seattle,Washington,1910,4,Permit,R,2,Ph,248,-122.327083814893,47.6274773388207
+M,Cascade/Eastlake,1114 Howell St,Seattle,Washington,1930,1,Permit,C,2,GSV,249,-122.330889238337,47.6166240132772
+M,Cascade/Eastlake,112 5th Ave N,Seattle,Washington,1905,2,No visible,O,2,GSV,250,-122.347578324738,47.6190482952581
+M,Cascade/Eastlake,1124 Eastlake Ave E,Seattle,Washington,1917,2,No visible,O,2,GSV,251,-122.328717874649,47.6295263235701
+M,Cascade/Eastlake,117 Yale Ave N,Seattle,Washington,1927,2,No visible,C,2,WC,252,-122.330449837297,47.6192091375055
+M,Cascade/Eastlake,1200 Stewart St,Seattle,Washington,1906,1,No visible,C/O,2,GSV,253,-122.331647992257,47.6178140092604
+M,Cascade/Eastlake,1255 Westlake Ave N,Seattle,Washington,1920,2,No visible,C,2,GSV,254,-122.341030431869,47.6313095701718
+M,Cascade/Eastlake,1265 Republican St,Seattle,Washington,1906,2,Sub Alt,C,3,Field,255,-122.330839121327,47.6231124649529
+C,Cascade/Eastlake,1275 Mercer St,Seattle,Washington,1928,1,Sub Alt,S,3,PR,256,-122.330819307187,47.6242523438465
+M,Cascade/Eastlake,1287 Westlake Ave N,Seattle,Washington,1920,1,No visible,O,2,Ph,257,-122.341009452613,47.6321417511945
+M,Cascade/Eastlake,133 Dexter Ave N,Seattle,Washington,1931,1,No visible,O,2,GSV,258,-122.342430221779,47.6195389797621
+M,Cascade/Eastlake,133 Pontius Ave N,Seattle,Washington,1916,4,Visible,R,2,GSV,259,-122.332259890492,47.6194981865452
+C,Cascade/Eastlake,1501 10th Ave E,Seattle,Washington,1930,3,Permit,S,3,PR,260,-122.320140809724,47.6326569115276
+M,Cascade/Eastlake,1809 Minor Ave,Seattle,Washington,1917,2,Sub Alt,C/R,2,Ph,261,-122.330933528874,47.6170237868184
+M,Cascade/Eastlake,1814 Minor Ave,Seattle,Washington,1905,3,Permit,R,2,PR,262,-122.330934693988,47.6170948831057
+H,Cascade/Eastlake,1828 Yale Ave,Seattle,Washington,1922,1,Permit,P,3,GSV,263,-122.330594361853,47.618064596294
+M,Cascade/Eastlake,1925 5th Ave,Seattle,Washington,1928,2,No visible,C/O,2,SIM,264,-122.338913846549,47.613503915304
+M,Cascade/Eastlake,1932 9th Ave,Seattle,Washington,1917,1,No visible,C,2,GSV,265,-122.335503533608,47.6162953364763
+M,Cascade/Eastlake,1933 5th Ave,Seattle,Washington,1923,3,No visible,C/O,3,PR,266,-122.339084012617,47.6136041495614
+M,Cascade/Eastlake,2008 Westlake Ave,Seattle,Washington,1907,3,Visible,C/R,2,GSV,267,-122.337820588763,47.6154072100324
+M,Cascade/Eastlake,2014 4th Ave,Seattle,Washington,1917,4,No visible,R,2,Ph,268,-122.340655133709,47.6134351492528
+M,Cascade/Eastlake,2021 4th Ave,Seattle,Washington,1915,5,No visible,R,2,GSV,269,-122.340813645034,47.6134537974976
+M,Cascade/Eastlake,2022 Boren Ave,Seattle,Washington,1929,1,No visible,C,3,GSV,270,-122.334743614574,47.6181846449037
+M,Cascade/Eastlake,2027 5th Ave,Seattle,Washington,1920,1,Permit,O,2,GSV,271,-122.340194753414,47.6142533445811
+M,Cascade/Eastlake,2035 4th Ave,Seattle,Washington,1926,2,No visible,C,2,PR,272,-122.341184280039,47.6136740811277
+M,Cascade/Eastlake,2045 Westlake Ave,Seattle,Washington,1909,3,Visible,C/R,3,Field,273,-122.337988423703,47.6158920663578
+H,Cascade/Eastlake,2100 5th Ave,Seattle,Washington,1927,2,Sub Alt,P,3,PR,274,-122.340684272362,47.6146845869378
+M,Cascade/Eastlake,2118 3rd Ave,Seattle,Washington,1914,2,Permit,O,2,PR,275,-122.342834656794,47.6135750115326
+M,Cascade/Eastlake,2121 Westlake Ave,Seattle,Washington,1925,4,Sub Alt,C/O,3,PR,276,-122.338318265312,47.617450367331
+M,Cascade/Eastlake,2127 5th Ave,Seattle,Washington,1924,1,Permit,O,2,PR,277,-122.341494308407,47.6150237537237
+M,Cascade/Eastlake,2132 3rd Ave,Seattle,Washington,1919,2,No visible,O,2,GSV,278,-122.343304361602,47.6138454127367
+M,Cascade/Eastlake,2132 5th Ave,Seattle,Washington,1922,4,No visible,R,2,GSV,279,-122.341574729184,47.6151950851496
+M,Cascade/Eastlake,2200 4th Ave,Seattle,Washington,1923,1,Visible,Mixed,2,GSV-R,280,-122.342824167167,47.614725380277
+M,Cascade/Eastlake,2211 5th Ave,Seattle,Washington,1913,2,No visible,C/O,3,GSV,281,-122.3422344142,47.6154538306906
+M,Cascade/Eastlake,2212 4th Ave,Seattle,Washington,1924,1,No visible,O,2,Ph,282,-122.34319480307,47.6149444982916
+M,Cascade/Eastlake,2218 4th Ave,Seattle,Washington,1924,1,Permit,C,3,GSV-R,283,-122.343374292752,47.6150447328156
+M,Cascade/Eastlake,2226 3rd Ave,Seattle,Washington,1929,2,Visible,O,2,Ph,284,-122.344413937285,47.6145050968365
+M,Cascade/Eastlake,2230 4th Ave,Seattle,Washington,1922,4,No visible,R,3,GSV,285,-122.343674997505,47.6152253885839
+M,Cascade/Eastlake,227 9th Ave N,Seattle,Washington,1931,1,No visible,C,2,GSV,286,-122.339840435408,47.620529671741
+M,Cascade/Eastlake,228 9th Ave N,Seattle,Washington,1928,1,No visible,O,2,GSV,287,-122.339758848618,47.6204690649479
+M,Cascade/Eastlake,2302 4th Ave,Seattle,Washington,1918,4,No visible,R,2,GSV,288,-122.344064281535,47.6154549963882
+M,Cascade/Eastlake,2315 4th Ave,Seattle,Washington,1923,1,No visible,C,3,Field,289,-122.344584103352,47.6156939281174
+M,Cascade/Eastlake,2321 4th Ave,Seattle,Washington,1918,4,No visible,R,2,GSV,290,-122.344704151512,47.6157638593112
+M,Cascade/Eastlake,2329 4th Ave,Seattle,Washington,1946,1,No visible,C,2,Ph,291,-122.344934925115,47.6158943971279
+M,Cascade/Eastlake,2330 3rd Ave,Seattle,Washington,1918,1,No visible,C/O,3,GSV,292,-122.345844030962,47.6153745753047
+M,Cascade/Eastlake,2331 7th Ave,Seattle,Washington,1936,1,No visible,C,2,Ph,293,-122.342533952939,47.6179736854248
+M,Cascade/Eastlake,234 Dexter Ave N,Seattle,Washington,1933,1,No visible,O,2,GSV,294,-122.342328820848,47.6207091617489
+M,Cascade/Eastlake,234 Fairview Ave N,Seattle,Washington,1926,1,No visible,C,2,GSV,295,-122.334278572022,47.6206893480886
+M,Cascade/Eastlake,2600 3rd Ave,Seattle,Washington,1911,2,No visible,O,2,GSV,296,-122.348154091835,47.6167149234655
+M,Belltown,81 Vine St,Seattle,Washington,1914,6,Permit,C/R,3,GSV,297,-122.350240373386,47.6148046360412
+M,Cascade/Eastlake,2602 4th Ave,Seattle,Washington,1923,4,Permit,R,2,GSV,298,-122.34723449636,47.6173349802637
+M,Belltown,87 Wall St,Seattle,Washington,1912,2,No visible,O,2,GSV,299,-122.349281150529,47.6142754897059
+M,Cascade/Eastlake,305 Bell St,Seattle,Washington,1925,1,No visible,C,2,GSV,300,-122.344510675061,47.6149048708333
+M,Broadview/Bitter Lake,12431 Greenwood Ave N,Seattle,Washington,1929,1,No visible,C,2,GSV,301,-122.355620415962,47.719459042061
+M,Cascade/Eastlake,308 Bell St,Seattle,Washington,1916,4,No visible,R,2,GSV,302,-122.344598089223,47.6149141946945
+C,Broadview/Bitter Lake,415 N 117th St,Seattle,Washington,1938,2,Permit,S,3,PR,303,-122.353520147642,47.714122124112
+M,Cascade/Eastlake,310 Terry Ave N,Seattle,Washington,1915,2,Sub Alt,C,3,PR,304,-122.337149249005,47.6214900609036
+C,Capitol Hill,1002 E Seneca St,Seattle,Washington,1922,1,Sub Alt,S,3,Ph,305,-122.318968296276,47.6122066910135
+M,Capitol Hill,1020 E Denny Way,Seattle,Washington,1907,3,No visible,R,2,PR,306,-122.318519570723,47.6187674049144
+M,Capitol Hill,105 Harvard Ave E,Seattle,Washington,1928,5,No visible,R,3,GSV,307,-122.322230587519,47.6189189224584
+M,Capitol Hill,1100 E Pike St,Seattle,Washington,1912,3,Visible,C/O,2,GSV,308,-122.318088715357,47.614144757698
+M,Capitol Hill,1101 E Pike St,Seattle,Washington,1911,3,Permit,C/O,3,Ph,309,-122.317858720593,47.6140925028333
+M,Capitol Hill,1107 E Denny Way,Seattle,Washington,1910,3,No visible,R,2,Field,310,-122.317768976201,47.6187114603951
+M,Capitol Hill,111 Broadway E,Seattle,Washington,1927,1,Visible,C,2,GSV,311,-122.320920542899,47.6190785988814
+C,Capitol Hill,1115 Harvard Ave,Seattle,Washington,1910,2,No visible,S,3,GSV,312,-122.321644330795,47.6121880423239
+M,Capitol Hill,1134 Broadway,Seattle,Washington,1927,1,No visible,C,3,GSV,313,-122.320758535331,47.6122789529574
+M,Capitol Hill,115 Belmont Ave E,Seattle,Washington,1926,1,No visible,C,3,Ph,314,-122.324040640714,47.6189993435401
+M,Capitol Hill,1201 Pine St,Seattle,Washington,1912,1,No visible,C,2,Field,315,-122.328597825592,47.6149526570425
+H,Capitol Hill,1213 E Pine St,Seattle,Washington,1927,1,No visible,P,3,PR,316,-122.315939108866,47.6152323815885
+M,Capitol Hill,1215 Seneca St,Seattle,Washington,1928,5,Permit,C/R,3,PR,317,-122.324649042707,47.6114829027192
+M,Capitol Hill,1222 Summit Ave,Seattle,Washington,1916,4,No visible,R,2,Ph,318,-122.324565124788,47.6121111183774
+M,Capitol Hill,1224 Madison St,Seattle,Washington,1924,1,Visible,C,2,Ph,319,-122.323251583925,47.6101751886479
+M,Capitol Hill,1305 E Denny Way,Seattle,Washington,1922,3,No visible,R,2,Field,320,-122.315268934223,47.6187417636081
+M,Capitol Hill,1305 E Madison St,Seattle,Washington,1907,4,No visible,R,2,GSV,321,-122.315268934223,47.6134328183731
+M,Capitol Hill,1319 E Madison St,Seattle,Washington,1920,2,No visible,C,2,GSV,322,-122.314828368068,47.6136227983516
+M,Capitol Hill,1325 E Madison St,Seattle,Washington,1937,1,No visible,C,3,GSV,323,-122.314767760533,47.6136426122675
+M,Capitol Hill,135 Harvard Ave E,Seattle,Washington,1927,4,No visible,R,2,GSV,324,-122.322230587519,47.6196998211054
+M,Capitol Hill,1351 E Olive Way,Seattle,Washington,1925,1,No visible,C,2,Ph,325,-122.327538367817,47.6167533857001
+M,Capitol Hill,1400 Broadway,Seattle,Washington,1911,2,No visible,C,2,GSV,326,-122.320758535331,47.6130901555236
+M,Capitol Hill,1401 12th Ave,Seattle,Washington,1913,1,No visible,C,2,Ph,327,-122.316849379828,47.6131635832066
+M,Capitol Hill,1406 Harvard Ave,Seattle,Washington,1908,2,Visible,R,2,Field,328,-122.322048766709,47.6131600865661
+M,Capitol Hill,1412 12th Ave,Seattle,Washington,1919,4,Sub Alt,C/R,3,PR,329,-122.316778283563,47.6134701148578
+M,Capitol Hill,1412 Summit Ave,Seattle,Washington,1908,5,No visible,R,2,Field,330,-122.325459079649,47.6133698803434
+M,Capitol Hill,1414 Broadway,Seattle,Washington,1907,2,No visible,C,2,Field,331,-122.320758535331,47.6133896937496
+M,Capitol Hill,1414 E Denny Way,Seattle,Washington,1915,4,No visible,R,2,GSV,332,-122.313626715967,47.6187755636743
+M,Capitol Hill,1414 Seneca St,Seattle,Washington,1918,4,No visible,R,2,GSV,333,-122.322357629961,47.6125237122684
+C,Capitol Hill,1415 Summit Ave,Seattle,Washington,1904,2,Permit,S,3,GSV,334,-122.325540665542,47.6133885286116
+M,Capitol Hill,1420 Broadway,Seattle,Washington,1904,2,Visible,C,2,GSV-R,335,-122.320769024958,47.613559859945
+M,Capitol Hill,1421 15th Ave,Seattle,Washington,1907,4,No visible,R,2,Ph,336,-122.312809686538,47.6136099776497
+M,Capitol Hill,1423 10th Ave,Seattle,Washington,1907,2,No visible,C,3,Ph,337,-122.319469469966,47.6136775777338
+M,Capitol Hill,1424 10th Ave,Seattle,Washington,1913,2,No visible,C,2,Ph,338,-122.319389049189,47.6136915635504
+M,Capitol Hill,1450 E Republican St,Seattle,Washington,1926,3,No visible,R,2,GSV,339,-122.313369136636,47.6231264512734
+H,Capitol Hill,1500 Bellevue Ave,Seattle,Washington,1910,3,No visible,P,3,Field,340,-122.326758634642,47.6143395929736
+M,Capitol Hill,1501 E Olive Way,Seattle,Washington,1916,1,No visible,C,2,SIM,341,-122.326023191105,47.6179783479902
+M,Capitol Hill,1505 10th Ave,Seattle,Washington,1910,3,Permit,C/R,3,GSV,342,-122.319490449221,47.6142684965733
+M,Capitol Hill,1505 Broadway,Seattle,Washington,1913,2,No visible,C,3,PR,343,-122.320850611749,47.6143698969037
+H,Capitol Hill,1506 11th Ave,Seattle,Washington,1916,2,No visible,P,3,Field,344,-122.318098817811,47.6143698969037
+H,Capitol Hill,1510 E Olive Way,Seattle,Washington,1924,3,No visible,P,3,Field,345,-122.325825052398,47.6183303347584
+M,Capitol Hill,1510 Melrose Ave,Seattle,Washington,1930,2,Sub Alt,C/R,2,GSV,346,-122.327868210325,47.6143780551387
+M,Capitol Hill,1511 Boylston Ave,Seattle,Washington,1907,3,No visible,R,2,SIM,347,-122.323429908492,47.6145085933871
+M,Capitol Hill,1512 Summit Ave,Seattle,Washington,1908,5,No visible,R,2,Ph,348,-122.325468403264,47.6145796900665
+M,Capitol Hill,1514 10th Ave,Seattle,Washington,1912,2,No visible,C/O,3,Ph,349,-122.319408863329,47.6143395929736
+M,Capitol Hill,1514 Broadway,Seattle,Washington,1909,1,No visible,C,2,GSV,350,-122.320769024958,47.6145598765056
+M,Cascade/Eastlake,314 Bell St,Seattle,Washington,1914,1,Permit,C/R,2,Ph,351,-122.344327689136,47.6151134985668
+M,Cascade/Eastlake,320 Cedar St,Seattle,Washington,1908,3,Visible,R,3,GSV,352,-122.348338244671,47.6176240293707
+M,Cascade/Eastlake,325 Westlake Ave N,Seattle,Washington,1927,1,Sub Alt,C/R,2,GSV,353,-122.338519900263,47.6216905300946
+H,Cascade/Eastlake,330 5th Ave N,Seattle,Washington,1929,2,No visible,P,3,GSV,354,-122.347544752899,47.6212360825889
+M,Cascade/Eastlake,333 Westlake Ave N,Seattle,Washington,1923,2,Permit,C/O,2,GSV-R,355,-122.338510576648,47.6218502065296
+M,Cascade/Eastlake,401 Cedar St,Seattle,Washington,1927,1,No visible,C,3,GSV,356,-122.347721684179,47.6180051547061
+M,Cascade/Eastlake,415 Bell St,Seattle,Washington,1919,1,Sub Alt,G,3,GSV,357,-122.343300865359,47.6158046524139
+M,Cascade/Eastlake,425 Westlake Ave N,Seattle,Washington,1920,2,Permit,Mixed,3,GSV,358,-122.338489597393,47.6229504576797
+M,Cascade/Eastlake,427 9th Ave N,Seattle,Washington,1929,1,No visible,C,2,GSV,359,-122.339829945781,47.6228595474349
+M,Cascade/Eastlake,433 Eastlake Ave E,Seattle,Washington,1918,2,No visible,C,3,Field,360,-122.329220213455,47.6230087335652
+M,Cascade/Eastlake,508 Denny Way,Seattle,Washington,1919,1,No visible,C,2,Ph,361,-122.347309089766,47.6185972393163
+M,Cascade/Eastlake,513 Dexter Ave N,Seattle,Washington,1928,1,No visible,C,2,Ph,362,-122.342399918011,47.6237197009188
+M,Cascade/Eastlake,601 Eastlake Ave E,Seattle,Washington,1908,4,Permit,C/R,3,Field,363,-122.329240027595,47.6243898752576
+M,Cascade/Eastlake,603 Pontius Ave N,Seattle,Washington,1926,3,No visible,R,2,Field,364,-122.331790185685,47.6244096893318
+M,Cascade/Eastlake,614 Aurora Ave N,Seattle,Washington,1926,1,No visible,V,,GSV,365,-122.343568935216,47.6251078360961
+M,Cascade/Eastlake,845 Bellevue Pl E,Seattle,Washington,1925,3,No visible,R,2,SIM,366,-122.326868193174,47.6269062340594
+M,Cascade/Eastlake,900 Thomas St,Seattle,Washington,1920,2,Sub Alt,C/O,2,GSV,367,-122.339519917413,47.6208863211986
+C,Cascade/Eastlake,914 Virginia St,Seattle,Washington,,3,Sub Alt,S,3,Field,368,-122.33520749201,47.6168139931673
+M,Cascade/Eastlake,917 Howell St,Seattle,Washington,1922,1,No visible,C,2,GSV,369,-122.332602553756,47.6152148990753
+M,Cascade/Eastlake,922 Virginia St,Seattle,Washington,1926,1,Permit,C,2,GSV,370,-122.33504781557,47.6169433657256
+M,Cedar Park/Meadowbrook,10228 Fisher Pl NE,Seattle,Washington,1929,1,No visible,C,2,GSV,371,-122.301063571903,47.7028480451244
+M,Cedar Park/Meadowbrook,14001 Lake City Way NE,Seattle,Washington,1924,1,No visible,C,1,Field,372,-122.292389769201,47.7303776367791
+M,Central Area/Squire Park,1101 17th Ave,Seattle,Washington,1928,4,No visible,R,2,GSV,373,-122.310210576554,47.6116996894348
+M,Central Area/Squire Park,117 18th Ave,Seattle,Washington,1907,3,Permit,R,2,GSV-R,374,-122.308990276325,47.6022694643126
+M,Central Area/Squire Park,120 23rd Ave E,Seattle,Washington,1923,3,Visible,Mixed,2,GSV-R,375,-122.302478513697,47.6196590280141
+M,Central Area/Squire Park,1412 18th Ave,Seattle,Washington,1928,1,No visible,C,2,GSV,376,-122.308818945143,47.613318597269
+C,Central Area/Squire Park,1424 15th Ave,Seattle,Washington,1924,2,Permit,S,3,Ph,377,-122.312729265761,47.6135796738848
+M,Central Area/Squire Park,1621 17th Ave,Seattle,Washington,1924,3,No visible,R,2,GSV,378,-122.3101895964,47.6159701558787
+H,Central Area/Squire Park,1631 16th Ave,Seattle,Washington,1929,4,No visible,R,3,GSV,379,-122.311479827778,47.616301163659
+M,Central Area/Squire Park,1658 20th Ave,Seattle,Washington,1919,1,Sub Alt,O,2,GSV,380,-122.306098620087,47.6168582824497
+C,Central Area/Squire Park,1700 E Jefferson St,Seattle,Washington,1910,1,No visible,E,2,Field,381,-122.310161846543,47.6061957469687
+C,Central Area/Squire Park,172 20th Ave,Seattle,Washington,1920,3,Visible,S,3,Field,382,-122.306308413537,47.6032997842118
+M,Central Area/Squire Park,1810 15th Ave,Seattle,Washington,1925,4,No visible,R,2,GSV,383,-122.312718776133,47.6180377896086
+M,Central Area/Squire Park,1841 16th Ave,Seattle,Washington,1906,4,Sub Alt,R,2,PR,384,-122.311479827778,47.6181415205658
+M,Central Area/Squire Park,2002 E Union St,Seattle,Washington,1908,2,No visible,C/R,2,Field,385,-122.305969247415,47.6129467965034
+M,Central Area/Squire Park,2018 E Union St,Seattle,Washington,1930,1,Permit,C,3,GSV,386,-122.305250121775,47.6129572858614
+M,Central Area/Squire Park,2300 E Spruce St,Seattle,Washington,1907,1,No visible,P,2,Field,387,-122.30174889843,47.6035165709277
+M,Central Area/Squire Park,2300 E Yesler Way,Seattle,Washington,1913,1,Sub Alt,P,2,PR,388,-122.301969181507,47.6016867039716
+C,Central Area/Squire Park,2306 E Cherry St,Seattle,Washington,1929,1,Sub Alt,S,2,GSV,389,-122.30247967971,47.6080364589198
+C,Central Area/Squire Park,2410 E Cherry St,Seattle,Washington,1902,3,Sub Alt,S,3,PR,390,-122.301139331322,47.6080271350436
+C,Central Area/Squire Park,400 23rd Ave,Seattle,Washington,1923,3,Sub Alt,S,3,SIM,391,-122.302623038253,47.6051622855311
+M,Central Area/Squire Park,722 18th Ave,Seattle,Washington,1908,2,No visible,G,3,GSV,392,-122.308878386665,47.6087788951614
+H,Central Area/Squire Park,800 18th Ave,Seattle,Washington,1901,2,No visible,P,3,Field,393,-122.308838758385,47.6101786854881
+M,Central Area/Squire Park,806 20th Ave,Seattle,Washington,1910,1,No visible,P,2,PR,394,-122.306279275782,47.6091588549322
+C,Central Area/Squire Park,810 18th Ave,Seattle,Washington,1904,3,Permit,S,3,PR,395,-122.308858572525,47.6095784422562
+M,Central Area/Squire Park,820 18th Ave,Seattle,Washington,1904,2,No visible,R,1,GSV,396,-122.308849248012,47.6099082847041
+H,Columbia City,3804 S Hudson St,Seattle,Washington,1920,1,Permit,P,3,Field,397,-122.284189168448,47.5570670871417
+M,Columbia City,3806 S Ferdinand St,Seattle,Washington,1921,1,No visible,C,3,GSV,398,-122.284549313825,47.5578864477373
+M,Columbia City,3808 S Edmunds St,Seattle,Washington,1925,1,Sub Alt,C,2,PR,399,-122.284999204493,47.5586766705624
+C,Columbia City,4200 S Mead St,Seattle,Washington,1912,2,Permit,S,3,Field,400,-122.279909377042,47.5504667450858
+M,First Hill,510 Broadway,Seattle,Washington,1908,3,No visible,C/R,2,GSV,401,-122.320718907949,47.6065492551278
+M,First Hill,517 9th Ave,Seattle,Washington,1930,4,No visible,R,2,GSV,402,-122.3245744493,47.6053476033961
+M,First Hill,550 12th Ave,Seattle,Washington,1920,1,No visible,C,2,,403,-122.316738656181,47.606989821484
+M,Columbia City,4243 Rainier Ave S,Seattle,Washington,1926,1,No visible,C,2,GSV,404,-122.288347744783,47.5644996105572
+H,First Hill,613 9th Ave,Seattle,Washington,1886,2,No visible,P,3,Field,405,-122.32519334092,47.6060072880934
+H,Columbia City,4721 Rainier Ave S,Seattle,Washington,1914,1,Permit,P,3,Field,406,-122.286404822672,47.5599575774898
+H,First Hill,615 8th Ave,Seattle,Washington,1929,1,No visible,P,3,SIM,407,-122.32625396381,47.6055177691096
+M,Columbia City,4820 Rainier Ave S,Seattle,Washington,1920,2,No visible,C/R,2,Field,408,-122.285529516836,47.5588375123382
+M,First Hill,703 Columbia St,Seattle,Washington,1906,3,Visible,O,2,GSV,409,-122.327988258484,47.6061727916771
+M,Columbia City,4850 Rainier Ave S,Seattle,Washington,1907,3,No visible,C/R,3,Field,410,-122.2853372055,47.5584960153223
+H,First Hill,803 Terry Ave,Seattle,Washington,1912,4,Visible,P,3,Field,411,-122.32515371264,47.607637850979
+M,Columbia City,4860 Rainier Ave S,Seattle,Washington,1909,2,Permit,C/O,2,Field,412,-122.285226480955,47.5582757315406
+M,First Hill,804 9th Ave,Seattle,Washington,1910,3,No visible,R,2,PR,413,-122.326044403024,47.6070230343937
+M,Columbia City,4868 Rainier Ave S,Seattle,Washington,1908,1,Permit,C,2,Field,414,-122.285106432795,47.5580356349005
+H,First Hill,805 Marion St,Seattle,Washington,1920,4,No visible,R,2,GSV,415,-122.327308760227,47.6074233949265
+M,Columbia City,4869 Rainier Ave S,Seattle,Washington,1928,1,No visible,C,2,Field,416,-122.285261446979,47.5581824901164
+H,First Hill,808 9th Ave,Seattle,Washington,1904,1,Permit,P,3,PR,417,-122.326185198673,47.6071716431012
+M,Columbia City,4873 Rainier Ave S,Seattle,Washington,1908,2,No visible,C/O,3,Field,418,-122.285182191316,47.5580228139133
+H,First Hill,821 9th Ave,Seattle,Washington,1929,5,No visible,R,2,GSV,419,-122.32659313083,47.6075271263483
+M,Columbia City,4900 Rainier Ave S,Seattle,Washington,1901,3,Permit,C/R,2,PR,420,-122.2849176186,47.5576661644239
+M,First Hill,823 Madison St,Seattle,Washington,1902,4,No visible,C/R,3,PR,421,-122.327548857444,47.6083033633314
+M,Columbia City,4901 Rainier Ave S,Seattle,Washington,1913,1,No visible,C,2,PR,422,-122.285051653529,47.5577722272124
+M,First Hill,900 12th Ave,Seattle,Washington,1923,2,No visible,C/O,2,GSV,423,-122.316728166554,47.6105493207473
+C,Columbia City,4909 Rainier Ave S,Seattle,Washington,1906,2,Sub Alt,S,3,PR,424,-122.284971232751,47.5576230405116
+M,First Hill,901 6th Ave,Seattle,Washington,1907,7,Permit,R,2,Field,425,-122.330213237221,47.6064571789325
+M,First Hill,901 Madison St,Seattle,Washington,1908,1,No visible,C,2,GSV,426,-122.326978917719,47.6085329706412
+M,Columbia City,4918 Rainier Ave S,Seattle,Washington,1920,1,Sub Alt,C,2,Field,427,-122.284667031755,47.5571859705193
+M,First Hill,903 9th Ave,Seattle,Washington,1906,4,No visible,R,2,GSV,428,-122.326874021443,47.6078278308118
+M,Columbia City,5000 Rainier Ave S,Seattle,Washington,1910,1,No visible,C,3,GSV,429,-122.284248609971,47.5566323483472
+M,First Hill,912 12th Ave,Seattle,Washington,1930,1,Sub Alt,C,2,GSV,430,-122.316728166554,47.6108803289279
+M,Columbia City,5020 Rainier Ave S,Seattle,Washington,1926,1,No visible,C,2,GSV,431,-122.283858159927,47.5562826920963
+C,First Hill,916 Broadway,Seattle,Washington,1894,4,Permit,S,3,Field,432,-122.32073674849,47.6104975722173
+M,Fremont,1604 N 34th St,Seattle,Washington,1926,1,No visible,C,2,GSV,433,-122.338369548335,47.6480767458013
+M,Columbia City,5021 Rainier Ave S,Seattle,Washington,1924,1,No visible,C,2,GSV,434,-122.284160029795,47.5564656786858
+M,Fremont,3400 Phinney Ave N,Seattle,Washington,1905,1,Permit,C,3,GSV,435,-122.354458392142,47.6508879809512
+M,Columbia City,5600 Rainier Ave S,Seattle,Washington,1926,1,No visible,C,2,GSV,436,-122.277947806805,47.5517173488127
+M,Columbia City,5607 Rainier Ave S,Seattle,Washington,1915,2,No visible,C/R,2,Field,437,-122.27806086158,47.551772128138
+M,Fremont,3414 Fremont Ave N,Seattle,Washington,1909,2,No visible,C/R,2,GSV,438,-122.349778827977,47.6501012552356
+M,Columbia City,5609 Rainier Ave S,Seattle,Washington,1920,2,No visible,R,1,Field,439,-122.277980440803,47.5516311002553
+M,Fremont,3424 Fremont Ave N,Seattle,Washington,1909,2,No visible,C/R,2,WC,440,-122.349799807232,47.650265593518
+M,Fremont,3515 Fremont Ave N,Seattle,Washington,1911,2,No visible,C/R,2,GSV,441,-122.349959482774,47.6511467265264
+M,Columbia City,5619 Rainier Ave S,Seattle,Washington,1907,2,No visible,C/R,2,Field,442,-122.277840578503,47.551392168183
+M,Fremont,3600 Wallingford Ave N,Seattle,Washington,1928,1,Visible,O,2,GSV,443,-122.336278605425,47.6506886773123
+M,Columbia City,5701 Rainier Ave S,Seattle,Washington,1924,2,Permit,C,3,GSV,444,-122.277612136926,47.5509434433813
+M,Fremont,3640 Wallingford Ave N,Seattle,Washington,1920,2,No visible,C/R,2,GSV,445,-122.336258791285,47.6517994183689
+M,Columbia City,5710 Rainier Ave S,Seattle,Washington,1920,2,No visible,C,2,Field,446,-122.277495585009,47.5508746775614
+C,Fremont,3921 Linden Ave N,Seattle,Washington,1892,3,No visible,S,3,GSV,447,-122.348640114539,47.6547505156744
+M,Columbia City,5718 Rainier Ave S,Seattle,Washington,1919,1,No visible,C,2,GSV,448,-122.277547554345,47.550991601471
+M,Fremont,4252 Fremont Ave N,Seattle,Washington,1909,2,Permit,C/R,2,Field,449,-122.349978131799,47.6588391614998
+M,Columbia City,6315 Rainier Ave S,Seattle,Washington,1921,2,No visible,I,1,GSV,450,-122.275627255407,47.5457044291418
+H,Downtown,1007 1st Ave,Seattle,Washington,1901,4,Visible,C/R,3,GSV-R,451,-122.336503550759,47.604946664299
+M,Fremont,4316 Fremont Ave N,Seattle,Washington,1923,1,No visible,C,1,Field,452,-122.349988621426,47.6598892951754
+M,Fremont,615 N 35th St,Seattle,Washington,1907,2,No visible,C,3,Ph,453,-122.350522429114,47.6506222427988
+H,Downtown,1008 Western Ave,Seattle,Washington,1905,6,Visible,C/O,3,Field,454,-122.337686553835,47.6046214839957
+H,Fremont,619 N 36th St,Seattle,Washington,1909,3,Permit,P,3,Ph,455,-122.35042336021,47.6513716724888
+M,Downtown,1012 1st Ave,Seattle,Washington,1900,5,Sub Alt,C/O,3,PR,456,-122.336455763979,47.6050014436841
+H,Fremont,708 N 35th St,Seattle,Washington,1907,4,Visible,R,2,GSV,457,-122.349255509018,47.6504567389062
+H,Downtown,1015 1st Ave,Seattle,Washington,1901,4,Visible,C/R,3,GSV-R,458,-122.336652736673,47.6051075063145
+M,Downtown,1018 1st Ave,Seattle,Washington,1890,5,Permit,C/O,3,GSV,459,-122.336685371569,47.6052415412525
+M,Fremont,731 N 35th St,Seattle,Washington,1911,1,Permit,G,2,SIM,460,-122.348344072042,47.6502725866764
+H,Downtown,1023 1st Ave,Seattle,Washington,1901,6,Visible,C/R,3,GSV-R,461,-122.336783275359,47.6052473684557
+M,Georgetown,1205 S Vale St,Seattle,Washington,1914,2,No visible,C/R,3,SIM,462,-122.317131436454,47.5491730176351
+M,Downtown,103 Pike St,Seattle,Washington,1910,3,Sub Alt,C/R,3,GSV,463,-122.33974835899,47.6089024408181
+M,Georgetown,1210 S Bailey St,Seattle,Washington,1928,1,No visible,C,2,GSV,464,-122.316792269434,47.5479072626306
+M,Downtown,107 Pine St,Seattle,Washington,1900,4,Visible,C/R,3,GSV,465,-122.34063881671,47.609902456809
+M,Georgetown,421 S River St,Seattle,Washington,1941,2,No visible,I,2,GSV,466,-122.328829351085,47.5436714223694
+M,Downtown,110 Cherry St,Seattle,Washington,1903,3,No visible,C,2,GSV,467,-122.333900943633,47.6027554860731
+M,Georgetown,5245 East Marginal Way S,Seattle,Washington,1919,1,No visible,I,2,PR,468,-122.337511725511,47.5544027076207
+M,Downtown,110 Union St,Seattle,Washington,1910,5,Permit,C/O,3,GSV,469,-122.338721536111,47.608015479439
+M,Georgetown,5421 1st Ave S,Seattle,Washington,1941,1,No visible,I,1,PR,470,-122.334250599383,47.5536695954887
+M,Downtown,1119 1st Ave,Seattle,Washington,1892,5,Permit,C/R,3,GSV,471,-122.337374194339,47.6058872393873
+M,Georgetown,5501 Airport Way S,Seattle,Washington,1906,2,No visible,O,2,GSV,472,-122.321056908956,47.5533141113393
+H,Downtown,114 Pike St,Seattle,Washington,1924,2,Sub Alt,P,3,PR,473,-122.339340426833,47.6091355448304
+M,Georgetown,5531 Airport Way S,Seattle,Washington,1928,1,No visible,I,1,Field,474,-122.320161788979,47.5524865919958
+M,Downtown,115 Cherry St,Seattle,Washington,1900,7,No visible,C/O,3,Ph,475,-122.333677163414,47.6028032724814
+M,Georgetown,5605 Corson Ave S,Seattle,Washington,1906,2,No visible,C/R,2,Ph,476,-122.320189915231,47.551756074675
+M,Downtown,120 Pike St,Seattle,Washington,1904,7,No visible,C,3,PR,477,-122.33958368612,47.6090351948112
+M,Georgetown,5625 Airport Way S,Seattle,Washington,1924,1,Sub Alt,C,3,GSV,478,-122.31921305575,47.5515273689809
+M,Downtown,1201 2nd Ave,Seattle,Washington,1900,2,Visible,C/O,3,GSV-R,479,-122.336623598919,47.6066972758755
+H,Georgetown,5800 4th Ave S,Seattle,Washington,1938,1,Sub Alt,P,3,PR,480,-122.329548889949,47.5508198979043
+H,Downtown,1201 Western Ave,Seattle,Washington,1910,5,Visible,C,3,GSV-R,481,-122.338913846549,47.605877915128
+M,Georgetown,5813 Airport Way S,Seattle,Washington,1905,2,No visible,C,3,GSV,482,-122.318192059344,47.5505063728473
+M,Downtown,1206 1st Ave,Seattle,Washington,1900,2,No visible,C,2,PR,483,-122.337745995357,47.6063720955531
+M,Georgetown,6107 13th Ave S,Seattle,Washington,1940,1,No visible,I,2,GSV,484,-122.31611393719,47.5483536566081
+M,Downtown,121 Stewart St,Seattle,Washington,1914,2,Permit,C/O,3,GSV,485,-122.340801989394,47.6106845214736
+M,Downtown,1216 1st Ave,Seattle,Washington,1900,4,No visible,C/R,3,GSV,486,-122.338004740702,47.6066413311611
+M,Downtown,1221 2nd Ave,Seattle,Washington,1906,6,Visible,C/O,3,GSV-R,487,-122.336873020649,47.6069571869541
+M,Georgetown,6111 13th Ave S,Seattle,Washington,1929,1,No visible,C,3,GSV,488,-122.316150068329,47.548179994423
+M,Downtown,1315 1st Ave,Seattle,Washington,1900,3,Visible,V,,PR,489,-122.338803122004,47.60741756736
+M,Georgetown,6124 12th Ave S,Seattle,Washington,1922,1,No visible,C/R,2,GSV,490,-122.317288781766,47.5479282419563
+M,Downtown,1319 Western Ave,Seattle,Washington,1900,1,Permit,C,2,GSV,491,-122.339862579778,47.606907069536
+M,Georgetown,6200 13th Ave S,Seattle,Washington,1909,2,Visible,C,2,WC,492,-122.316068481538,47.5475494480229
+M,Downtown,1400 Western Ave,Seattle,Washington,1915,4,Visible,C/R,3,GSV-R,493,-122.340364919482,47.607531788634
+M,Georgetown,1223 S Bailey St,Seattle,Washington,1928,1,No visible,C,2,GSV,494,-122.316506717463,47.5478722968669
+H,Downtown,1413 3rd Ave,Seattle,Washington,1907,3,Visible,P,3,GSV-R,495,-122.337313586804,47.6091273857775
+M,Georgetown,6285 Airport Way S,Seattle,Washington,1905,3,No visible,R,2,GSV,496,-122.313231604566,47.5466857972475
+H,Downtown,1414 Alaskan Way,Seattle,Washington,1909,4,Visible,C/O,3,GSV,497,-122.341451184781,47.6073534640864
+M,Georgetown,7223 Perimeter Rd S,Seattle,Washington,1928,2,Visible,O,2,GSV,498,-122.30315415369,47.5374826296888
+M,Downtown,1416 3rd Ave,Seattle,Washington,1902,3,Sub Alt,C/O,3,PR,499,-122.337285614164,47.6091914899052
+H,Downtown,1423 1st Ave,Seattle,Washington,1900,2,Sub Alt,P,3,PR,500,-122.339753021246,47.6084572120171
+H,Duwamish/SODO,171 S Jackson St,Seattle,Washington,1900,5,Permit,C,3,GSV,501,-122.331829813965,47.5991924900684
+M,Duwamish/SODO,1728 4th Ave S,Seattle,Washington,1946,1,Sub Alt,C,2,PR,502,-122.329029068132,47.5873088444962
+M,Duwamish/SODO,1956 1st Ave S,Seattle,Washington,1930,1,Sub Alt,C,2,Ph,503,-122.33414919935,47.5843892161669
+H,Duwamish/SODO,2200 1st Ave S,Seattle,Washington,1900,4,Permit,O,3,GSV,504,-122.33414919935,47.5836094826145
+M,Duwamish/SODO,2244 1st Ave S,Seattle,Washington,1918,1,Permit,C,2,Field,505,-122.334158523863,47.5825791627672
+M,Duwamish/SODO,2424 1st Ave S,Seattle,Washington,1918,1,Permit,C,2,PR,506,-122.33416901349,47.5810092070779
+M,Duwamish/SODO,2440 1st Ave S,Seattle,Washington,1927,1,Visible,C,3,GSV,507,-122.33416901349,47.5807096682424
+M,Duwamish/SODO,2450 1st Ave S,Seattle,Washington,1937,1,No visible,C,2,Field,508,-122.33416901349,47.5803588462384
+M,Duwamish/SODO,2724 1st Ave S,Seattle,Washington,1926,1,No visible,C/O,2,Field,509,-122.334188826732,47.5789287528259
+M,Duwamish/SODO,2724 6th Ave S,Seattle,Washington,1910,3,Permit,C/O,2,GSV,510,-122.325948597699,47.5790802706491
+H,Duwamish/SODO,2901 1st Ave S,Seattle,Washington,1927,1,Permit,P,3,Field,511,-122.334290227663,47.5775697564264
+H,Duwamish/SODO,2915 1st Ave S,Seattle,Washington,1929,2,Sub Alt,P,3,PR,512,-122.334290227663,47.5771897962934
+H,Duwamish/SODO,303 S Jackson St,Seattle,Washington,1906,3,Sub Alt,P,3,PR,513,-122.329889222084,47.5991820003726
+M,Duwamish/SODO,3100 Airport Way S,Seattle,Washington,1890,3,Sub Alt,C,2,Field,514,-122.321369268451,47.5767177606216
+H,Duwamish/SODO,3100 Airport Way S,Seattle,Washington,1890,4,Sub Alt,C,2,Field,515,-122.321369268451,47.5767177606216
+H,Duwamish/SODO,3100 Airport Way S,Seattle,Washington,1939,7,Sub Alt,R,3,PR,516,-122.321369268451,47.5767177606216
+H,Duwamish/SODO,3100 Airport Way S,Seattle,Washington,1890,4,No visible,C,2,Field,517,-122.321369268451,47.5767177606216
+M,Duwamish/SODO,3100 Airport Way S,Seattle,Washington,1890,3,No visible,C,2,Field,518,-122.321369268451,47.5767177606216
+M,Duwamish/SODO,3100 Airport Way S,Seattle,Washington,1920,2,No visible,O,2,Field,519,-122.321369268451,47.5767177606216
+M,Duwamish/SODO,3100 Airport Way S,Seattle,Washington,1900,2,No visible,C,2,Field,520,-122.321369268451,47.5767177606216
+M,Duwamish/SODO,3100 Airport Way S,Seattle,Washington,1890,2,No visible,C,2,Field,521,-122.321369268451,47.5767177606216
+M,Duwamish/SODO,3100 Airport Way S,Seattle,Washington,1890,2,No visible,C,2,Field,522,-122.321369268451,47.5767177606216
+M,Duwamish/SODO,3100 Airport Way S,Seattle,Washington,1900,2,No visible,C,2,Field,523,-122.321369268451,47.5767177606216
+M,Duwamish/SODO,3100 Airport Way S,Seattle,Washington,1920,1,No visible,O,2,Field,524,-122.321369268451,47.5767177606216
+H,Duwamish/SODO,3100 Airport Way S,Seattle,Washington,1920,1,No visible,P,3,SIM,525,-122.321369268451,47.5767177606216
+M,Duwamish/SODO,3100 Airport Way S,Seattle,Washington,1890,3,No visible,I,1,Field,526,-122.321369268451,47.5767177606216
+M,Duwamish/SODO,3200 4th Ave S,Seattle,Washington,1928,1,No visible,C,2,GSV,527,-122.329029068132,47.5752398810575
+M,Duwamish/SODO,3207 1st Ave S,Seattle,Washington,1917,1,No visible,C,2,Field,528,-122.334279737137,47.575169949621
+M,Duwamish/SODO,3220 1st Ave S,Seattle,Washington,1918,2,Visible,C/O,3,GSV,529,-122.334198151245,47.5749892942909
+M,Duwamish/SODO,3300 Airport Way S,Seattle,Washington,1957,1,No visible,O,2,GSV,530,-122.321410061847,47.5739414915095
+M,Duwamish/SODO,3667 1st Ave S,Seattle,Washington,1948,1,No visible,C,2,GSV,531,-122.334240109755,47.5693097132418
+M,Duwamish/SODO,3909 Airport Way S,Seattle,Washington,1908,2,No visible,Mixed,2,GSV,532,-122.322700292326,47.5685684424757
+M,Downtown,1423 4th Ave,Seattle,Washington,1909,2,No visible,C,2,PR,533,-122.336363687561,47.6097474429159
+M,Duwamish/SODO,3913 Airport Way S,Seattle,Washington,1922,1,No visible,I,1,GSV,534,-122.322700292326,47.568428579874
+M,Georgetown,7277 Perimeter Rd S,Seattle,Washington,1930,2,No visible,C/O,3,,535,-122.302876497012,47.5372478328704
+H,Downtown,1426 1st Ave,Seattle,Washington,1916,2,Visible,P,3,GSV,536,-122.339635303317,47.6084315705
+H,Duwamish/SODO,400 Occidental Ave S,Seattle,Washington,1900,6,Sub Alt,C/O,3,GSV,537,-122.33283915473,47.5989990139954
+M,Georgetown,7300 Perimeter Rd S,Seattle,Washington,1938,2,No visible,O,3,,538,-122.30245986557,47.5369828397044
+H,Downtown,1507 Western Ave,Seattle,Washington,1910,6,No visible,C/R,2,GSV,539,-122.341395239502,47.6085784261264
+H,Green Lake,2253 N 56th St,Seattle,Washington,1928,1,No visible,P,3,GSV,540,-122.33146150919,47.6690421268238
+M,Duwamish/SODO,4000 Airport Way S,Seattle,Washington,1926,1,No visible,O,1,SIM,541,-122.322608216806,47.5678901091891
+H,Downtown,1510 1st Ave,Seattle,Washington,1923,2,No visible,P,3,GSV,542,-122.340275174192,47.6091215584009
+M,Duwamish/SODO,4003 Airport Way S,Seattle,Washington,1911,3,No visible,C/R,2,GSV,543,-122.322689802699,47.5678190126945
+M,Green Lake,307 NE Maple Leaf Pl,Seattle,Washington,1922,2,No visible,C,3,GSV,544,-122.325867011806,47.6807835789529
+M,Downtown,1513 1st Ave,Seattle,Washington,1942,4,Sub Alt,C/R,3,PR,545,-122.340443009131,47.6092066415472
+M,Duwamish/SODO,4025 7th Ave S,Seattle,Washington,1906,2,No visible,I,2,GSV,546,-122.324069779367,47.567870295521
+M,Green Lake,316 NE 72nd St,Seattle,Washington,1930,2,No visible,C/R,2,PR,547,-122.324954408818,47.6804863714091
+M,Downtown,1513 3rd Ave,Seattle,Washington,1920,1,No visible,C,2,PR,548,-122.338233182278,47.6101472163413
+M,Duwamish/SODO,4100 1st Ave S,Seattle,Washington,1941,2,No visible,C,2,GSV,549,-122.333909102132,47.5668388100948
+M,Green Lake,410 NE 72nd St,Seattle,Washington,1923,1,No visible,C,1,Field,550,-122.324174675643,47.6806367235727
+H,Duwamish/SODO,411 1st Ave S,Seattle,Washington,1913,7,Permit,C/O,3,PR,551,-122.334220295615,47.5987309444966
+M,Downtown,1516 2nd Ave,Seattle,Washington,1906,4,Visible,C/O,3,GSV,552,-122.33936490323,47.609761429178
+C,Green Lake,520 NE Ravenna Blvd,Seattle,Washington,1927,3,Permit,S,3,PR,553,-122.32287512065,47.6770119549412
+H,Duwamish/SODO,419 Occidental Ave S,Seattle,Washington,1906,7,Permit,C/O,3,Field,554,-122.332930065135,47.5985502886906
+M,Downtown,1518 Pike Pl,Seattle,Washington,1910,2,Sub Alt,C,2,PR,555,-122.341304329097,47.6091751724213
+M,Green Lake,5201 Green Lake Way N,Seattle,Washington,,1,No visible,G,1,Field,556,-122.340147355605,47.6664766739531
+M,Duwamish/SODO,4715 6th Ave S,Seattle,Washington,1914,2,No visible,I,2,GSV,557,-122.326759799757,47.5606603866503
+M,Green Lake,6315 Roosevelt Way NE,Seattle,Washington,1940,1,No visible,C,2,Field,558,-122.317400671426,47.6746086519349
+M,Downtown,1520 4th Ave,Seattle,Washington,1907,6,No visible,C/O,3,PR,559,-122.337156241492,47.6107218181016
+M,Duwamish/SODO,4786 1st Ave S,Seattle,Washington,1937,1,No visible,I,2,GSV,560,-122.334158523863,47.5594599004089
+M,Green Lake,6403 Roosevelt Way NE,Seattle,Washington,1929,1,No visible,C,2,GSV,561,-122.317409995939,47.6751494535296
+M,Downtown,1534 Pike Pl,Seattle,Washington,1910,3,Sub Alt,C/R,2,GSV,562,-122.341584053697,47.609345338401
+M,Duwamish/SODO,4809 Airport Way S,Seattle,Washington,1942,1,No visible,I,1,GSV,563,-122.323309859434,47.559403955505
+M,Green Lake,6423 Latona Ave NE,Seattle,Washington,1907,2,No visible,C,2,GSV,564,-122.325460244764,47.6757205584042
+M,Downtown,1600 1st Ave,Seattle,Washington,1909,6,No visible,C/R,3,GSV,565,-122.341105025275,47.6100318301156
+M,Duwamish/SODO,5021 Colorado Ave S,Seattle,Washington,1930,1,No visible,C,2,Field,566,-122.336840385753,47.5566894583677
+M,Green Lake,7007 5th Ave NE,Seattle,Washington,1929,1,No visible,I,1,SIM,567,-122.322890272534,47.6797789005328
+M,Downtown,213 Cherry St,Seattle,Washington,1900,5,Visible,C,2,Ph,568,-122.332419566932,47.6033032809059
+M,Duwamish/SODO,5050 1st Ave S,Seattle,Washington,1938,1,Sub Alt,O,2,GSV,569,-122.33416901349,47.5563596162837
+M,Downtown,216 James St,Seattle,Washington,1910,7,Visible,Mixed,3,GSV,570,-122.331779696057,47.6026564169943
+M,Green Lake,7200 East Green Lake Dr N,Seattle,Washington,1927,1,No visible,C,2,GSV,571,-122.325880997677,47.6804490743625
+H,Duwamish/SODO,526 1st Ave S,Seattle,Washington,1909,5,Permit,C/R,3,PR,572,-122.334158523863,47.5977495759341
+M,Downtown,410 4th Ave,Seattle,Washington,1909,6,No visible,R,3,GSV,573,-122.329231869095,47.6021296014778
+M,Green Lake,7200 Woodlawn Ave NE,Seattle,Washington,1912,2,No visible,C/R,2,GSV,574,-122.324741119125,47.680628564794
+M,Duwamish/SODO,5300 Denver Ave S,Seattle,Washington,1953,1,No visible,O,2,GSV,575,-122.325462575893,47.554654459907
+M,Downtown,509 3rd Ave,Seattle,Washington,1908,7,Sub Alt,Mixed,3,Ph,576,-122.331081549673,47.6023766918086
+M,Green Lake,7203 Woodlawn Ave NE,Seattle,Washington,1921,1,No visible,C,2,WC,577,-122.324848346529,47.6806705235228
+H,Duwamish/SODO,542 1st Ave S,Seattle,Washington,1904,4,Permit,C/O,3,GSV,578,-122.334158523863,47.5970199605705
+M,Downtown,521 3rd Ave,Seattle,Washington,1900,4,No visible,C/R,3,Ph,579,-122.330903010408,47.6021983091035
+H,Duwamish/SODO,548 1st Ave S,Seattle,Washington,1904,4,Permit,I,2,GSV,580,-122.334158523863,47.5967588836761
+H,Green Lake,7220 Woodlawn Ave NE,Seattle,Washington,1921,2,Permit,P,3,GSV,581,-122.325023174853,47.6810306695033
+H,Duwamish/SODO,55 S Atlantic St,Seattle,Washington,1904,4,Permit,C/O,3,GSV,582,-122.336202846006,47.5902622732698
+M,Downtown,524 2nd Ave,Seattle,Washington,1900,5,Permit,C/O,3,GSV,583,-122.332346139539,47.6021412565769
+M,Green Lake,7301 Roosevelt Way NE,Seattle,Washington,1931,1,No visible,C,2,GSV,584,-122.317540533726,47.6817684438963
+M,Downtown,600 Western Ave,Seattle,Washington,1913,3,Permit,C/R,2,GSV,585,-122.335438264715,47.6019885734829
+H,Green Lake,7312 West Green Lake Dr N,Seattle,Washington,1927,1,No visible,P,3,GSV,586,-122.340823486078,47.68250115915
+M,Greenwood/Phinney Ridge,8537 Greenwood Ave N,Seattle,Washington,1926,2,No visible,C/R,2,GSV,587,-122.355340690464,47.6916392358352
+H,Downtown,605 1st Ave,Seattle,Washington,1900,6,Visible,C/O,3,GSV,588,-122.334200482373,47.6020107183497
+H,Green Lake,7364 East Green Lake Dr N,Seattle,Washington,1910,2,Permit,P,3,PR,589,-122.327053511125,47.681394311726
+M,Greenwood/Phinney Ridge,8550 Greenwood Ave N,Seattle,Washington,1928,1,No visible,C,2,Field,590,-122.355259104572,47.691409628376
+H,Downtown,606 1st Ave,Seattle,Washington,1892,6,Permit,P,3,Field,591,-122.334118895582,47.6021587398264
+H,Green Lake,7400 Woodlawn Ave NE,Seattle,Washington,1918,2,No visible,P,3,GSV,592,-122.326884511071,47.6823850043073
+M,Greenwood/Phinney Ridge,8558 Greenwood Ave N,Seattle,Washington,1928,1,No visible,C,3,Field,593,-122.355259104572,47.6915797944962
+M,Downtown,606 2nd Ave,Seattle,Washington,1900,6,Permit,C/R,2,Ph,594,-122.332775050951,47.6026016375763
+H,Greenwood/Phinney Ridge,8580 Greenwood Ave N,Seattle,Washington,1928,1,No visible,P,3,Field,595,-122.355268428186,47.6922499684948
+M,Duwamish/SODO,553 1st Ave S,Seattle,Washington,1910,3,No visible,C/O,2,GSV,596,-122.334240109755,47.596749559607
+M,Green Lake,7706 Aurora Ave N,Seattle,Washington,1930,1,No visible,C,2,GSV,597,-122.344398785401,47.6850004319749
+H,Downtown,606 Post Ave,Seattle,Washington,1900,5,Visible,C/R,2,GSV,598,-122.334848511748,47.6019384561499
+C,Green Lake,7901 Stone Ave N,Seattle,Washington,1913,2,No visible,S,3,GSV,599,-122.341829978286,47.6863582631055
+H,Duwamish/SODO,562 1st Ave S,Seattle,Washington,1909,7,No visible,C/O,2,GSV,600,-122.334141040851,47.5964476895495
+M,Highland Park,1100 SW Cloverdale St,Seattle,Washington,1938,1,No visible,G,1,PR,601,-122.349421500614,47.526508140135
+M,Downtown,614 1st Ave,Seattle,Washington,1902,3,Visible,C/O,3,Field,602,-122.334123377277,47.6019042393719
+M,Green Lake,7918 Aurora Ave N,Seattle,Washington,1929,1,No visible,C,2,PR,603,-122.344398785401,47.6867195744452
+M,Duwamish/SODO,590 1st Ave S,Seattle,Washington,1903,2,Sub Alt,C/R,3,PR,604,-122.334058288945,47.5958707574259
+M,Interbay,1038 Elliott Ave W,Seattle,Washington,1925,2,No visible,I,1,Field,605,-122.370620663341,47.6283036926634
+M,Downtown,616 1st Ave,Seattle,Washington,1902,7,Visible,C/O,3,Field,606,-122.334123214682,47.6019135855395
+M,Green Lake,8061 Densmore Ave N,Seattle,Washington,1929,1,Permit,G,2,GSV,607,-122.337810099136,47.6885284616478
+M,Duwamish/SODO,617 S Dearborn St,Seattle,Washington,1915,1,No visible,C,2,PR,608,-122.325349520219,47.5958124809777
+M,Interbay,1461 Elliott Ave W,Seattle,Washington,1937,2,Permit,C,2,GSV,609,-122.375058964276,47.631715170693
+M,Downtown,619 3rd Ave,Seattle,Washington,1911,6,Permit,C/R,3,GSV,610,-122.331924220613,47.6032578250762
+C,Greenwood/Phinney Ridge,120 N 79th St,Seattle,Washington,1922,3,Permit,S,3,PR,611,-122.356968922849,47.6862463729898
+M,Duwamish/SODO,655 S Edmunds St,Seattle,Washington,1930,1,No visible,I,1,GSV,612,-122.324499855894,47.5597419566977
+M,Interbay,3202 15th Ave W,Seattle,Washington,1921,1,No visible,C,2,PR,613,-122.376098608809,47.6485814162998
+H,Downtown,619 Post Ave,Seattle,Washington,1901,5,Permit,C,2,GSV,614,-122.335014015559,47.6023673675292
+H,Greenwood/Phinney Ridge,121 N 80th St,Seattle,Washington,1931,1,Permit,P,3,PR,615,-122.357009716245,47.6869316992809
+M,Interbay,3208 15th Ave W,Seattle,Washington,1926,1,No visible,C,1,PR,616,-122.376118422949,47.6488413273627
+C,Greenwood/Phinney Ridge,144 NW 80th St,Seattle,Washington,1908,3,Permit,S,3,Ph,617,-122.359309287489,47.6869864786246
+M,Downtown,620 1st Ave,Seattle,Washington,1906,10,Sub Alt,C/R,3,Field,618,-122.334122889492,47.6019322784755
+M,Duwamish/SODO,804 6th Ave S,Seattle,Washington,1924,2,No visible,C/O,2,SIM,619,-122.326319233602,47.5956283287922
+M,Interbay,904 Elliott Ave W,Seattle,Washington,1931,2,No visible,C,2,PR,620,-122.369051872479,47.6271544896253
+M,Greenwood/Phinney Ridge,213 N 85th St,Seattle,Washington,1919,3,No visible,C/R,2,Ph,621,-122.355968906597,47.6905716190865
+H,Downtown,625 1st Ave,Seattle,Washington,1900,4,Permit,C/O,2,GSV,622,-122.334303047521,47.602537533852
+M,Duwamish/SODO,820 1st Ave S,Seattle,Washington,1920,2,No visible,C/O,2,GSV,623,-122.33405711305,47.5954344251798
+M,Greenwood/Phinney Ridge,517 NW 65th St,Seattle,Washington,1922,1,No visible,C,1,GSV,624,-122.363659010045,47.6759618209505
+H,Judkins Park,104 17th Ave S,Seattle,Washington,1913,3,Permit,P,3,GSV,625,-122.31022922468,47.6013894961573
+M,Downtown,627 1st Ave,Seattle,Washington,1908,3,Permit,C/O,2,GSV,626,-122.334324027674,47.6025573477278
+M,Duwamish/SODO,83 S Jackson St,Seattle,Washington,1909,3,Permit,C/O,3,PR,627,-122.335149215602,47.5991715106749
+M,Greenwood/Phinney Ridge,5705 Phinney Ave N,Seattle,Washington,1930,3,No visible,R,2,GSV,628,-122.354430419502,47.6706796825515
+M,Judkins Park,109 18th Ave S,Seattle,Washington,1911,1,No visible,C,1,GSV,629,-122.308999600838,47.6013393788561
+H,Downtown,809 Western Ave,Seattle,Washington,1906,4,Sub Alt,C,2,GSV,630,-122.336342708306,47.6030771697589
+M,Greenwood/Phinney Ridge,6001 Phinney Ave N,Seattle,Washington,1920,1,No visible,O,2,GSV,631,-122.354419929875,47.6726295984325
+M,Judkins Park,1300 S Dearborn St,Seattle,Washington,1932,1,Visible,C,2,GSV,632,-122.315719990903,47.5958567710843
+H,Downtown,810 4th Ave,Seattle,Washington,1907,6,No visible,P,3,GSV,633,-122.331876434732,47.6050119334244
+H,Duwamish/SODO,83 S King St,Seattle,Washington,1904,7,Permit,C/O,3,PR,634,-122.33503965707,47.5982915431117
+M,Greenwood/Phinney Ridge,6206 Phinney Ave N,Seattle,Washington,1927,2,No visible,C/R,2,GSV,635,-122.354318529842,47.6740888297665
+M,Judkins Park,1419 S Jackson St,Seattle,Washington,1925,2,Permit,C/R,2,GSV,636,-122.313119714906,47.5992123039996
+H,Downtown,811 1st Ave,Seattle,Washington,1900,6,Permit,C/O,3,GSV,637,-122.335252946763,47.6035771779883
+M,Duwamish/SODO,85 S Atlantic St,Seattle,Washington,1937,2,No visible,C,2,Ph,638,-122.33538931282,47.5902517836013
+H,Judkins Park,1427 S Main St,Seattle,Washington,1947,1,No visible,P,3,GSV,639,-122.312569589321,47.5999722234769
+M,Downtown,811 5th Ave,Seattle,Washington,1902,5,Sub Alt,P,2,PR,640,-122.330917995206,47.6055801890491
+H,Greenwood/Phinney Ridge,6615 Dayton Ave N,Seattle,Washington,1917,3,Permit,P,3,GSV,641,-122.352690297457,47.6773989078708
+M,Duwamish/SODO,85 S Lander St,Seattle,Washington,1926,1,No visible,C,2,Field,642,-122.334699324935,47.5797714243413
+M,Judkins Park,1432 S Jackson St,Seattle,Washington,1925,1,No visible,I,1,GSV,643,-122.312408747766,47.5992670833321
+H,Downtown,83 Columbia St,Seattle,Washington,1914,4,No visible,C/O,3,SIM,644,-122.335888445538,47.6028852992328
+M,Greenwood/Phinney Ridge,7219 Greenwood Ave N,Seattle,Washington,1926,2,Sub Alt,C,2,PR,645,-122.355369829117,47.6814001395125
+H,Duwamish/SODO,900 1st Ave S,Seattle,Washington,1904,4,No visible,C/O,3,GSV,646,-122.334088591814,47.5947879885926
+M,Judkins Park,1713 E Yesler Way,Seattle,Washington,1912,1,No visible,C,2,GSV,647,-122.309598678318,47.6016715519683
+H,Duwamish/SODO,100 S King St,Seattle,Washington,1907,6,Permit,C/O,3,Field,648,-122.334139874837,47.5983265085433
+M,Greenwood/Phinney Ridge,7223 Aurora Ave N,Seattle,Washington,1926,1,No visible,C,1,GSV,649,-122.344599255236,47.6816833609267
+H,Duwamish/SODO,97 S Jackson St,Seattle,Washington,1905,5,Permit,Mixed,3,GSV,650,-122.334618904158,47.5991820003726
+M,Judkins Park,1723 S Jackson St,Seattle,Washington,1924,1,No visible,O,2,GSV,651,-122.309469304747,47.5992216282356
+H,Duwamish/SODO,1000 1st Ave S,Seattle,Washington,1910,6,Sub Alt,C/O,3,GSV,652,-122.33414919935,47.5938369243011
+M,Greenwood/Phinney Ridge,7401 Aurora Ave N,Seattle,Washington,1927,2,No visible,C/O,2,Field,653,-122.344640048631,47.6828185777409
+C,Fauntleroy/Seaview,4320 SW Myrtle St,Seattle,Washington,1910,3,Permit,S,3,PR,654,-122.388491586805,47.5398966411391
+C,Judkins Park,1902 S Main St,Seattle,Washington,1920,1,Visible,S,2,GSV,655,-122.307349223185,47.6000270026195
+M,Duwamish/SODO,1003 6th Ave S,Seattle,Washington,1928,2,Permit,C,2,GSV,656,-122.325990556209,47.5942098907782
+M,Greenwood/Phinney Ridge,7411 Aurora Ave N,Seattle,Washington,1923,1,No visible,C,2,GSV,657,-122.344659861873,47.6831880477882
+M,Fauntleroy/Seaview,6045 California Ave SW,Seattle,Washington,1926,1,No visible,C,1,Field,658,-122.387259631835,47.5471601639639
+M,Judkins Park,2000 S Jackson St,Seattle,Washington,1914,1,No visible,C,2,GSV,659,-122.3060997861,47.5992868972351
+H,Duwamish/SODO,1014 1st Ave S,Seattle,Washington,1907,4,Sub Alt,C/O,2,GSV,660,-122.33414919935,47.5937087171043
+M,Greenwood/Phinney Ridge,7413 Greenwood Ave N,Seattle,Washington,1925,1,No visible,C,3,SIM,661,-122.355360504605,47.6829596054155
+M,Fauntleroy/Seaview,6056 California Ave SW,Seattle,Washington,1926,1,No visible,O,1,SIM,662,-122.387179211057,47.5469888322705
+C,Duwamish/SODO,1022 1st Ave S,Seattle,Washington,1909,4,Permit,S,2,GSV,663,-122.334158523863,47.5933986885954
+H,Judkins Park,604 20th Ave S,Seattle,Washington,1911,1,No visible,P,3,PR,664,-122.306328227677,47.5972903607425
+M,Greenwood/Phinney Ridge,7503 Aurora Ave N,Seattle,Washington,1929,2,No visible,C/R,2,GSV,665,-122.344659861873,47.6834293102768
+H,Fauntleroy/Seaview,6459 California Ave SW,Seattle,Washington,1928,1,No visible,P,3,Field,666,-122.387270121462,47.5450482410227
+H,Duwamish/SODO,111 S Jackson St,Seattle,Washington,1904,5,Permit,C,3,GSV,667,-122.333729611552,47.5991924900684
+C,Judkins Park,620 20th Ave S,Seattle,Washington,1922,2,Permit,S,3,PR,668,-122.306318903165,47.5969500291493
+M,Greenwood/Phinney Ridge,7601 Greenwood Ave N,Seattle,Washington,1928,1,No visible,C/O,2,GSV,669,-122.355340690464,47.6842288572864
+M,Duwamish/SODO,115 S Jackson St,Seattle,Washington,1900,2,No visible,C/O,3,GSV,670,-122.333389280315,47.5991924900684
+M,Fauntleroy/Seaview,6501 California Ave SW,Seattle,Washington,1920,1,No visible,C,2,PR,671,-122.387270121462,47.5446892608467
+M,Judkins Park,624 Rainier Ave S,Seattle,Washington,1923,2,No visible,C/O,2,GSV,672,-122.312242077941,47.5968602840316
+M,Greenwood/Phinney Ridge,7613 Greenwood Ave N,Seattle,Washington,1928,1,No visible,C,1,Ph,673,-122.355350014977,47.684438650629
+H,Duwamish/SODO,1201 1st Ave S,Seattle,Washington,1914,2,No visible,P,3,PR,674,-122.334250599383,47.5920093880629
+C,Laurelhurst/Sand Point,4530 46th Ave NE,Seattle,Washington,1950,2,Permit,S,3,PR,675,-122.27831844181,47.6621900326218
+M,Fauntleroy/Seaview,7101 California Ave SW,Seattle,Washington,1926,1,No visible,R,2,GSV,676,-122.387329562985,47.5397392955331
+M,Greenwood/Phinney Ridge,7619 6th Ave NW,Seattle,Washington,1927,1,No visible,O,1,SIM,677,-122.36336063642,47.684549375628
+M,Duwamish/SODO,123 S Jackson St,Seattle,Washington,1902,2,No visible,C/R,2,GSV,678,-122.333159672725,47.5991924900684
+C,Laurelhurst/Sand Point,6200 NE 74th St,Seattle,Washington,1937,3,Permit,S,3,PR,679,-122.262998842449,47.6821763759867
+M,Fauntleroy/Seaview,7124 47th Ave SW,Seattle,Washington,1907,3,No visible,O,2,Ph,680,-122.39307907545,47.5388977901343
+M,Greenwood/Phinney Ridge,7700 6th Ave NW,Seattle,Washington,1928,1,No visible,C,2,GSV,681,-122.363279050528,47.68490952144
+H,Duwamish/SODO,1518 1st Ave S,Seattle,Washington,1907,6,Permit,C/R,3,GSV,682,-122.334158523863,47.5895897676104
+M,Laurelhurst/Sand Point,6222 NE 74th St,Seattle,Washington,1937,3,Sub Alt,O,3,PR,683,-122.262388069802,47.6821741207468
+M,Fauntleroy/Seaview,8603 Fauntleroy Way SW,Seattle,Washington,1940,1,No visible,G,2,Field,684,-122.392795476417,47.5254719769967
+H,Greenwood/Phinney Ridge,7800 Greenwood Ave N,Seattle,Washington,1922,2,No visible,P,3,Field,685,-122.355259104572,47.6857405371461
+M,Fauntleroy/Seaview,8603 Fauntleroy Way SW,Seattle,Washington,1940,1,No visible,G,1,Field,686,-122.392795476417,47.5254719769967
+H,Duwamish/SODO,1530 1st Ave S,Seattle,Washington,1937,1,Sub Alt,P,3,PR,687,-122.334158523863,47.5892692496744
+M,Laurelhurst/Sand Point,6305 NE 74th St,Seattle,Washington,1936,2,No visible,G,1,Report,688,-122.261639845036,47.6821122724627
+M,Greenwood/Phinney Ridge,7900 1st Ave NW,Seattle,Washington,1931,2,No visible,R,2,HL,689,-122.357928145706,47.6864095458691
+C,Fauntleroy/Seaview,9131 California Ave SW,Seattle,Washington,1917,1,Permit,S,2,PR,690,-122.387499729052,47.5219895856219
+M,Duwamish/SODO,1534 1st Ave S,Seattle,Washington,1928,2,No visible,C/O,3,GSV,691,-122.334158523863,47.5890186628021
+M,Laurelhurst/Sand Point,6327 NE 74th St,Seattle,Washington,1939,1,No visible,G,1,Report,692,-122.260808829736,47.6821122724627
+M,Greenwood/Phinney Ridge,8408 Greenwood Ave N,Seattle,Washington,1927,1,No visible,C,2,SIM,693,-122.355259104572,47.6901893286727
+M,Duwamish/SODO,1563 6th Ave S,Seattle,Washington,1931,1,No visible,C,2,GSV,694,-122.326019694862,47.5888892902345
+M,Fauntleroy/Seaview,9251 45th Ave SW,Seattle,Washington,1926,1,No visible,C,2,GSV,695,-122.39027949563,47.5207156717945
+M,Laurelhurst/Sand Point,7101 62nd Ave NE,Seattle,Washington,1929,3,No visible,V,,DON,696,-122.262310019679,47.6805493096613
+M,Greenwood/Phinney Ridge,8410 Greenwood Ave N,Seattle,Washington,1927,1,No visible,C,2,PR,697,-122.355259104572,47.6903082114292
+H,Duwamish/SODO,166 S King St,Seattle,Washington,1907,7,Permit,C/O,3,PR,698,-122.332029117787,47.5983265085433
+M,First Hill,1000 Madison St,Seattle,Washington,1930,2,No visible,C,2,Field,699,-122.326060488257,47.6089758683246
+M,Greenwood/Phinney Ridge,8417 Greenwood Ave N,Seattle,Washington,1945,1,No visible,C,2,Field,700,-122.355336223142,47.6903371512707
+M,Laurelhurst/Sand Point,7561 63rd Ave NE,Seattle,Washington,1929,2,Visible,G,2,DON,701,-122.261720265813,47.6843605612118
+M,Greenwood/Phinney Ridge,8500 Greenwood Ave N,Seattle,Washington,1928,2,No visible,C/O,2,Field,702,-122.355248614944,47.690849012955
+M,First Hill,1005 Terry Ave,Seattle,Washington,1908,7,No visible,R,3,GSV,703,-122.326642082725,47.6092474343146
+H,Duwamish/SODO,1700 1st Ave S,Seattle,Washington,1935,2,Permit,P,3,GSV,704,-122.33416901349,47.5878799491794
+M,Laurelhurst/Sand Point,7727 63rd Ave NE,Seattle,Washington,1929,2,No visible,G,2,DON,705,-122.261709776186,47.6854887845439
+M,Greenwood/Phinney Ridge,8516 Greenwood Ave N,Seattle,Washington,1925,1,No visible,C,3,Field,706,-122.355248614944,47.6908699924461
+M,Duwamish/SODO,1701 1st Ave S,Seattle,Washington,1910,3,No visible,C/O,2,GSV,707,-122.334250599383,47.5880291363491
+M,Laurelhurst/Sand Point,7737 62nd Ave NE,Seattle,Washington,1930,1,No visible,G,1,DON,708,-122.264676790297,47.6868350151258
+M,First Hill,1006 Spring St,Seattle,Washington,1928,10,No visible,R,3,Field,709,-122.326721337489,47.6096751805022
+M,Laurelhurst/Sand Point,7777 62nd Ave NE,Seattle,Washington,1938,1,No visible,C,2,Report,710,-122.264750619237,47.6877801978581
+M,First Hill,1016 Madison St,Seattle,Washington,1929,1,No visible,C,3,Field,711,-122.32550103816,47.6092054757104
+M,First Hill,1018 9th Ave,Seattle,Washington,1923,5,No visible,R,3,GSV,712,-122.327735340511,47.6088511576022
+M,Licton Springs,10325 Aurora Ave N,Seattle,Washington,1931,1,No visible,C,2,GSV,713,-122.344729793023,47.7040683454254
+M,Licton Springs,10326 Aurora Ave N,Seattle,Washington,1928,1,No visible,C,3,GSV,714,-122.344648207131,47.7040800001627
+M,First Hill,1019 Terry Ave,Seattle,Washington,1924,6,Permit,R,3,GSV,715,-122.326742317643,47.6093465036291
+M,First Hill,1020 Seneca St,Seattle,Washington,1925,6,No visible,R,3,GSV,716,-122.32683089692,47.6106262451743
+M,Licton Springs,10333 Aurora Ave N,Seattle,Washington,1926,1,Visible,C,3,GSV,717,-122.344740282651,47.7041883935083
+M,First Hill,104 12th Ave,Seattle,Washington,1926,2,Permit,C,2,GSV,718,-122.316738656181,47.6019093182844
+M,Licton Springs,9710 Aurora Ave N,Seattle,Washington,1948,1,Visible,C,2,GSV-R,719,-122.344598089223,47.699950561638
+M,First Hill,105 14th Ave,Seattle,Washington,1910,3,Permit,O,3,GSV,720,-122.314180338694,47.6019186426454
+C,Madison Park,1617 38th Ave E,Seattle,Washington,1913,3,Permit,S,3,Field,721,-122.284090098645,47.6340508736757
+H,First Hill,1100 Pike St,Seattle,Washington,1908,3,Sub Alt,P,3,GSV,722,-122.328730695405,47.613556363331
+H,Madison Park,1642 43rd Ave E,Seattle,Washington,1910,2,No visible,P,3,GSV,723,-122.277138934977,47.6345905094919
+H,First Hill,1119 8th Ave,Seattle,Washington,1916,3,Sub Alt,P,3,PR,724,-122.329603670113,47.6091378759016
+C,Madison Park,408 Lake Washington Blvd E,Seattle,Washington,1915,3,No visible,S,3,GSV,725,-122.286263794359,47.622985423582
+M,First Hill,1203 James St,Seattle,Washington,1925,3,No visible,R,2,PR,726,-122.321274821379,47.6069891831233
+M,First Hill,1210 9th Ave,Seattle,Washington,1945,3,No visible,O,3,SIM,727,-122.328717321287,47.6099381787742
+M,Madison Park,4130 E Madison St,Seattle,Washington,1928,1,Visible,C/O,2,Field,728,-122.278595836179,47.6354343464809
+M,First Hill,1218 Terry Ave,Seattle,Washington,1925,5,No visible,O,3,GSV,729,-122.328034879251,47.6108313768302
+M,Madison Park,4218 E Madison St,Seattle,Washington,1919,1,No visible,P,2,Field,730,-122.277765985096,47.6360042860346
+M,First Hill,124 13th Ave,Seattle,Washington,1918,4,Sub Alt,R,2,GSV,731,-122.314858671836,47.6024699332995
+M,Madison Park,4230 E Madison St,Seattle,Washington,1919,1,No visible,C,2,Field,732,-122.277366211439,47.6362746868546
+M,First Hill,1317 Boren Ave,Seattle,Washington,1925,5,No visible,R,2,PR,733,-122.327604802724,47.6119374555903
+M,Madrona/Leschi,1134 33rd Ave,Seattle,Washington,1919,1,Sub Alt,G,2,GSV,734,-122.290318639533,47.6126472575573
+M,First Hill,1400 Boren Ave,Seattle,Washington,1925,4,No visible,R,3,Field,735,-122.328255162328,47.6127719683117
+M,Madrona/Leschi,1408 34th Ave,Seattle,Washington,1924,1,No visible,C,2,Field,736,-122.289259181758,47.6131973832453
+M,First Hill,1420 Boren Ave,Seattle,Washington,1925,4,No visible,R,2,Ph,737,-122.328536052941,47.6130715071491
+M,Madrona/Leschi,2513 S Jackson St,Seattle,Washington,1924,1,No visible,C,2,Field,738,-122.299440002672,47.5992321179233
+M,First Hill,1431 Minor Ave,Seattle,Washington,1909,7,Permit,R,3,GSV,739,-122.327643264093,47.6136775777338
+C,Madrona/Leschi,2712 S Jackson St,Seattle,Washington,1926,1,No visible,S,3,GSV,740,-122.296798933279,47.5992472700273
+M,First Hill,151 11th Ave,Seattle,Washington,1901,4,No visible,R,3,GSV,741,-122.318150100834,47.6028603830392
+M,First Hill,1512 5th Ave,Seattle,Washington,1904,4,No visible,C,2,PR,742,-122.335925452534,47.6110819634134
+M,Madrona/Leschi,2713 S Jackson St,Seattle,Washington,1907,2,Permit,C,2,GSV,743,-122.296710354002,47.5991924900684
+M,First Hill,1520 5th Ave,Seattle,Washington,1900,3,No visible,C/O,2,PR,744,-122.336085128974,47.6112614537577
+H,Madrona/Leschi,2801 S Jackson St,Seattle,Washington,1932,2,No visible,P,3,GSV,745,-122.295970248209,47.5991820003726
+H,First Hill,160 Broadway,Seattle,Washington,1922,2,No visible,P,3,Field,746,-122.320718907949,47.6032298527043
+H,Madrona/Leschi,3201 E Republican St,Seattle,Washington,1913,1,Permit,P,3,SIM,747,-122.290050570574,47.6233420726341
+M,First Hill,420 Terry Ave,Seattle,Washington,1925,4,Permit,R,2,GSV-R,748,-122.32278537536,47.6051016784901
+M,First Hill,423 Terry Ave,Seattle,Washington,1911,5,Permit,R,2,GSV,749,-122.322893768777,47.6051378095376
+M,First Hill,452 12th Ave,Seattle,Washington,1923,2,No visible,C/R,2,GSV,750,-122.316728166554,47.6056692868895
+M,Madrona/Leschi,3309 E Union St,Seattle,Washington,1929,1,No visible,C,1,GSV,751,-122.289809307343,47.6128722027609
+M,Madrona/Leschi,800 Lake Washington Blvd,Seattle,Washington,1922,1,Visible,P,2,Ph,752,-122.282971535318,47.6092341540787
+M,Madrona/Leschi,917 34th Ave,Seattle,Washington,,1,No visible,G,1,GSV,753,-122.289400210071,47.6108616803709
+C,Madrona/Leschi,924 35th Ave,Seattle,Washington,1900,1,Permit,S,3,GSV,754,-122.288238186251,47.6110085358357
+C,Magnolia,2418 28th Ave W,Seattle,Washington,1927,2,Permit,S,3,GSV,755,-122.392968350905,47.6405999327704
+M,Miller Park,1000 Turner Way E,Seattle,Washington,1910,1,No visible,O,2,GSV,756,-122.302163823073,47.6276183671072
+M,Miller Park,128 16th Ave E,Seattle,Washington,1906,2,No visible,O,2,SIM,757,-122.311378427745,47.6194480690344
+M,Miller Park,1608 E Republican St,Seattle,Washington,1922,4,No visible,R,2,GSV,758,-122.310989143715,47.6232872930837
+M,Miller Park,1619 E John St,Seattle,Washington,1927,5,Visible,R,2,GSV,759,-122.310649977593,47.6196415451644
+M,Miller Park,1914 E Mercer St,Seattle,Washington,1912,2,No visible,R,2,GSV,760,-122.306669724927,47.6244364963828
+H,Miller Park,1919 E Prospect St,Seattle,Washington,1924,1,No visible,P,3,PR,761,-122.3063795107,47.6286218798039
+M,Miller Park,317 18th Ave E,Seattle,Washington,1916,3,No visible,R,2,GSV,762,-122.30873968948,47.6210494937812
+M,Miller Park,400 15th Ave E,Seattle,Washington,1920,2,Visible,O,2,Ph,763,-122.312588237447,47.622239490157
+M,Miller Park,620 19th Ave E,Seattle,Washington,1907,2,No visible,R,2,GSV,764,-122.307268802407,47.6249201870435
+C,Miller Park,728 21st Ave E,Seattle,Washington,1908,4,Permit,S,3,PR,765,-122.304729133945,47.6264388599537
+H,Miller Park,732 18th Ave E,Seattle,Washington,1923,2,No visible,P,3,PR,766,-122.30858817154,47.626229066545
+C,Montlake/Portage Bay,1617 Interlaken Dr E,Seattle,Washington,1911,4,Permit,S,3,Ph,767,-122.307436637347,47.6343609021888
+M,Montlake/Portage Bay,2305 24th Ave E,Seattle,Washington,1922,1,No visible,C,2,GSV,768,-122.302099720193,47.6397374477327
+M,Montlake/Portage Bay,2351 10th Ave E,Seattle,Washington,1930,1,No visible,C,2,GSV,769,-122.320110505956,47.6410801273652
+M,Montlake/Portage Bay,2409 10th Ave E,Seattle,Washington,1921,1,No visible,C,2,GSV,770,-122.320110505956,47.6417293219652
+C,Montlake/Portage Bay,2515 Boylston Ave E,Seattle,Washington,1917,3,Permit,S,3,Field,771,-122.323480025502,47.6425102206082
+M,Mt. Baker/North Rainier,1400 31st Ave S,Seattle,Washington,1931,1,No visible,C,2,Field,772,-122.292358300318,47.5902098249064
+H,Mt. Baker/North Rainier,1501 32nd Ave S,Seattle,Washington,1947,1,No visible,P,3,SIM,773,-122.291520291634,47.5891795047126
+M,Mt. Baker/North Rainier,2300 S Massachusetts St,Seattle,Washington,1900,3,Sub Alt,C/R,3,PR,774,-122.301768711672,47.5883869508036
+C,Mt. Baker/North Rainier,3013 S Mt Baker Blvd,Seattle,Washington,1912,4,Permit,S,3,PR,775,-122.293397679848,47.5765267872887
+M,Mt. Baker/North Rainier,3201 Hunter Blvd S,Seattle,Washington,1924,2,No visible,C,3,GSV,776,-122.285129743178,47.5749799699794
+M,North Beacon Hill/Jefferson Park,1407 S Dearborn St,Seattle,Washington,1921,1,No visible,O,1,Ph,777,-122.313680330118,47.5958019912102
+M,North Beacon Hill/Jefferson Park,1501 S Dearborn St,Seattle,Washington,1920,1,Permit,C,1,Ph,778,-122.312338816616,47.5958019912102
+H,North Beacon Hill/Jefferson Park,1722 S Forest St,Seattle,Washington,1948,2,No visible,P,3,SIM,779,-122.309698912337,47.5778762881975
+M,North Beacon Hill/Jefferson Park,1811 Rainier Ave S,Seattle,Washington,1928,1,No visible,C/O,2,GSV,780,-122.304646382039,47.5867482294074
+M,North Beacon Hill/Jefferson Park,2507 Beacon Ave S,Seattle,Washington,1928,1,No visible,C,2,PR,781,-122.313553288574,47.5806770336802
+M,North Beacon Hill/Jefferson Park,2541 15th Ave S,Seattle,Washington,1929,2,No visible,R,2,Field,782,-122.313460047041,47.5796199067003
+H,North Beacon Hill/Jefferson Park,2801 15th Ave S,Seattle,Washington,1931,2,No visible,P,3,GSV,783,-122.313390115891,47.5784893518099
+M,North Beacon Hill/Jefferson Park,800 Rainier Ave S,Seattle,Washington,1925,1,No visible,C,1,SIM,784,-122.311322482466,47.5956003565814
+C,North Capitol Hill,1058 E Mercer St,Seattle,Washington,1919,3,Permit,S,3,GSV,785,-122.318329591414,47.6242768199765
+M,North Capitol Hill,1112 Broadway E,Seattle,Washington,1922,4,No visible,R,2,GSV,786,-122.321218916524,47.6290997435144
+M,North Capitol Hill,1132 10th Ave E,Seattle,Washington,1917,4,No visible,R,2,Ph,787,-122.320168782364,47.6296195650919
+H,North Capitol Hill,1400 E Prospect St,Seattle,Washington,1906,4,No visible,G,1,Field,788,-122.313309695113,47.6284167483162
+M,North Capitol Hill,1508 10th Ave E,Seattle,Washington,1923,3,No visible,R,2,GSV,789,-122.320058057818,47.6326522496658
+M,North Capitol Hill,614 Broadway E,Seattle,Washington,1927,1,No visible,C,2,Field,790,-122.320928701398,47.6247406969626
+H,North Capitol Hill,618 Broadway E,Seattle,Washington,1921,1,Permit,P,3,PR,791,-122.320893736273,47.6249458283468
+C,North Capitol Hill,710 E Roy St,Seattle,Washington,1921,3,No visible,S,3,SIM,792,-122.322949714057,47.6251369737526
+M,North Capitol Hill,921 11th Ave E,Seattle,Washington,1922,4,No visible,R,2,GSV,793,-122.318099983824,47.6275297873614
+M,North Capitol Hill,933 11th Ave E,Seattle,Washington,1924,4,Permit,R,2,GSV,794,-122.318090659311,47.6278106778489
+M,North Delridge,1128 SW Spokane St,Seattle,Washington,1926,2,No visible,I,2,GSV,795,-122.351487480241,47.5717270026333
+M,North Delridge,3214 SW Spokane St,Seattle,Washington,1926,1,No visible,G,1,GSV,796,-122.373948223478,47.5720253758908
+H,North Delridge,4408 Delridge Way SW,Seattle,Washington,1917,4,Sub Alt,R,2,GSV,797,-122.363329167538,47.5637898087707
+M,Northgate/Maple Leaf,1020 NE 82nd St,Seattle,Washington,,1,No visible,G,1,,798,-122.316729331668,47.688556434336
+M,Northgate/Maple Leaf,1200 NE 82nd St,Seattle,Washington,1910,1,Permit,G,1,PR,799,-122.314919278473,47.6885471103098
+M,Northgate/Maple Leaf,8511 15th Ave NE,Seattle,Washington,1928,2,No visible,V,,PR,800,-122.312260726068,47.6907406196901
+M,Northgate/Maple Leaf,9412 Roosevelt Way NE,Seattle,Washington,1928,1,No visible,C,2,GSV,801,-122.317568506366,47.69725937524
+M,Olympic Hills/Victory Heights,2611 NE 125th St,Seattle,Washington,1931,2,No visible,O,3,GSV,802,-122.299509933822,47.7192818826955
+M,PS/CID,1 Yesler Way,Seattle,Washington,1911,3,Permit,C/O,2,GSV,803,-122.33607813559,47.6017414831361
+H,PS/CID,100 6th Ave S,Seattle,Washington,1903,5,Visible,R,2,Ph,804,-122.326348371357,47.6014524340673
+M,PS/CID,1001 S Jackson St,Seattle,Washington,1915,1,Permit,C,2,GSV,805,-122.319399538816,47.5991820003726
+M,PS/CID,1005 S King St,Seattle,Washington,1914,1,No visible,C,2,GSV,806,-122.319199068981,47.5983125222523
+M,PS/CID,1019 S Jackson St,Seattle,Washington,1932,2,No visible,C/O,2,PR,807,-122.318789971709,47.5991820003726
+M,PS/CID,102 Occidental Ave S,Seattle,Washington,1900,6,No visible,C/O,3,Field,808,-122.332828665103,47.6013708478507
+H,PS/CID,104 1st Ave S,Seattle,Washington,1902,4,Visible,C/O,3,Field,809,-122.334128220095,47.6014197997171
+M,PS/CID,1041 S King St,Seattle,Washington,1911,1,No visible,C,3,GSV,810,-122.317789955456,47.5983125222523
+M,PS/CID,1043 S Jackson St,Seattle,Washington,1921,1,No visible,C,2,PR,811,-122.317619789389,47.5991820003726
+H,PS/CID,105 1st Ave S,Seattle,Washington,1900,4,No visible,C/R,3,Field,812,-122.334209805987,47.6015095448883
+M,PS/CID,107 Occidental Ave S,Seattle,Washington,1900,1,Visible,C,3,Field,813,-122.332910250995,47.6014186343123
+H,PS/CID,108 S Washington St,Seattle,Washington,1900,4,No visible,C/O,3,GSV,814,-122.33384966061,47.6009162952144
+M,PS/CID,109 Yesler Way,Seattle,Washington,1890,3,Permit,C,2,Field,815,-122.333430072812,47.6017123451609
+H,PS/CID,111 1st Ave S,Seattle,Washington,1900,6,Permit,C/R,3,Field,816,-122.334209805987,47.6012496339986
+M,PS/CID,111 Yesler Way,Seattle,Washington,1890,3,Visible,C,2,GSV-R,817,-122.333200465222,47.6017123451609
+M,PS/CID,112 1st Ave S,Seattle,Washington,1906,3,Visible,C/O,2,Field,818,-122.334128220095,47.6012997513858
+H,PS/CID,114 Alaskan Way S,Seattle,Washington,1902,6,Visible,Mixed,3,Field,819,-122.335700507201,47.6011179299524
+M,PS/CID,115 Occidental Ave S,Seattle,Washington,1900,1,Visible,C,2,Field,820,-122.332910250995,47.6012379787009
+M,PS/CID,116 S Washington St,Seattle,Washington,1900,2,Visible,C/O,2,GSV,821,-122.333439397325,47.6009162952144
+M,PS/CID,117 S Main St,Seattle,Washington,1902,4,Visible,O,3,Field,822,-122.333389280315,47.600011851347
+M,PS/CID,118 S Washington St,Seattle,Washington,1900,2,Permit,C/O,2,GSV,823,-122.333369466175,47.6009162952144
+H,PS/CID,119 1st Ave S,Seattle,Washington,1900,6,Visible,O,3,Field,824,-122.334209805987,47.601018860801
+M,PS/CID,122 S Jackson St,Seattle,Washington,1900,3,Visible,C,3,Field,825,-122.333279720885,47.5992472700273
+H,PS/CID,124 S Washington St,Seattle,Washington,1900,1,Permit,P,3,PR,826,-122.333149183098,47.6009162952144
+H,PS/CID,164 S Washington St,Seattle,Washington,1900,1,Permit,P,3,Field,827,-122.331968510252,47.6009069706747
+M,PS/CID,173 S Washington St,Seattle,Washington,1900,1,Sub Alt,C,2,Field,828,-122.331809999825,47.6008417018791
+H,PS/CID,200 5th Ave S,Seattle,Washington,1910,5,Visible,R,3,GSV,829,-122.327598974454,47.6007193219865
+M,PS/CID,201 1st Ave S,Seattle,Washington,1900,3,Permit,C/O,2,Field,830,-122.334209805987,47.6006995080202
+H,PS/CID,201 S Washington St,Seattle,Washington,1905,2,Sub Alt,P,3,Field,831,-122.331369432772,47.6008417018791
+H,PS/CID,202 1st Ave S,Seattle,Washington,1909,3,Sub Alt,P,3,Field,832,-122.334128220095,47.6007088325969
+M,PS/CID,204 3rd Ave S,Seattle,Washington,1905,4,Visible,C/R,3,Field,833,-122.330228389105,47.6006995080202
+M,PS/CID,205 3rd Ave S,Seattle,Washington,1890,4,Permit,O,3,Field,834,-122.330309974997,47.6007099980174
+H,PS/CID,206 1st Ave S,Seattle,Washington,1903,5,Sub Alt,C/O,3,Field,835,-122.334128220095,47.6005794592476
+M,PS/CID,206 3rd Ave S,Seattle,Washington,1904,4,Visible,O,2,Field,836,-122.330228389105,47.60056896983
+M,PS/CID,207 1st Ave S,Seattle,Washington,1900,3,Permit,C/O,2,Field,837,-122.334209805987,47.6005794592476
+M,PS/CID,207 2nd Ave S,Seattle,Washington,1900,1,Permit,C,2,Field,838,-122.331630510143,47.6005386663831
+M,PS/CID,209 1st Ave S,Seattle,Washington,1900,3,Permit,C/O,2,GSV,839,-122.334209805987,47.6005002043372
+M,PS/CID,210 3rd Ave S,Seattle,Washington,1904,5,Permit,C/R,2,Field,840,-122.330228389105,47.6004489213635
+M,PS/CID,211 1st Ave S,Seattle,Washington,1900,3,Permit,C/R,2,Field,841,-122.334220295615,47.6004197832741
+M,PS/CID,211 S Washington St,Seattle,Washington,1936,2,Visible,O,2,GSV,842,-122.330729562795,47.6008417018791
+H,PS/CID,212 Alaskan Way S,Seattle,Washington,1914,5,Sub Alt,R,3,Field,843,-122.335538499632,47.6003894797408
+M,PS/CID,213 1st Ave S,Seattle,Washington,1900,3,Visible,C/R,2,Field,844,-122.334220295615,47.6003300380506
+M,PS/CID,213 S Main St,Seattle,Washington,1900,1,No visible,V,2,Field,845,-122.330679444887,47.600011851347
+H,PS/CID,216 1st Ave S,Seattle,Washington,1900,4,Visible,C/O,3,Field,846,-122.334138709722,47.6003685002215
+H,PS/CID,217 2nd Ave S,Seattle,Washington,1900,4,Visible,C/R,2,Field,847,-122.331620019617,47.6003393620873
+H,PS/CID,219 1st Ave S,Seattle,Washington,1900,4,Visible,C/O,2,Field,848,-122.334220295615,47.6002099896416
+M,PS/CID,219 S Washington St,Seattle,Washington,1900,3,Sub Alt,C/R,2,GSV,849,-122.330589699597,47.6008417018791
+H,PS/CID,220 2nd Ave S,Seattle,Washington,1900,5,Sub Alt,C/O,2,Field,850,-122.331538433725,47.6002496173316
+H,PS/CID,220 3rd Ave S,Seattle,Washington,1905,2,Sub Alt,P,3,SIM,851,-122.330228389105,47.6002496173316
+H,PS/CID,222 2nd Av Et S,Seattle,Washington,1906,4,Permit,C/O,2,Field,852,-122.329447436916,47.6035694469003
+M,Queen Anne,2135 Queen Anne Ave N,Seattle,Washington,1947,1,No visible,C,2,GSV,853,-122.356989902105,47.638189636833
+M,Univ Dist,6300 Roosevelt Way NE,Seattle,Washington,1930,1,No visible,C/R,2,SIM,854,-122.317308595008,47.6742904648002
+M,PS/CID,301 1st Ave S,Seattle,Washington,1900,3,Permit,Mixed,3,Field,855,-122.334220295615,47.599699491741
+M,Queen Anne,2201 Queen Anne Ave N,Seattle,Washington,1911,1,No visible,C,2,Field,856,-122.356989902105,47.6385206443582
+M,PS/CID,301 Occidental Ave S,Seattle,Washington,1902,4,Permit,C/O,3,PR,857,-122.332930065135,47.600018843963
+C,Wallingford,120 NE 54th St,Seattle,Washington,1913,3,Sub Alt,S,3,GSV,858,-122.326609447829,47.6679173995236
+M,Queen Anne,2205 Queen Anne Ave N,Seattle,Washington,1928,1,No visible,C,2,PR,859,-122.356989902105,47.6386803208308
+M,PS/CID,303 12th Ave S,Seattle,Washington,1920,1,No visible,C,2,GSV,860,-122.317230505359,47.5999011269286
+M,Queen Anne,2215 Queen Anne Ave N,Seattle,Washington,1922,1,No visible,C,2,Ph,861,-122.356980577592,47.6389204181198
+M,Wallingford,1307 N 46th St,Seattle,Washington,1924,1,No visible,C,2,GSV,862,-122.341709930126,47.6620921288808
+M,PS/CID,304 Alaskan Way S,Seattle,Washington,1900,3,No visible,C,2,Field,863,-122.33552917512,47.5997297950682
+M,Queen Anne,232 1st Ave N,Seattle,Washington,1923,1,Permit,C,2,GSV,864,-122.355398966872,47.62076860329
+M,PS/CID,306 6th Ave S,Seattle,Washington,1914,7,Permit,Mixed,3,GSV,865,-122.326319233602,47.599689002147
+M,Wallingford,1701 N 45th St,Seattle,Washington,1925,3,Permit,C/R,2,PR,866,-122.337089807483,47.6613520234162
+H,Queen Anne,25 W Highland Dr,Seattle,Washington,1926,5,No visible,R,2,GSV,867,-122.357599469212,47.6295321510944
+H,PS/CID,307 3rd Ave S,Seattle,Washington,1906,5,Permit,C/O,3,Field,868,-122.330300651383,47.5997297950682
+M,Queen Anne,25 W Roy St,Seattle,Washington,1914,5,No visible,R,3,GSV,869,-122.35762977298,47.6257022511258
+H,PS/CID,308 Occidental Ave S,Seattle,Washington,1908,5,Permit,C/O,3,Field,870,-122.332844733268,47.5998975445981
+M,Wallingford,1723 N 45th St,Seattle,Washington,1926,2,No visible,C/R,3,GSV,871,-122.336571395123,47.661350879313
+M,Queen Anne,2553 Westlake Ave N,Seattle,Washington,1925,1,No visible,I,1,GSV,872,-122.344503682575,47.643558023288
+H,PS/CID,310 1st Ave S,Seattle,Washington,1900,4,Permit,C/O,3,Field,873,-122.334138709722,47.5997892368347
+M,Wallingford,1820 N 45th St,Seattle,Washington,1922,1,Visible,C,2,GSV,874,-122.335489547738,47.661406802393
+H,Queen Anne,2555 8th Ave W,Seattle,Washington,1926,1,No visible,P,3,PR,875,-122.367620613686,47.6423517100442
+M,PS/CID,311 1st Ave S,Seattle,Washington,1900,3,Visible,C/O,2,Field,876,-122.334220295615,47.5996598642401
+M,Queen Anne,2555 Westlake Ave N,Seattle,Washington,1926,2,Sub Alt,Mixed,2,GSV,877,-122.344634220362,47.6437072102569
+M,PS/CID,311 6th Ave S,Seattle,Washington,1926,2,No visible,C/R,3,GSV,878,-122.326399654379,47.5994489045347
+M,Wallingford,1912 N 45th St,Seattle,Washington,1923,1,No visible,C,2,Ph,879,-122.334749441945,47.661406802393
+C,Queen Anne,2919 1st Ave W,Seattle,Washington,1914,1,Sub Alt,S,3,PR,880,-122.358179898565,47.6462596996605
+M,PS/CID,311 Occidental Ave S,Seattle,Washington,1900,3,No visible,C/O,3,Field,881,-122.332930065135,47.5997088158902
+C,Queen Anne,3 W Cremora St,Seattle,Washington,1925,1,Permit,S,2,PR,882,-122.329447436916,47.6035694469003
+M,Wallingford,1920 N 45th St,Seattle,Washington,1927,1,No visible,C,3,Ph,883,-122.3340792682,47.661406802393
+M,PS/CID,312 1st Ave S,Seattle,Washington,1900,3,Permit,C/O,2,GSV,884,-122.334139362798,47.5994494927107
+M,Wallingford,2104 N 45th St,Seattle,Washington,1929,1,Sub Alt,C,2,GSV,885,-122.333428907697,47.661406802393
+M,Queen Anne,303 Nickerson St,Seattle,Washington,1920,1,No visible,O,1,SIM,886,-122.351011948062,47.6466839494367
+M,PS/CID,312 2nd Ave S,Seattle,Washington,1900,3,Sub Alt,Mixed,3,Field,887,-122.331538433725,47.5995398155048
+M,Queen Anne,307 Nickerson St,Seattle,Washington,1922,2,No visible,C,2,SIM,888,-122.35090238953,47.6466338319681
+H,Wallingford,2115 N 45th St,Seattle,Washington,1920,1,No visible,P,3,PR,889,-122.332999996285,47.6613520234162
+H,PS/CID,313 1st Ave S,Seattle,Washington,1900,4,Visible,C/O,2,Field,890,-122.334220295615,47.5995596293045
+M,Ravenna/Bryant,2814 NE 55th St,Seattle,Washington,1925,1,No visible,R,1,GSV,891,-122.296549511549,47.6685269665458
+M,Queen Anne,312 W Republican St,Seattle,Washington,1928,2,No visible,C/R,2,GSV,892,-122.361158968965,47.6233269208494
+M,Wallingford,4135 Stone Way N,Seattle,Washington,1912,1,No visible,C,2,GSV,893,-122.342349801001,47.6577307514471
+M,Queen Anne,319 Nickerson St,Seattle,Washington,1918,1,Visible,C,2,Field,894,-122.350391891327,47.6463832451143
+M,Ravenna/Bryant,2818 NE 55th St,Seattle,Washington,1924,1,No visible,C,2,GSV,895,-122.296379345481,47.6685269665458
+H,PS/CID,313 2nd Av Et S,Seattle,Washington,1905,4,Sub Alt,O,3,PR,896,-122.329447436916,47.6035694469003
+M,Univ Dist,4203 Brooklyn Ave NE,Seattle,Washington,1925,4,No visible,R,2,GSV,897,-122.314390132143,47.6585104845278
+M,Wallingford,4136 Meridian Ave N,Seattle,Washington,1924,3,No visible,R,2,GSV,898,-122.333738936065,47.6576783029657
+C,Queen Anne,3307 3rd Ave W,Seattle,Washington,1891,4,Sub Alt,S,3,GSV,899,-122.36093052649,47.6490499558242
+M,PS/CID,315 2nd Ave S,Seattle,Washington,1900,3,Sub Alt,C/O,3,Field,900,-122.331620019617,47.5995281604319
+M,Ravenna/Bryant,2906 NE 55th St,Seattle,Washington,1930,1,No visible,C,2,PR,901,-122.295728985877,47.6685269665458
+M,Univ Dist,4209 University Way NE,Seattle,Washington,1923,2,No visible,C,3,GSV,902,-122.313219949823,47.6586608364822
+C,Queen Anne,3307 3rd Ave W,Seattle,Washington,1940,2,No visible,S,3,GSV,903,-122.36093052649,47.6490499558242
+C,Wallingford,4400 Interlake Ave N,Seattle,Washington,1906,3,Permit,S,3,GSV,904,-122.34063881671,47.6599487369288
+H,PS/CID,315 3rd Ave S,Seattle,Washington,1902,4,No visible,C,3,GSV,905,-122.330300651383,47.5994489045347
+M,Ravenna/Bryant,3412 NE 65th St,Seattle,Washington,1945,1,No visible,P,2,WC,906,-122.290859441504,47.6758172964268
+M,Univ Dist,4214 Roosevelt Way NE,Seattle,Washington,1924,1,No visible,C,3,GSV,907,-122.317728182806,47.6588170164972
+M,Wallingford,4401 Wallingford Ave N,Seattle,Washington,1924,1,No visible,C,2,Field,908,-122.336229653531,47.6604697242655
+M,PS/CID,315 Maynard Ave S,Seattle,Washington,1910,4,No visible,R,3,GSV,909,-122.32508960976,47.5995188362506
+M,Queen Anne,371 Ward St,Seattle,Washington,1912,1,No visible,G,1,SIM,910,-122.349283397216,47.6279207486723
+C,Univ Dist,4216 Memorial Way NE,Seattle,Washington,1895,3,Sub Alt,S,3,PR,911,-122.309625330434,47.658988406471
+M,Ravenna/Bryant,4600 22nd Ave NE,Seattle,Washington,1927,3,No visible,R,2,WC,912,-122.30440045745,47.6620606595229
+M,Wallingford,4411 Wallingford Ave N,Seattle,Washington,1938,1,No visible,C,2,PR,913,-122.336229653531,47.6606690280868
+H,PS/CID,316 1st Ave S,Seattle,Washington,1905,7,Visible,Mixed,3,Field,914,-122.334138709722,47.5994593941769
+M,Queen Anne,401 Queen Anne Ave N,Seattle,Washington,1919,1,No visible,O,2,PR,915,-122.356790598282,47.6223408907722
+M,Univ Dist,4216 University Way NE,Seattle,Washington,1914,2,No visible,C,3,GSV,916,-122.313129039418,47.6587785543567
+H,PS/CID,316 Occidental Ave S,Seattle,Washington,1900,5,Permit,C/O,3,Field,917,-122.332844168228,47.5998449871668
+M,Wallingford,4512 Stone Way N,Seattle,Washington,1900,2,No visible,C/R,2,GSV,918,-122.342060751889,47.6619511004638
+M,Queen Anne,405 Prospect St,Seattle,Washington,1930,4,Permit,R,2,GSV,919,-122.348569017376,47.628881790891
+M,Ravenna/Bryant,5520 Ravenna Ave NE,Seattle,Washington,,1,No visible,G,1,,920,-122.303848928697,47.6687895126621
+M,Univ Dist,4217 University Way NE,Seattle,Washington,1941,1,No visible,C,3,GSV,921,-122.313210625311,47.6589312374155
+C,Wallingford,4649 Sunnyside Ave N,Seattle,Washington,1906,5,Permit,S,3,PR,922,-122.330180602325,47.6634604498125
+M,Queen Anne,406 W Garfield St,Seattle,Washington,1913,2,Visible,G,2,GSV,923,-122.36273941457,47.6335473691312
+H,Ravenna/Bryant,5801 Sand Point Way NE,Seattle,Washington,,3,No visible,P,3,PR,924,-122.270166792053,47.6707845799551
+H,PS/CID,318 2nd Av Et S,Seattle,Washington,1904,6,Permit,R,3,GSV,925,-122.329447436916,47.6035694469003
+M,Univ Dist,4235 Brooklyn Ave NE,Seattle,Washington,1928,3,No visible,R,2,Field,926,-122.314359828376,47.6593904522608
+M,Wallingford,4701 Roosevelt Way NE,Seattle,Washington,1927,1,No visible,C,3,GSV,927,-122.317460112949,47.6633089319247
+C,Queen Anne,411 Boston St,Seattle,Washington,1922,1,Sub Alt,S,3,GSV,928,-122.348968791034,47.6382024575605
+H,Ravenna/Bryant,6215 33rd Ave NE,Seattle,Washington,1930,2,No visible,P,3,Field,929,-122.292230093659,47.6745597002408
+M,Univ Dist,4235 University Way NE,Seattle,Washington,1922,1,No visible,C,2,GSV,930,-122.313200135683,47.6592004728314
+H,PS/CID,319 2nd Ave S,Seattle,Washington,1889,3,Permit,P,3,GSV,931,-122.331609529989,47.5993684836728
+C,Wallingford,4811 Wallingford Ave N,Seattle,Washington,1910,3,Permit,S,3,GSV,932,-122.336440612095,47.6638998505311
+M,Queen Anne,421 W Roy St,Seattle,Washington,1930,5,No visible,R,2,GSV,933,-122.362959697648,47.6258222997558
+M,PS/CID,650 S King St,Seattle,Washington,1920,4,Permit,C/R,3,Field,934,-122.324689836102,47.5983766263077
+H,Wallingford,5050 8th Ave NE,Seattle,Washington,1910,2,Permit,P,3,PR,935,-122.319478794479,47.6665094510046
+C,Ravenna/Bryant,6220 32nd Ave NE,Seattle,Washington,1949,1,Permit,S,3,PR,936,-122.293209130657,47.6749093564377
+M,PS/CID,320 2nd Ave S,Seattle,Washington,1900,1,Visible,C,2,Field,937,-122.331529109212,47.5994197664941
+M,Univ Dist,4247 University Way NE,Seattle,Washington,1921,1,No visible,C,3,GSV,938,-122.313189646056,47.6595909218902
+H,Queen Anne,509 Queen Anne Ave N,Seattle,Washington,1926,2,No visible,P,3,GSV,939,-122.356769619027,47.6234597901972
+M,Wallingford,712 NE 45th St,Seattle,Washington,1934,1,No visible,P,2,WC,940,-122.319899547392,47.6613566851371
+M,PS/CID,657 S King St,Seattle,Washington,1909,4,Permit,C/R,3,Field,941,-122.324589601184,47.5983218466487
+M,PS/CID,322 1st Ave S,Seattle,Washington,1900,3,No visible,C/O,2,Field,942,-122.334138709722,47.5993393455874
+C,Univ Dist,4276 E Stevens Way NE,Seattle,Washington,1926,3,Permit,S,3,PR,943,-122.308837599558,47.6597725387996
+M,Ravenna/Bryant,6545 Ravenna Ave NE,Seattle,Washington,1911,4,Permit,C/R,2,GSV,944,-122.303880634735,47.6772776936662
+M,Queen Anne,513 Queen Anne Ave N,Seattle,Washington,1926,1,No visible,C,2,Field,945,-122.356760294515,47.623769818573
+M,Wallingford,809 NE 45th St,Seattle,Washington,1930,1,No visible,C,3,GSV,946,-122.319250352004,47.661291416165
+M,PS/CID,657 S Weller St,Seattle,Washington,1909,3,Sub Alt,C/R,3,PR,947,-122.324689836102,47.5974815060914
+M,PS/CID,400 2nd Av Et S,Seattle,Washington,1900,3,Permit,C/R,2,Field,948,-122.329447436916,47.6035694469003
+M,Univ Dist,4306 University Way NE,Seattle,Washington,1923,1,No visible,C,2,GSV,949,-122.31309873565,47.6600291578033
+M,Ravenna/Bryant,7200 12th Ave NE,Seattle,Washington,1930,1,No visible,G,1,Ph,950,-122.315336535143,47.6815131945712
+M,Queen Anne,522 Queen Anne Ave N,Seattle,Washington,1930,1,Visible,C,2,Ph,951,-122.356678708622,47.6239912672386
+M,PS/CID,664 S King St,Seattle,Washington,1911,5,Sub Alt,C/R,3,GSV,952,-122.324218965281,47.5983766263077
+M,PS/CID,400 Maynard Ave S,Seattle,Washington,1916,3,Visible,C/R,3,Field,953,-122.324998698456,47.5989500622869
+M,West Seattle Junction/Genesee Hill,2701 California Ave SW,Seattle,Washington,1930,3,No visible,Mixed,2,Field,954,-122.386680368495,47.579161857081
+M,Univ Dist,4315 University Way NE,Seattle,Washington,1900,3,Visible,C,3,GSV,955,-122.313169832814,47.6603205379821
+M,Queen Anne,526 Queen Anne Ave N,Seattle,Washington,1923,1,No visible,C,2,Field,956,-122.35668919825,47.6241113161653
+M,Ravenna/Bryant,8000 Lake City Way NE,Seattle,Washington,1941,1,No visible,C,1,Ph,957,-122.312992673361,47.6869247061948
+C,West Seattle Junction/Genesee Hill,3000 California Ave SW,Seattle,Washington,1920,2,Sub Alt,S,3,Field,958,-122.386708341135,47.5761186830365
+M,PS/CID,406 2nd Av Et S,Seattle,Washington,,1,Sub Alt,O,1,Ph,959,-122.329447436916,47.6035694469003
+M,PS/CID,665 S King St,Seattle,Washington,1909,3,No visible,C/R,3,Field,960,-122.324249269049,47.5983218466487
+M,Univ Dist,4321 University Way NE,Seattle,Washington,1919,2,No visible,C,3,GSV,961,-122.313169832814,47.6604697242655
+M,Queen Anne,530 Queen Anne Ave N,Seattle,Washington,1929,1,Visible,C,2,Ph,962,-122.356678708622,47.6243176130975
+M,Ravenna/Bryant,8014 15th Ave NE,Seattle,Washington,1926,1,No visible,C,3,Ph,963,-122.312129022268,47.6871310030506
+M,PS/CID,667 S Jackson St,Seattle,Washington,1915,2,No visible,C,2,Field,964,-122.324129220889,47.5991820003726
+H,PS/CID,410 2nd Av Et S,Seattle,Washington,1900,3,Sub Alt,P,3,Ph,965,-122.329447436916,47.6035694469003
+C,Univ Dist,4324 Memorial Way NE,Seattle,Washington,1894,1,No visible,S,2,UWL,966,-122.309483740674,47.6602891843285
+M,Queen Anne,600 Queen Anne Ave N,Seattle,Washington,1918,3,No visible,C/R,3,GSV,967,-122.356668218096,47.6248898837789
+H,Ravenna/Bryant,8208 18th Ave NE,Seattle,Washington,1946,2,Permit,P,3,GSV,968,-122.308928503675,47.6888210076455
+M,West Seattle Junction/Genesee Hill,3225 California Ave SW,Seattle,Washington,1922,2,No visible,C/R,2,Field,969,-122.386800416655,47.5747993139938
+M,PS/CID,670 S Weller St,Seattle,Washington,1908,3,No visible,C,3,GSV,970,-122.324089592609,47.5975362860245
+M,PS/CID,410 8th Ave S,Seattle,Washington,1901,3,No visible,C/R,2,Field,971,-122.322408912086,47.5987309444966
+M,Univ Dist,4325 University Way NE,Seattle,Washington,1924,1,No visible,C,2,Ph,972,-122.313160508301,47.6606002623676
+H,Queen Anne,601 Queen Anne Ave N,Seattle,Washington,1925,1,No visible,P,3,PR,973,-122.356749804887,47.6247290420558
+C,Roxhill/Westwood,7740 34th Ave SW,Seattle,Washington,1926,2,Permit,S,3,PR,974,-122.375218640716,47.5328382497826
+M,West Seattle Junction/Genesee Hill,3401 California Ave SW,Seattle,Washington,1934,1,No visible,C,2,Field,975,-122.386800416655,47.5736291320389
+M,PS/CID,68 S Washington St,Seattle,Washington,1900,3,Permit,C/R,2,Field,976,-122.33529956753,47.6009069706747
+M,PS/CID,411 2nd Av Et S,Seattle,Washington,1900,1,No visible,C,2,Field,977,-122.329447436916,47.6035694469003
+H,Univ Dist,4329 University Way NE,Seattle,Washington,1921,2,No visible,P,3,GSV,978,-122.313160508301,47.660690007615
+H,Queen Anne,602 Valley St,Seattle,Washington,1928,2,No visible,P,3,GSV,979,-122.344659861873,47.626276852697
+M,Roxhill/Westwood,9229 16th Ave SW,Seattle,Washington,,1,No visible,C,1,GSV,980,-122.355160034769,47.5201096014198
+M,West Seattle Junction/Genesee Hill,4139 42nd Ave SW,Seattle,Washington,1927,3,No visible,Mixed,1,Field,981,-122.385499696547,47.5654192063518
+M,PS/CID,700 S Dearborn St,Seattle,Washington,1929,1,No visible,C,2,PR,982,-122.323389115096,47.5958567710843
+M,Univ Dist,4336 University Way NE,Seattle,Washington,1900,3,No visible,C,2,GSV,983,-122.31307892151,47.6607984010042
+M,PS/CID,413 7th Ave S,Seattle,Washington,1915,1,Visible,C,2,Field,984,-122.323790053869,47.598828847672
+M,Queen Anne,621 W Galer St,Seattle,Washington,1917,4,No visible,R,2,GSV,985,-122.3653093868,47.6323317309947
+M,Roxhill/Westwood,9434 Delridge Way SW,Seattle,Washington,1926,2,No visible,C/R,2,GSV,986,-122.35585468491,47.5181713410815
+C,West Seattle Junction/Genesee Hill,4142 42nd Ave SW,Seattle,Washington,1922,2,Permit,S,3,PR,987,-122.385419274872,47.5654098821547
+M,PS/CID,701 S Jackson St,Seattle,Washington,1910,1,No visible,C,1,Field,988,-122.323369300956,47.5991820003726
+M,PS/CID,416 7th Ave S,Seattle,Washington,1920,4,No visible,C/R,3,Field,989,-122.323708467977,47.5986901507966
+M,Univ Dist,4338 University Way NE,Seattle,Washington,1909,3,No visible,C,3,GSV,990,-122.31307892151,47.6609079600623
+M,Queen Anne,621 W McGraw St,Seattle,Washington,1926,1,No visible,C,2,Field,991,-122.366169540753,47.6395521300761
+M,Roxhill/Westwood,9643 20th Ave SW,Seattle,Washington,1949,2,No visible,R,2,GSV,992,-122.359240522353,47.516358956769
+M,West Seattle Junction/Genesee Hill,4210 SW Edmunds St,Seattle,Washington,1910,1,No visible,C,2,Field,993,-122.38628991935,47.559346844806
+M,PS/CID,705 S King St,Seattle,Washington,1910,4,Permit,C/R,3,GSV,994,-122.323448556619,47.5983218466487
+M,PS/CID,418 7th Ave S,Seattle,Washington,1916,4,Permit,C/R,3,Field,995,-122.323699143464,47.5985607785129
+M,Univ Dist,4341 University Way NE,Seattle,Washington,1912,2,No visible,C/O,2,Ph,996,-122.313160508301,47.6610198500684
+M,Queen Anne,7 Harrison St,Seattle,Washington,1908,4,No visible,R,2,Ph,997,-122.356350031229,47.6220716554557
+H,Seward Park,6701 51st Ave S,Seattle,Washington,1927,2,No visible,P,3,Field,998,-122.269930191977,47.5419596119896
+H,West Seattle Junction/Genesee Hill,4304 SW Dakota St,Seattle,Washington,1930,1,Permit,P,3,PR,999,-122.387030024245,47.5666173612686
+M,PS/CID,723 S King St,Seattle,Washington,1910,4,Sub Alt,C,3,GSV,1000,-122.322759733849,47.5983323365168
+M,PS/CID,418 8th Ave S,Seattle,Washington,1910,5,Visible,C/R,3,Field,1001,-122.322408912086,47.5986004056349
+M,Univ Dist,4346 University Way NE,Seattle,Washington,1909,4,Permit,C/R,3,GSV,1002,-122.313068431883,47.6610688017573
+M,Queen Anne,706 Taylor Ave N,Seattle,Washington,1920,1,No visible,C,2,GSV,1003,-122.346239142364,47.6257092445455
+M,Seward Park,7621 Rainier Ave S,Seattle,Washington,1920,1,No visible,R,2,Ph,1004,-122.270019937267,47.5339897833392
+M,West Seattle Junction/Genesee Hill,4400 California Ave SW,Seattle,Washington,1910,1,No visible,C,2,PR,1005,-122.386749133632,47.5645590523334
+H,PS/CID,75 S Main St,Seattle,Washington,1900,4,Permit,C/R,2,Field,1006,-122.33515970523,47.600011851347
+M,PS/CID,423 2nd Av Et S,Seattle,Washington,1900,3,No visible,O,2,Field,1007,-122.329447436916,47.6035694469003
+M,Queen Anne,707 Westlake Ave N,Seattle,Washington,1914,2,No visible,C,3,,1008,-122.33894764656,47.6261299971259
+M,Univ Dist,4503 17th Ave NE,Seattle,Washington,1929,3,No visible,R,2,GSV,1009,-122.309789823641,47.6615699755197
+M,West Seattle Junction/Genesee Hill,4410 California Ave SW,Seattle,Washington,1910,1,No visible,C,1,PR,1010,-122.386749133632,47.5645089349164
+M,South Beacon Hill/New Holly,7762 Beacon Ave S,Seattle,Washington,1935,2,No visible,C/R,2,GSV,1011,-122.288577352373,47.532636614649
+M,PS/CID,76 S Main St,Seattle,Washington,1907,3,Permit,C/O,2,Field,1012,-122.33533919581,47.6000666304481
+M,PS/CID,500 S King St,Seattle,Washington,1926,1,No visible,C,2,GSV,1013,-122.327489415922,47.5984174190407
+M,Queen Anne,710 Taylor Ave N,Seattle,Washington,1920,1,No visible,C,1,Ph,1014,-122.346239142364,47.6257989898164
+C,South Park,723 S Concord St,Seattle,Washington,1909,3,Permit,S,3,PR,1015,-122.324689836102,47.5238823906403
+M,Univ Dist,4506 17th Ave NE,Seattle,Washington,1925,3,Visible,R,2,GSV,1016,-122.30947862926,47.6616282512967
+M,West Seattle Junction/Genesee Hill,4415 Fauntleroy Way SW,Seattle,Washington,1924,1,No visible,C,3,Field,1017,-122.377631529942,47.5641573097164
+H,PS/CID,77 S Washington St,Seattle,Washington,1903,5,Visible,Mixed,3,Field,1018,-122.335219146752,47.600852191242
+M,PS/CID,501 S Jackson St,Seattle,Washington,1900,3,Visible,C/O,3,GSV,1019,-122.327288946087,47.5991715106749
+M,Queen Anne,721 9th Ave N,Seattle,Washington,1922,1,Visible,C,3,GSV,1020,-122.339799642013,47.6259493414976
+M,South Park,8201 10th Ave S,Seattle,Washington,1919,1,Permit,G,3,GSV,1021,-122.320220065387,47.5295899440659
+M,Univ Dist,4508 University Way NE,Seattle,Washington,1925,2,No visible,C,2,Ph,1022,-122.313059108268,47.6616189272977
+H,PS/CID,77 Yesler Way,Seattle,Washington,1914,4,Permit,C/R,3,Field,1023,-122.335329871298,47.6017321593492
+M,West Seattle Junction/Genesee Hill,4427 California Ave SW,Seattle,Washington,1920,1,No visible,I,1,Ph,1024,-122.386829555308,47.5639692989153
+M,PS/CID,506 Maynard Ave S,Seattle,Washington,1909,4,Visible,C/R,3,Field,1025,-122.324998698456,47.5980491147902
+M,South Park,8520 14th Ave S,Seattle,Washington,1936,1,No visible,C,1,SIM,1026,-122.314849347323,47.5267880329689
+M,Queen Anne,731 Westlake Ave N,Seattle,Washington,1921,2,No visible,C,3,Field,1027,-122.339136460755,47.6264085569641
+M,West Seattle Junction/Genesee Hill,4480 Fauntleroy Way SW,Seattle,Washington,1946,1,Visible,C,2,PR,1028,-122.378470442331,47.563435490427
+H,PS/CID,80 S Jackson St,Seattle,Washington,1900,5,Visible,C/R,3,GSV,1029,-122.33458044189,47.5992367803426
+M,Univ Dist,4509 University Way NE,Seattle,Washington,1916,3,Visible,C/R,2,Field,1030,-122.313140694161,47.6616503963169
+M,PS/CID,507 12th Ave S,Seattle,Washington,1931,1,No visible,I,1,GSV,1031,-122.317259643113,47.5980304665045
+M,South Park,8601 8th Ave S,Seattle,Washington,1905,2,No visible,C/R,1,GSV,1032,-122.322960203684,47.5263206596763
+M,Queen Anne,822 Queen Anne Ave N,Seattle,Washington,1915,4,No visible,R,2,PR,1033,-122.356678708622,47.6269085649439
+M,West Seattle Junction/Genesee Hill,4508 California Ave SW,Seattle,Washington,1924,1,No visible,C,2,Field,1034,-122.386749133632,47.5625590190939
+M,PS/CID,81 S Washington St,Seattle,Washington,1900,3,No visible,C/O,3,GSV,1035,-122.335079284452,47.600852191242
+M,Univ Dist,4515 University Way NE,Seattle,Washington,1928,3,Permit,C/O,3,Ph,1036,-122.313140694161,47.6618100728758
+M,PS/CID,507 Maynard Ave S,Seattle,Washington,1927,5,Sub Alt,C/R,3,PR,1037,-122.325080285247,47.5980094872508
+M,Sunset Hill/Loyal Heights,2406 NW 54th St,Seattle,Washington,1930,1,No visible,O,2,GSV,1038,-122.388303938624,47.6680968895089
+M,Queen Anne,823 5th Ave N,Seattle,Washington,1900,1,No visible,C,2,GSV,1039,-122.347580655866,47.6270192891024
+M,West Seattle Junction/Genesee Hill,4528 California Ave SW,Seattle,Washington,1928,2,No visible,C,2,Field,1040,-122.386749133632,47.5620193830096
+M,PS/CID,925 S King St,Seattle,Washington,1924,2,No visible,C,3,GSV,1041,-122.319870408739,47.5983218466487
+M,Univ Dist,4516 University Way NE,Seattle,Washington,1925,2,No visible,C,2,Ph,1042,-122.313059108268,47.6618788382115
+M,PS/CID,512 Maynard Ave S,Seattle,Washington,1904,1,No visible,C,3,GSV,1043,-122.324998698456,47.5978894383632
+H,Sunset Hill/Loyal Heights,3014 NW 67th St,Seattle,Washington,1907,2,No visible,P,3,GSV,1044,-122.396489387493,47.6773464591897
+M,Queen Anne,900 Broad St,Seattle,Washington,1941,1,No visible,C,2,GSV,1045,-122.339307792835,47.6255763748609
+M,West Seattle Junction/Genesee Hill,4535 California Ave SW,Seattle,Washington,1924,1,No visible,C,2,Field,1046,-122.386829555308,47.5619494521044
+M,PS/CID,95 Yesler Way,Seattle,Washington,1900,3,No visible,C/O,2,Field,1047,-122.334489531485,47.601721669557
+M,Univ Dist,4520 University Way NE,Seattle,Washington,1950,3,No visible,C/O,3,GSV,1048,-122.313059108268,47.6620490044693
+M,PS/CID,515 Maynard Ave S,Seattle,Washington,1910,4,No visible,C/R,3,,1049,-122.325080285247,47.5978090175273
+M,Queen Anne,900 Queen Anne Ave N,Seattle,Washington,1929,5,No visible,R,2,Field,1050,-122.356668218096,47.6274889943255
+M,Sunset Hill/Loyal Heights,5300 26th Ave NW,Seattle,Washington,1910,1,No visible,I,1,Field,1051,-122.389146609564,47.667882434043
+M,West Seattle Junction/Genesee Hill,4540 California Ave SW,Seattle,Washington,1929,2,No visible,C,2,Field,1052,-122.386749133632,47.5619494521044
+M,Queen Anne,100 W Highland Dr,Seattle,Washington,1921,4,No visible,R,3,GSV,1053,-122.358149594797,47.6295869307598
+M,Univ Dist,4522 Brooklyn Ave NE,Seattle,Washington,1925,4,No visible,R,3,GSV,1054,-122.314208311333,47.6619790734876
+M,PS/CID,516 7th Ave S,Seattle,Washington,1924,1,No visible,C,2,GSV,1055,-122.323699143464,47.5978498107028
+M,Sunset Hill/Loyal Heights,5903 24th Ave NW,Seattle,Washington,1913,1,No visible,C,2,GSV,1056,-122.38761977811,47.671868513697
+M,Queen Anne,916 Queen Anne Ave N,Seattle,Washington,1909,5,Sub Alt,R,2,PR,1057,-122.356658894482,47.6278992571187
+M,PS/CID,519 7th Ave S,Seattle,Washington,1907,3,Visible,C/R,2,Ph,1058,-122.323779564241,47.5977099481678
+H,Queen Anne,100 W Roy St,Seattle,Washington,1912,3,Visible,P,3,PR,1059,-122.358379202387,47.6257570305673
+M,Univ Dist,4523 University Way NE,Seattle,Washington,1924,2,No visible,C,2,Ph,1060,-122.313140694161,47.6619604250084
+M,West Seattle Junction/Genesee Hill,4554 California Ave SW,Seattle,Washington,1929,2,No visible,C/O,2,WC,1061,-122.386758458144,47.5612886021382
+M,Sunset Hill/Loyal Heights,6301 24th Ave NW,Seattle,Washington,1928,1,No visible,C,2,GSV,1062,-122.387630267738,47.6747298662912
+C,Rainier Beach,4525 S Cloverdale St,Seattle,Washington,1924,2,Permit,S,3,Ph-R,1063,-122.274839363732,47.5260922172705
+C,Queen Anne,101 W Lee St,Seattle,Washington,1922,3,Permit,S,3,GSV,1064,-122.358129780657,47.631261783778
+M,Univ Dist,4525 University Way NE,Seattle,Washington,1914,1,No visible,C,2,Ph,1065,-122.313140694161,47.662069984048
+C,PS/CID,522 7th Ave S,Seattle,Washington,1929,2,No visible,S,3,GSV,1066,-122.323699143464,47.5976598309763
+M,Rainier Beach,9220 Renton Ave S,Seattle,Washington,1926,2,No visible,Mixed,2,PR,1067,-122.273207358423,47.5207087456309
+M,West Seattle Junction/Genesee Hill,4720 California Ave SW,Seattle,Washington,1932,2,No visible,C,2,Field,1068,-122.386778272285,47.5603981445336
+M,Sunset Hill/Loyal Heights,8498 Seaview Pl NW,Seattle,Washington,1930,1,Permit,P,2,Field,1069,-122.40173629615,47.689060614403
+M,Univ Dist,4529 17th Ave NE,Seattle,Washington,1922,3,No visible,R,2,GSV,1070,-122.309780499128,47.6621201012241
+M,Queen Anne,107 1st Ave N,Seattle,Washington,1908,4,No visible,R,3,Ph,1071,-122.355480553663,47.6188594812362
+M,PS/CID,600 S Jackson St,Seattle,Washington,1932,2,No visible,C/O,3,GSV,1072,-122.326149067534,47.5992262906558
+M,Univ Dist,1115 NE 43rd St,Seattle,Washington,1929,3,No visible,R,2,GSV,1073,-122.315909971111,47.659791391355
+C,Rainier Beach,9709 60th Ave S,Seattle,Washington,1909,3,Permit,S,3,PR,1074,-122.258259835863,47.5148193041613
+M,West Seattle Junction/Genesee Hill,4721 California Ave SW,Seattle,Washington,1924,1,No visible,C,3,Field,1075,-122.386859858177,47.5604412685866
+M,Univ Dist,4530 University Way NE,Seattle,Washington,1926,2,No visible,C,2,Ph,1076,-122.313048618641,47.662208680414
+M,PS/CID,605 S Main St,Seattle,Washington,1910,5,No visible,C/R,3,GSV,1077,-122.325978901467,47.6000025272519
+M,Queen Anne,109 John St,Seattle,Washington,1922,5,No visible,R,2,GSV,1078,-122.35497005546,47.6197219663457
+C,Rainier Beach,9743 59th Ave S,Seattle,Washington,1949,1,No visible,S,2,PR,1079,-122.259370577559,47.5143099721819
+M,Univ Dist,1119 NE 43rd St,Seattle,Washington,1929,3,No visible,R,2,GSV,1080,-122.315709501276,47.659791391355
+M,Whittier Heights,1138 NW 63rd St,Seattle,Washington,1942,2,No visible,I,1,GSV,1081,-122.373159166689,47.6745865069682
+M,PS/CID,614 Maynard Ave S,Seattle,Washington,1913,3,No visible,C/O,3,Field,1082,-122.324998698456,47.5969698427182
+M,Queen Anne,115 W Olympic Pl,Seattle,Washington,1909,4,Visible,R,3,GSV,1083,-122.358759161904,47.626691778317
+M,Univ Dist,4534 University Way NE,Seattle,Washington,1927,2,No visible,C/O,3,GSV,1084,-122.313048618641,47.6623485428784
+M,Ravenna/Bryant,2111 NE 47th St,Seattle,Washington,1921,3,No visible,R,2,PR,1085,-122.304928437767,47.6630420276084
+M,Univ Dist,1304 NE 42nd St,Seattle,Washington,1924,3,No visible,R,2,Field,1086,-122.314009007511,47.6583566361028
+C,Whittier Heights,1810 NW 65th St,Seattle,Washington,1930,3,Permit,S,3,GSV,1087,-122.380508938002,47.6760166009268
+M,Univ Dist,4544 University Way NE,Seattle,Washington,1924,1,No visible,C,2,Ph,1088,-122.313048618641,47.6625991299658
+M,Ravenna/Bryant,2611 NE 55th St,Seattle,Washington,1923,1,No visible,C,1,GSV,1089,-122.298849083692,47.668481511161
+M,Queen Anne,117 John St,Seattle,Washington,1907,2,No visible,R,2,Ph,1090,-122.354599419557,47.6197219663457
+M,PS/CID,614 S Jackson St,Seattle,Washington,1910,3,Visible,C/R,3,GSV,1091,-122.325609431577,47.5992367803426
+C,Whittier Heights,2006 NW 65th St,Seattle,Washington,1928,2,No visible,S,3,GSV,1092,-122.382879606409,47.6760166009268
+M,Univ Dist,1313 NE 43rd St,Seattle,Washington,1928,8,No visible,C/R,3,WC,1093,-122.313460047041,47.6597622536595
+M,Ravenna/Bryant,2725 NE 55th St,Seattle,Washington,1926,1,No visible,C,1,GSV,1094,-122.297730183497,47.6684721871762
+M,Univ Dist,4549 18th Ave NE,Seattle,Washington,1926,3,No visible,R,2,GSV,1095,-122.308380709218,47.6627797859414
+M,Queen Anne,119 W Roy St,Seattle,Washington,1924,4,No visible,R,3,GSV,1096,-122.358900190218,47.6257115754834
+M,PS/CID,621 S King St,Seattle,Washington,1910,6,Permit,C/R,3,GSV,1097,-122.325379823987,47.5983323365168
+C,Whittier Heights,6510 23rd Ave NW,Seattle,Washington,1929,3,No visible,S,3,GSV,1098,-122.385348178607,47.6764291948175
+C,Univ Dist,1417 NE 42nd St,Seattle,Washington,1922,3,No visible,S,3,GSV,1099,-122.312449541161,47.6582820424156
+H,Univ Dist,4554 12th Ave NE,Seattle,Washington,1938,3,No visible,P,3,GSV,1100,-122.315218817213,47.6628578755942
+M,PS/CID,633 Yesler Way,Seattle,Washington,1909,4,No visible,O,3,Ph,1101,-122.325028611457,47.6017000836441
+M,Whittier Heights,6757 8th Ave NW,Seattle,Washington,1950,1,No visible,C,2,GSV,1102,-122.36609028509,47.6793989406007
+M,Queen Anne,123 John St,Seattle,Washington,1907,2,No visible,R,2,GSV,1103,-122.354369811967,47.6197114765281
+H,Univ Dist,1604 NE 50th St,Seattle,Washington,1927,3,No visible,P,3,Field,1104,-122.310478645512,47.6649068601853
+M,Univ Dist,4554 19th Ave NE,Seattle,Washington,1920,3,No visible,R,2,GSV,1105,-122.307168568388,47.662798434128
+M,PS/CID,650 S Jackson St,Seattle,Washington,1917,2,No visible,C,2,Field,1106,-122.324869325784,47.5992367803426
+M,Queen Anne,124 Warren Ave N,Seattle,Washington,1930,4,No visible,R,2,GSV,1107,-122.354119225121,47.6192394410355
+M,Whittier Heights,7000 15th Ave NW,Seattle,Washington,1927,1,No visible,C/O,2,Field,1108,-122.376698851403,47.6796203893799
+M,Univ Dist,1915 NE Chelan Ln,Seattle,Washington,1947,3,No visible,P,2,UWL,1109,-122.307065034856,47.6582942713029
+M,Univ Dist,4555 15th Ave NE,Seattle,Washington,1928,3,No visible,R,2,GSV,1110,-122.311999649595,47.6628893444715
+M,Whittier Heights,7013 15th Ave NW,Seattle,Washington,1935,1,No visible,C,2,Field,1111,-122.376780438194,47.6799490664971
+M,Queen Anne,125 Warren Ave N,Seattle,Washington,1907,4,No visible,R,2,GSV,1112,-122.354199646797,47.619379303534
+C,Univ Dist,2034 NE Skagit Ln,Seattle,Washington,1948,4,No visible,S,3,UWL,1113,-122.305434880077,47.6573878997525
+M,Univ Dist,4557 University Way NE,Seattle,Washington,1919,4,No visible,C/R,3,GSV,1114,-122.313119714906,47.6629499516825
+H,Queen Anne,129 1st Ave N,Seattle,Washington,1926,1,No visible,P,3,Ph,1115,-122.355489877277,47.6196194004956
+C,Univ Dist,2103 NE Skagit Ln,Seattle,Washington,1896,4,Sub Alt,S,3,PR,1116,-122.30520507845,47.6575011460039
+M,Univ Dist,4710 University Way NE,Seattle,Washington,1923,7,Permit,C/R,3,GSV,1117,-122.313038129013,47.6633683734146
+M,Queen Anne,1305 Queen Anne Ave N,Seattle,Washington,1928,3,Permit,R,2,GSV,1118,-122.356670549224,47.6306895132393
+M,Univ Dist,3900 Jefferson Rd NE,Seattle,Washington,1938,2,Permit,I,1,UWL,1119,-122.304014097437,47.6539666818813
+M,Univ Dist,4733 University Way NE,Seattle,Washington,1909,1,Sub Alt,C,2,PR,1120,-122.313099900765,47.6640991545672
+H,Queen Anne,1309 Dexter Ave N,Seattle,Washington,1927,4,No visible,C/R,2,GSV,1121,-122.342360290629,47.6307501202909
+M,Univ Dist,3920 Jefferson Rd NE,Seattle,Washington,1929,2,No visible,I,1,UWL,1122,-122.304018218907,47.6543653220738
+M,Univ Dist,4736 University Way NE,Seattle,Washington,1929,2,No visible,C/R,2,GSV,1123,-122.313018314873,47.6642098791734
+M,Univ Dist,4000 University Way NE,Seattle,Washington,1908,4,No visible,C/R,3,GSV,1124,-122.313228108323,47.6554486625299
+M,Queen Anne,14 Boston St,Seattle,Washington,1922,1,No visible,C,1,GSV,1125,-122.356119258524,47.6384274029798
+H,Univ Dist,4740 17th Ave NE,Seattle,Washington,1920,2,No visible,P,3,GSV,1126,-122.309419187738,47.6646784182315
+C,Univ Dist,4045 University Way NE,Seattle,Washington,1931,1,Sub Alt,S,3,UWL,1127,-122.313280556461,47.6566503137104
+M,Queen Anne,1401 5th Ave W,Seattle,Washington,1920,4,Visible,R,2,GSV,1128,-122.363160167483,47.6318189023591
+H,Univ Dist,4743 University Way NE,Seattle,Washington,1930,2,Permit,P,3,GSV,1129,-122.313099900765,47.6643182725143
+H,Queen Anne,1428 Queen Anne Ave N,Seattle,Washington,1930,4,No visible,C/R,3,GSV,1130,-122.35662159733,47.6321300961218
+M,Univ Dist,4747 University Way NE,Seattle,Washington,1921,1,No visible,C,2,SIM,1131,-122.313110391291,47.6644289972607
+M,Univ Dist,4105 Brooklyn Ave NE,Seattle,Washington,1927,4,No visible,R,2,GSV,1132,-122.314420435911,47.6570302734942
+M,Queen Anne,15 Nickerson St,Seattle,Washington,1919,1,Sub Alt,C,2,PR,1133,-122.35682090205,47.6493436666413
+H,Univ Dist,4759 15th Ave NE,Seattle,Washington,1927,2,No visible,P,3,GSV,1134,-122.311970511841,47.6647098872213
+C,Univ Dist,4105 Memorial Way NE,Seattle,Washington,1902,4,Permit,S,3,UWD,1135,-122.309759693248,47.6602216233458
+M,Univ Dist,5003 15th Ave NE,Seattle,Washington,1926,4,No visible,R,2,GSV,1136,-122.311970511841,47.6650793572492
+M,Queen Anne,1506 Queen Anne Ave N,Seattle,Washington,1924,1,No visible,C,1,GSV,1137,-122.356958433222,47.6326790561218
+M,Univ Dist,4133 University Way NE,Seattle,Washington,1920,1,No visible,C,2,GSV,1138,-122.313239763964,47.6578298208589
+H,Univ Dist,5009 Roosevelt Way NE,Seattle,Washington,1909,1,Permit,P,3,PR,1139,-122.317460112949,47.6655222550231
+M,Queen Anne,1529 4th Ave W,Seattle,Washington,1921,3,No visible,G,2,GSV,1140,-122.36240024755,47.6332792993266
+M,Univ Dist,4134 11th Ave NE,Seattle,Washington,1926,1,Permit,R,2,PR,1141,-122.316638421263,47.6579382141356
+M,Queen Anne,1530 Queen Anne Ave N,Seattle,Washington,1920,3,No visible,C,3,GSV,1142,-122.356958433222,47.6332699751084
+M,Univ Dist,5201 University Way NE,Seattle,Washington,1928,1,No visible,C,3,SIM,1143,-122.313099900765,47.6667204099797
+M,Univ Dist,4137 University Way NE,Seattle,Washington,1908,3,No visible,C/R,2,GSV,1144,-122.313239763964,47.6579603589059
+M,Univ Dist,4145 University Way NE,Seattle,Washington,1927,1,Visible,C,3,GSV,1145,-122.313230439451,47.6581701525924
+C,Univ Dist,5601 University Way NE,Seattle,Washington,1925,1,Permit,S,3,GSV,1146,-122.313080087523,47.6696388731461
+M,Queen Anne,1530 Westlake Ave N,Seattle,Washington,1923,2,Visible,Mixed,2,GSV,1147,-122.340675874911,47.6329976530852
+M,Univ Dist,5649 University Way NE,Seattle,Washington,1925,1,No visible,C,2,WC,1148,-122.313089411138,47.6707636002493
+H,Queen Anne,1608 4th Ave W,Seattle,Washington,1905,2,No visible,P,3,Field,1149,-122.36230817203,47.6339389839944
+C,Univ Dist,4182 E Stevens Way NE,Seattle,Washington,1896,4,Permit,S,3,PR,1150,-122.304726420134,47.6569687747893
+M,Univ Dist,5810 Cowen Pl NE,Seattle,Washington,1928,4,No visible,R,2,PR,1151,-122.312519472311,47.6715748025435
+M,Queen Anne,1735 Westlake Ave N,Seattle,Washington,1934,2,No visible,C/O,2,GSV,1152,-122.340460492143,47.6347769930644
+M,Univ Dist,4200 University Way NE,Seattle,Washington,1916,3,No visible,C/R,3,GSV,1153,-122.313138363033,47.6585081532378
+M,Queen Anne,1820 Queen Anne Ave N,Seattle,Washington,1927,2,Permit,C,3,GSV,1154,-122.356928129454,47.6354285190094
+M,Queen Anne,1821 10th Ave W,Seattle,Washington,1929,1,Visible,O,2,GSV-R,1155,-122.370409703878,47.6354599880742
+M,Queen Anne,1829 10th Ave W,Seattle,Washington,1928,1,No visible,O,2,GSV,1156,-122.370409703878,47.6355800366892
+M,Queen Anne,201 Galer St,Seattle,Washington,1908,4,Permit,R,3,PR,1157,-122.352099378476,47.6322921033967
+M,Queen Anne,209 W Olympic Pl,Seattle,Washington,1925,4,No visible,R,2,GSV,1158,-122.359869902702,47.626691778317
+H,Queen Anne,2125 Queen Anne Ave N,Seattle,Washington,1929,1,No visible,P,3,SIM,1159,-122.356989902105,47.6378796080351
+M,Queen Anne,2128 Queen Anne Ave N,Seattle,Washington,1933,1,No visible,C,2,Ph,1160,-122.356908315314,47.6380497744224
+M,Queen Anne,2129 Queen Anne Ave N,Seattle,Washington,1910,1,No visible,C,2,SIM,1161,-122.356989902105,47.6379693535938

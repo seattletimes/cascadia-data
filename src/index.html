@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+  <head>
+    <title><%= json.project.title %></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <%= t.include("partials/_head.html") %>
+  </head>
+  <body>
+
+    <div autocomplete="no" class="location">
+      <button class="gps">GPS</button>
+      <input class="address" placeholder="Address?">
+    </div>
+
+    <div class="aspect-container">
+      <div class="aspect-inner">
+        <leaflet-map class="cascadia">
+          <tile-layer layer="esriGray"></tile-layer>
+        </leaflet-map>
+      </div>
+    </div>
+
+    <script src="app.js" async></script>
+    <% if (json.project.production) { %>
+    <%= !json.project.embedded ? t.include("partials/_foot.html") : "" %>
+    <%= t.include("partials/_workHere.html") %>
+    <% } %>
+  </body>
+</html>
