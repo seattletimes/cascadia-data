@@ -59,6 +59,10 @@ var loadLayer = function(layerName) {
   } else {
     map.setMaxBounds(null);
   }
+  if (def.zoom) {
+    map.options.maxZoom = def.zoom.max;
+    map.options.minZoom = def.zoom.min;
+  }
   def.load(leaflet, map).then(function(layer) {
     layer.addTo(map);
     current.push(layer);

@@ -1,5 +1,39 @@
 .urm-cluster {
   border-radius: 100%;
   text-align: center;
-  line-height: 30px;
+  line-height: 40px;
+  background: @df-light-gray;
+  color: @df-dark-gray;
+  font-family: @df-sans;
+  font-size: 16px;
+  border: 1px solid @df-dark-gray;
+  box-shadow: 2px 2px 4px fade(black, 10%);
+  opacity: .8;
+
+  &.large {
+    line-height: 60px;
+    font-size: 20px;
+  }
+
+  &.small {
+    line-height: 30px;
+    font-size: 14px;
+  }
+}
+
+.urm-building {
+  background: @st-dark-blue;
+  border-radius: 100%;
+
+  &.no-visible {
+    background: @st-dark-red;
+  }
+
+  &.permit {
+    background: @st-dark-purple;
+  }
+
+  &.sub-alt {
+    background: @st-dark-green;
+  }
 }
