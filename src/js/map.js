@@ -1,6 +1,8 @@
 require("es6-promise/dist/es6-promise.min").polyfill();
 require("component-leaflet-map");
 
+var geolocation = require("./geolocation");
+
 var mapElement = document.querySelector("leaflet-map.cascadia");
 var map = mapElement.map;
 var leaflet = mapElement.leaflet;
@@ -12,30 +14,32 @@ var layers = {
 var current = [];
 
 var hereMarker = leaflet.marker([], {
+  iconSize: [20, 20],
   icon: leaflet.divIcon({
-    className: "leaflet-div-icon you-are-here"
+    className: "you-are-here",
+    html: "&curren;"
   })
 });
 
-var youAreHere = function(latLng) {
-  hereMarker.setLatLng(latLng);
+var youAreHere = function(latlng) {
+  hereMarker.setLatLng(latlng);
   hereMarker.addTo(map);
-  map.setView(latLng, 14);
+  map.setView(latlng, 14);
+  map.openPopup("You are here.", latlng);
 };
 
 document.querySelector("button.gps").addEventListener("click", function(e) {
   e.preventDefault();
-  navigator.geolocation.getCurrentPosition(function(gps) {
-    youAreHere([gps.coords.latitude, gps.coords.longitude]);
-  }, err => console.log(err));
+  geolocation.gps(function(err, coords) {
+    if (err) return console.log(err);
+    youAreHere(coords);
+  });
 });
-
-var locateAddress = require("./address");
 
 document.querySelector(".location input.address").addEventListener("keydown", function(e) {
   if (e.keyCode == 13) { //on return
     var address = this.value;
-    locateAddress(this.value, function(err, coords) {
+    geolocation.address(this.value, function(err, coords) {
       if (err) return console.log(err);
       youAreHere(coords);
     })
