@@ -1,4 +1,4 @@
-var xhr = require("./lib/xhr");
+var xhr = require("./xhr");
 
 var endpoint = "https://maps.googleapis.com/maps/api/geocode/json?address="
 
@@ -27,4 +27,4 @@ module.exports = {
       callback(null, [gps.coords.latitude, gps.coords.longitude]);
     }, err => callback(err));
   }
-}
+};

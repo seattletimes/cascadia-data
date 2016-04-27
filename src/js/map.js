@@ -1,11 +1,12 @@
 require("es6-promise/dist/es6-promise.min").polyfill();
 require("component-leaflet-map");
 
-var geolocation = require("./geolocation");
+var geolocation = require("./lib/geolocation");
 
 var mapElement = document.querySelector("leaflet-map.cascadia");
 var map = mapElement.map;
 var leaflet = mapElement.leaflet;
+var key = document.querySelector(".map-key");
 
 var layers = {
   masonry: require("./layers/masonry")
@@ -44,7 +45,7 @@ document.querySelector(".location input.address").addEventListener("keydown", fu
       youAreHere(coords);
     })
   }
-})
+});
 
 var loadLayer = function(layerName) {
   if (!(layerName in layers)) {
@@ -53,6 +54,7 @@ var loadLayer = function(layerName) {
   var def = layers[layerName];
   if (def.standalone) {
     current.forEach(layer => map.removeLayer(layer));
+    key.innerHTML = "";
     current = [];
   }
   if (def.viewbox) {
@@ -66,6 +68,9 @@ var loadLayer = function(layerName) {
   if (def.zoom) {
     map.options.maxZoom = def.zoom.max;
     map.options.minZoom = def.zoom.min;
+  }
+  if (def.key) {
+    key.innerHTML += `<div class="key-block ${layerName}">${def.key}</div>`;
   }
   def.load(leaflet, map).then(function(layer) {
     layer.addTo(map);

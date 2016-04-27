@@ -86,5 +86,10 @@ module.exports = {
   init: function() {},
   viewbox: [[47.740709, -122.24556],[47.49494, -122.414474]],
   limit: true,
-  zoom: { min: 10 }
+  zoom: { min: 10 },
+  key: `
+<h2>Unreinforced Masonry construction in Seattle</h2>
+<p>
+This is a key
+  `
 };
