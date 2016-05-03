@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+  <head>
+    <title><%= json.project.title %></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <%= t.include("partials/_head.html") %>
+  </head>
+  <body data-layer="masonry">
+
+    <responsive-child>
+      <%= t.include("_map.html") %>
+    </responsive-child>
+
+    <script src="app.js" async></script>
+    <% if (json.project.production) { %>
+    <%= t.include("partials/_workHere.html") %>
+    <% } %>
+  </body>
+</html>

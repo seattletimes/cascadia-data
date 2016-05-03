@@ -85,6 +85,6 @@ var loadLayer = function(layerName) {
   });
 }
 
-loadLayer(queryString.layer || "masonry");
+loadLayer(queryString.layer || document.body.getAttribute("data-layer"));
 
 map.on("click", e => console.log(e.latlng));
