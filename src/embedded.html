@@ -9,11 +9,12 @@
   </head>
   <body>
 
-    <%= t.include("_map.html") %>
+    <responsive-child>
+      <%= t.include("_map.html") %>
+    </responsive-child>
 
     <script src="app.js" async></script>
     <% if (json.project.production) { %>
-    <%= !json.project.embedded ? t.include("partials/_foot.html") : "" %>
     <%= t.include("partials/_workHere.html") %>
     <% } %>
   </body>

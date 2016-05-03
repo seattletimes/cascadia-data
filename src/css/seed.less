@@ -15,10 +15,10 @@ leaflet-map:not([ready]) {
 }
 
 .aspect-container {
-  position: relative;
 
   .aspect-inner {
     padding-bottom: percentage(3 / 4);
+    position: relative;
   }
 
   leaflet-map, .map {
@@ -45,8 +45,14 @@ leaflet-map:not([ready]) {
   padding: 8px;
   box-shadow: 4px 4px 4px fade(black, 20%);
 
+  @media @mobile {
+    position: static;
+    font-size: 12px;
+  }
+
   h2 {
     font-size: 16px;
+    margin: 0;
   }
 }
 
