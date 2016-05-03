@@ -50,15 +50,15 @@ module.exports = {
       xhr("./assets/urm.csv", function(err, data) {
         var parsed = csv(data).filter(r => r.x);
         var group = new leaflet.MarkerClusterGroup({
-          maxClusterRadius: 40,
+          maxClusterRadius: 20,
           showCoverageOnHover: false,
           spiderfyOnMaxZoom: false,
           zoomToBoundsOnClick: true,
           disableClusteringAtZoom: 17,
           iconCreateFunction(cluster) {
             var count = cluster.getChildCount();
-            var clusterClass = count >= 100 ? "large" : count >= 10 ? "medium" : "small";
-            var clusterSize = count >= 100 ? 60 : count >= 10 ? 40 : 30;
+            var clusterClass = count >= 50 ? "large" : count >= 10 ? "medium" : "small";
+            var clusterSize = count >= 50 ? 60 : count >= 10 ? 30 : 20;
             return leaflet.divIcon({
               html: cluster.getChildCount(),
               className: "urm-cluster " + clusterClass,
@@ -91,9 +91,7 @@ module.exports = {
 <h2>Unreinforced Masonry construction in Seattle</h2>
 <ul>
   <li> <i class="no-visible dot"></i> No visible alteration
-  <li> <i class="visible dot"></i> Visible alterations
-  <li> <i class="permit dot"></i> Permit granted
-  <li> <i class="sub-alt dot"></i> Substantial alteration
+  <li> <i class="visible dot"></i> Some alterations made
 </ul>
   `
 };
