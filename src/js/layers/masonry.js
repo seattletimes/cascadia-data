@@ -89,7 +89,11 @@ module.exports = {
   zoom: { min: 10 },
   key: `
 <h2>Unreinforced Masonry construction in Seattle</h2>
-<p>
-This is a key
+<ul>
+  <li> <i class="no-visible dot"></i> No visible alteration
+  <li> <i class="visible dot"></i> Visible alterations
+  <li> <i class="permit dot"></i> Permit granted
+  <li> <i class="sub-alt dot"></i> Substantial alteration
+</ul>
   `
 };

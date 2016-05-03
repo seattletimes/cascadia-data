@@ -9,21 +9,24 @@
   </head>
   <body>
 
-    <div autocomplete="no" class="location">
-      <button class="gps">&curren;</button>
-      <input class="address" placeholder="Address?">
-    </div>
+    <main class="map-container">
 
-    <div class="aspect-container">
-      <div class="aspect-inner">
-        <leaflet-map class="cascadia">
-          <tile-layer layer="cartoPositron"></tile-layer>
-        </leaflet-map>
+      <div class="location-bar">
+        <label>Location</label>
+        <button class="gps" title="Detect location"><img src="./assets/icons/gps.svg" alt="GPS icon"></button>
+        <input class="address" placeholder="Address?">
       </div>
-      <div class="map-key">
 
+      <div class="aspect-container">
+        <div class="aspect-inner">
+          <leaflet-map class="cascadia">
+            <tile-layer layer="cartoPositron"></tile-layer>
+          </leaflet-map>
+        </div>
+        <div class="map-key"></div>
       </div>
-    </div>
+
+    </main>
 
     <script src="app.js" async></script>
     <% if (json.project.production) { %>

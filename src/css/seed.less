@@ -3,6 +3,12 @@
 
 @import "layers/masonry";
 
+.map-container {
+  max-width: 960px;
+  margin: auto;
+  font-family: @df-sans;
+}
+
 leaflet-map:not([ready]) {
   opacity: 0;
   overflow: hidden;
@@ -10,7 +16,6 @@ leaflet-map:not([ready]) {
 
 .aspect-container {
   position: relative;
-  max-width: 800px;
 
   .aspect-inner {
     padding-bottom: percentage(3 / 4);
@@ -26,13 +31,7 @@ leaflet-map:not([ready]) {
 }
 
 .you-are-here {
-  color: @df-blue;
-  font-size: 30px;
-  font-weight: bold;
-  text-shadow: 2px 2px 2px white;
   z-index: 9999;
-  text-align: center;
-  line-height: 20px;
 }
 
 .map-key {
@@ -48,5 +47,39 @@ leaflet-map:not([ready]) {
 
   h2 {
     font-size: 16px;
+  }
+}
+
+.location-bar {
+  background: @df-charcoal;
+  color: @df-off-white;
+  padding: 8px 16px;
+  .display-flex();
+  .justify-content(flex-end);
+  .align-items(stretch);
+  font-size: 15px;
+
+  label {
+    padding-right: 8px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  button {
+    background: white;
+    border: none;
+    text-transform: uppercase;
+    margin: 0 8px;
+
+    img {
+      height: 16px;
+      vertical-align: text-top;
+    }
+  }
+
+  input {
+    background: white;
+    border: none;
+    padding: 0 8px;
   }
 }

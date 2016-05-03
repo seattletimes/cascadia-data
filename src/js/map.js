@@ -15,12 +15,19 @@ var layers = {
 var current = [];
 
 var hereMarker = leaflet.marker([], {
-  iconSize: [20, 20],
   icon: leaflet.divIcon({
+    iconSize: [24, 24],
     className: "you-are-here",
-    html: "&curren;"
+    html: `<img src="./assets/icons/pin.svg">`
   })
 });
+
+var queryString = window.location.search.replace(/^\?/, "")
+  .split("&").map(p => p.split("="))
+  .reduce(function(mapping, [key, value]) {
+    if (key) mapping[key] = value;
+    return mapping;
+  }, {});
 
 var youAreHere = function(latlng) {
   hereMarker.setLatLng(latlng);
@@ -37,7 +44,7 @@ document.querySelector("button.gps").addEventListener("click", function(e) {
   });
 });
 
-document.querySelector(".location input.address").addEventListener("keydown", function(e) {
+document.querySelector(".location-bar input.address").addEventListener("keydown", function(e) {
   if (e.keyCode == 13) { //on return
     var address = this.value;
     geolocation.address(this.value, function(err, coords) {
@@ -78,6 +85,6 @@ var loadLayer = function(layerName) {
   });
 }
 
-loadLayer("masonry");
+loadLayer(queryString.layer || "masonry");
 
 map.on("click", e => console.log(e.latlng));

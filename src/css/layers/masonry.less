@@ -1,3 +1,8 @@
+@no-visible-color: #C22;
+@visible-color: @st-dark-blue;
+@permit-color: @st-dark-purple;
+@sub-alt-color: @st-dark-green;
+
 .urm-cluster {
   border-radius: 100%;
   text-align: center;
@@ -22,18 +27,43 @@
 }
 
 .urm-building {
-  background: @st-dark-blue;
+  background: @df-dark-gray;
   border-radius: 100%;
 
   &.no-visible {
-    background: @st-dark-red;
+    background: @no-visible-color;
+  }
+
+  &.visible {
+    background: @visible-color;
   }
 
   &.permit {
-    background: @st-dark-purple;
+    background: @permit-color;
   }
 
   &.sub-alt {
-    background: @st-dark-green;
+    background: @sub-alt-color;
+  }
+}
+
+.masonry.key-block {
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  .dot {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    background: black;
+    border-radius: 100%;
+    vertical-align: text-bottom;
+
+    &.no-visible { background: @no-visible-color }
+    &.visible { background: @visible-color }
+    &.permit { background: @permit-color }
+    &.sub-alt { background: @sub-alt-color }
   }
 }
