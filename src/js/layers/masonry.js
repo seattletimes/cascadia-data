@@ -4,8 +4,10 @@ var dot = require("../lib/dot");
 require("leaflet.markercluster");
 
 var strings = {
-  "No visible": "No visible alterations",
-  "Sub Alt": "Substantial alterations made",
+  "No visible": "No evidence of retrofit",
+  "Sub Alt": "Comprehensive retrofit",
+  "Permit": "Some amount of retrofit",
+  "Visible": "Surface evidence of retrofit",
   "C": "Commercial",
   "E": "Emergency service",
   "G": "Government",
@@ -15,7 +17,10 @@ var strings = {
   "P": "Public assembly space",
   "R": "Residential",
   "S": "School",
-  "V": "Vacant"
+  "V": "Vacant",
+  "1": "1-10 people",
+  "2": "11-100 people",
+  "3": "100+ people"
 };
 
 var getString = function(s) {
@@ -39,11 +44,12 @@ module.exports = {
       map.openPopup(`
 <h3>${data.address}</h3>
 <ul>
-  <li> Built: ${data.year}
-  <li> Building type: ${types.join("/")}
-  <li> Retrofit level: ${data.retrofitLevel}
+  <li> <label>Retrofit level</label>: ${getString(data.retrofitLevel)}
+  <li> <label>Building type</label>: ${types.join("/")}
+  <li> <label>Occupancy range</label>: ${getString(data.occupantLoad)}
+  <li> <label>Built</label>: ${data.year}
 </ul>
-      `, e.latlng);
+      `, e.latlng, { className: "masonry-popup"});
     };
 
     return new Promise(function(ok, fail) {
@@ -57,11 +63,20 @@ module.exports = {
           disableClusteringAtZoom: 17,
           iconCreateFunction(cluster) {
             var count = cluster.getChildCount();
+            var mix = cluster.getAllChildMarkers().reduce(function(total, marker) {
+              return total + (marker.data.retrofitLevel == "No visible" ? 0 : 1);
+            }, 0) / count;
+            console.log(mix);
+            var mixClass = mix == 0 ? "unaltered" : 
+              mix < .3 ? "mostly-unaltered" : 
+              mix < .7 ? "even-mix" : 
+              mix < 1 ? "mostly-altered" :
+              "retrofitted";
             var clusterClass = count >= 50 ? "large" : count >= 10 ? "medium" : "small";
             var clusterSize = count >= 50 ? 60 : count >= 10 ? 30 : 20;
             return leaflet.divIcon({
               html: cluster.getChildCount(),
-              className: "urm-cluster " + clusterClass,
+              className: `urm-cluster ${clusterClass} ${mixClass}`,
               iconSize: [clusterSize, clusterSize]
             });
           }
@@ -90,8 +105,9 @@ module.exports = {
   key: `
 <h2>Unreinforced Masonry construction in Seattle</h2>
 <ul>
-  <li> <i class="no-visible dot"></i> No visible alteration
-  <li> <i class="visible dot"></i> Some alterations made
+  <li> <i class="no-visible dot"></i> No retrofit
+  <li> <i class="visible dot"></i> Some amount of retrofit
 </ul>
+<div class="source">Source: Department of Construction and Inspections</div>
   `
 };

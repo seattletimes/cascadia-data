@@ -1,14 +1,33 @@
 @no-visible-color: #C22;
-@visible-color: @st-dark-green;
-@permit-color: @st-dark-green;
-@sub-alt-color: @st-dark-green;
+@visible-color: @st-dark-blue;
+@permit-color: @st-dark-blue;
+@sub-alt-color: @st-dark-blue;
+
+@mostly-unaltered: mix(@no-visible-color, @visible-color, 20%);
+@even-mix: mix(@no-visible-color, @visible-color, 50%);
+@mostly-altered: mix(@no-visible-color, @visible-color, 80%);
+
+.masonry-page {
+  main.interactive {
+    font-size: 15px;
+    padding: 20px;
+    margin: 20px 0;
+    border-top: 1px solid @df-light-gray;
+    border-bottom: 1px solid @df-light-gray;
+
+    h2.headline {
+      font-size: 20px;
+      margin: 0;
+    }
+  }
+}
 
 .urm-cluster {
   border-radius: 100%;
   text-align: center;
   line-height: 30px;
   background: @df-light-gray;
-  color: @df-dark-gray;
+  color: black;
   font-family: @df-sans;
   font-size: 16px;
   border: 1px solid @df-dark-gray;
@@ -23,6 +42,26 @@
   &.small {
     line-height: 20px;
     font-size: 13px;
+  }
+
+  &.unaltered {
+    background: @no-visible-color;
+  }
+
+  &.mostly-unaltered {
+    background: @mostly-unaltered;
+  }
+
+  &.even-mix {
+    background: @even-mix;
+  }
+
+  &.mostly-altered {
+    background: @mostly-altered;
+  }
+
+  &.retrofitted {
+    background: @visible-color;
   }
 }
 
@@ -44,6 +83,23 @@
 
   &.sub-alt {
     background: @sub-alt-color;
+  }
+}
+
+.masonry-popup {
+  h3 {
+    font-size: 15px;
+    margin-top: 0;
+  }
+
+  label {
+    font-weight: bold;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
   }
 }
 

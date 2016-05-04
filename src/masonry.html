@@ -7,10 +7,16 @@
     <link rel="stylesheet" type="text/css" href="style.css">
     <%= t.include("partials/_head.html") %>
   </head>
-  <body data-layer="masonry">
+  <body class="masonry-page" data-layer="masonry">
 
     <responsive-child>
-      <%= t.include("_map.html") %>
+      <main class="interactive">
+        <h2 class="headline">Is my building at risk?</h2>
+
+        <p class="chatter">
+          Search to see if you live, work or spend time in an unreinforced-masonry building.
+        <%= t.include("_map.html") %>
+      </main>
     </responsive-child>
 
     <script src="app.js" async></script>
