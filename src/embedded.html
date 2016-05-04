@@ -7,10 +7,16 @@
     <link rel="stylesheet" type="text/css" href="style.css">
     <%= t.include("partials/_head.html") %>
   </head>
-  <body>
+  <body class="PAGE-CLASS" data-layer="LAYER-NAME">
 
     <responsive-child>
-      <%= t.include("_map.html") %>
+      <main class="interactive">
+        <h2 class="headline">HEADLINE</h2>
+
+        <p class="chatter">
+          CHATTER
+        <%= t.include("_map.html") %>
+      </main>
     </responsive-child>
 
     <script src="app.js" async></script>

@@ -5,8 +5,8 @@
       "path": "outward-superlative"
     },
     "live": {
-      "bucket": "",
-      "path": ""
+      "bucket": "projects.seattletimes.com",
+      "path": "2016/cascadia-data"
     }
   },
   "title": "",
@@ -17,5 +17,5 @@
   "image": "assets/social.jpg",
   "sheets": [],
   "production": false,
-  "embedded": true
+  "embedded": false
 }
