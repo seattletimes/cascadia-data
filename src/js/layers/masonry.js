@@ -66,7 +66,6 @@ module.exports = {
             var mix = cluster.getAllChildMarkers().reduce(function(total, marker) {
               return total + (marker.data.retrofitLevel == "No visible" ? 0 : 1);
             }, 0) / count;
-            console.log(mix);
             var mixClass = mix == 0 ? "unaltered" : 
               mix < .3 ? "mostly-unaltered" : 
               mix < .7 ? "even-mix" : 
