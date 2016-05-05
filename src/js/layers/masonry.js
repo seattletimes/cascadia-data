@@ -102,7 +102,7 @@ module.exports = {
   limit: true,
   zoom: { min: 10 },
   key: `
-<h2>Unreinforced masonry construction in Seattle</h2>
+<h2>Unreinforced-masonry construction in Seattle</h2>
 <ul>
   <li> <i class="no-visible dot"></i> No retrofit
   <li> <i class="visible dot"></i> Some amount of retrofit

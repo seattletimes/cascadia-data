@@ -11,11 +11,11 @@
   },
   "title": "",
   "description": "",
-  "url": "",
+  "url": "http://projects.seattletimes.com/2016/cascadia-data/",
   "slug": "",
   "tags": [],
   "image": "assets/social.jpg",
   "sheets": [],
-  "production": false,
+  "production": true,
   "embedded": false
 }
