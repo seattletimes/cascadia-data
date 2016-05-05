@@ -107,6 +107,6 @@ module.exports = {
   <li> <i class="no-visible dot"></i> No retrofit
   <li> <i class="visible dot"></i> Some amount of retrofit
 </ul>
-<div class="source">Source: Department of Construction and Inspections</div>
+<div class="source">Source: Seattle Department of Construction and Inspections</div>
   `
 };

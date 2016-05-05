@@ -2,6 +2,10 @@ var xhr = require("./xhr");
 
 var endpoint = "https://maps.googleapis.com/maps/api/geocode/json?address="
 
+if (!window.location.href.match(/https:|localhost/)) {
+  window.location = window.location.href.replace(/http:/, "https:");
+}
+
 module.exports = {
   address: function(address, callback) {
     address = address.replace(/\s/g, '+');
