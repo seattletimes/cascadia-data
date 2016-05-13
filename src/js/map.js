@@ -88,4 +88,4 @@ var loadLayer = function(layerName) {
 loadLayer(queryString.layer || document.body.getAttribute("data-layer"));
 if (!document.body.classList.contains("standalone")) map.scrollWheelZoom.disable();
 
-// map.on("click", e => console.log(e.latlng));
+map.on("click", e => console.log(e.latlng));
