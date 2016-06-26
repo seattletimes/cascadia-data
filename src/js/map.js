@@ -9,7 +9,8 @@ var leaflet = mapElement.leaflet;
 var key = document.querySelector(".map-key");
 
 var layers = {
-  masonry: require("./layers/masonry")
+  masonry: require("./layers/masonry"),
+  schools: require("./layers/schools")
 };
 
 var current = [];
