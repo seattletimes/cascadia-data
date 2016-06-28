@@ -53,22 +53,20 @@ module.exports = {
             
           });
           
-//          group.buildings.forEach(function(b) {
-//            console.log(b.mitigationType);
-//            if (b.mitigationType === "Yes") {
-//
-//              if (!mitig[b.Mitigation]) mitig[b.Mitigation] = 0;
-//              mitig[b.Mitigation]++;
-//            }
-//        })
+          group.buildings.forEach(function(b) {
+            if (b.mitigationType !== "") {
+              if (!mitig[b.mitigationType]) mitig[b.mitigationType] = 0;
+              mitig[b.mitigationType]++;
+            }
+        })
           
           var getRisk = r => risks[r] || 0;
-          
+          var getMitigation = r => mitig[r] || 0;
           group.mitigation = mitig;
           group.moderateHazards = getRisk('Moderate') + getRisk('Moderate to High');
           group.highHazards = getRisk('High') + getRisk('High to Very High') + getRisk('Very High');
           group.hazards = risks;
-          console.log(group );
+
           if (!grouped[k].coords) {
             console.log(`No coordinates for ${k}`);
             continue;

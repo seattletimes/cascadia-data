@@ -22,8 +22,8 @@ with either moderate to low or low likelihood of hazard.
 <% }; %>
 
 <!--Shows if the buildings have mitigation complete.-->
-<% if (data.mitigation > 0) { %> 
-<b><%= data.mitigation %></b> buildings have had mitigation completed.
+<% if (data.mitigation["Structural Retrofit"]) { %> 
+<b><%= data.mitigation["Structural Retrofit"] %></b> of its buildings have had mitigation completed.
 <% } else { %> 
 <b>None</b> of its buildings have had mitigation completed.
 <% }; %>
