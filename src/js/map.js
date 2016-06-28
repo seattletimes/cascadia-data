@@ -61,32 +61,60 @@ var loadLayer = function(layerName) {
   }
   var def = layers[layerName];
   if (def.standalone) {
-    current.forEach(layer => map.removeLayer(layer));
+    current.forEach(d => map.removeLayer(d.layer));
     key.innerHTML = "";
     current = [];
-  }
-  if (def.viewbox) {
-    map.fitBounds(def.viewbox);
-    if (def.limit) {
-      map.setMaxBounds(def.viewbox);
-    }
-  } else {
-    map.setMaxBounds(null);
   }
   if (def.zoom) {
     map.options.maxZoom = def.zoom.max;
     map.options.minZoom = def.zoom.min;
+  } else {
+    map.options.maxZoom = 14;
+    map.options.minZoom = 1;
+  }
+  if (def.viewbox) {
+    if (def.limit) {
+      map.setMaxBounds(def.viewbox);
+    } else {
+      map.setMaxBounds(null);
+    }
+    map.fitBounds(def.viewbox);
+  } else {
+    map.setMaxBounds(null);
   }
   if (def.key) {
     key.innerHTML += `<div class="key-block ${layerName}">${def.key}</div>`;
   }
-  def.load(leaflet, map).then(function(layer) {
-    layer.addTo(map);
-    current.push(layer);
-  });
+  if (current.indexOf(def) == -1) {
+    def.load(leaflet, map).then(function(layer) {
+      def.layer = layer;
+      layer.addTo(map);
+      current.push(def);
+    });
+  }
 }
 
 loadLayer(queryString.layer || document.body.getAttribute("data-layer"));
 if (!document.body.classList.contains("standalone")) map.scrollWheelZoom.disable();
 
 map.on("click", e => console.log(e.latlng));
+
+var layerMenu = document.querySelector(".layer-menu");
+
+document.querySelector(".layer-button").addEventListener("click", function() {
+  layerMenu.innerHTML = Object.keys(layers).map(function(l) {
+    var def = layers[l];
+    var isShown = current.indexOf(def) > -1;
+    return `<li data-layer="${l}" class="${isShown ? "current" : ""}">${layers[l].short}</li>`;
+  }).join("");
+  layerMenu.classList.add("show");
+});
+
+layerMenu.addEventListener("click", function(e) {
+  var target = e.target;
+  var layer = target.getAttribute("data-layer");
+  loadLayer(layer);
+  layerMenu.classList.remove("show");
+  layerMenu.innerHTML = "";
+  e.stopImmediatePropagation();
+})

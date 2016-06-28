@@ -1,0 +1,33 @@
+.school-marker {
+  width: 20px;
+  height: 20px;
+  margin: -10px;
+  background: fade(black, 20%);
+  border: 1px solid black;
+  border-radius: 100%;
+}
+
+.school-popup {
+  font-size: 12px;
+
+  h1 {
+    font-size: 16px;
+  }
+
+  table {
+    border-collapse: collapse;
+
+    tr:nth-child(2n) td {
+      background: @df-off-white;
+    }
+
+    th, td {
+      border-right: 1px solid @df-light-gray;
+      padding: 4px;
+
+      &:last-child {
+        border-right: none;
+      }
+    }
+  }
+}

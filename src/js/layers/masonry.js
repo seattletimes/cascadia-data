@@ -28,7 +28,7 @@ var getString = function(s) {
 };
 
 module.exports = {
-  standalone: false,
+  standalone: true,
   title: "Unreinforced masonry buildings in Seattle",
   short: "Unreinforced masonry",
   load(leaflet, map) {
@@ -94,6 +94,8 @@ module.exports = {
         group.on("clusterclick", clusterClick);
         group.on("click", markerClick);
         ok(group);
+        //memoize this
+        module.exports.load = () => Promise.resolve(group);
       });
     });
   },
