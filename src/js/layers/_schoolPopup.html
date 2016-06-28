@@ -11,7 +11,7 @@ This school has <b><%= data.buildings.length %></b> buildings, built between the
 
 
 <!--Shows the hazard likelihood.-->
-<% }; if ( data.highHazards > 0 && data.moderateHazards ) { %>
+<% }; if ( data.highHazards > 0 && data.moderateHazards) { %>
 <b><%= data.moderateHazards %></b> with a moderate to high likelihood of hazard, and <b><%= data.highHazards %></b> with a high to very high likelihood of hazard.
 <% } else if (data.moderateHazards > 0) { %> 
 <b><%= data.moderateHazards %></b> with a moderate to high likelihood of hazard.
