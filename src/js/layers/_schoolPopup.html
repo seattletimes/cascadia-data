@@ -1,0 +1,29 @@
+
+<h1><%= data.school %>, <%= data.district %></h1>
+
+<!--Shows the build years.-->
+<% if (data.buildings.length < 2) { %>
+This school has <b><%= data.buildings.length %></b> building, built in <b><%= data.oldest %></b>, 
+<% } else if (data.oldest === data.newest) { %>
+This school has <b><%= data.buildings.length %></b> building(s), built in <b><%= data.oldest %></b>, 
+<% } else {%>
+This school has <b><%= data.buildings.length %></b> buildings, built between the years <b><%= data.oldest %></b> and <b><%= data.newest %></b>, 
+
+
+<!--Shows the hazard likelihood.-->
+<% }; if ( data.highHazards > 0 && data.moderateHazards ) { %>
+<b><%= data.moderateHazards %></b> with a moderate to high likelihood of hazard, and <b><%= data.highHazards %></b> with a high to very high likelihood of hazard.
+<% } else if (data.moderateHazards > 0) { %> 
+<b><%= data.moderateHazards %></b> with a moderate to high likelihood of hazard.
+<% } else if (data.highHazards > 0) { %> 
+<b><%= data.highHazards %></b> with a high to very high likelihood of hazard.
+<% } else { %>
+with either moderate to low or low likelihood of hazard.
+<% }; %>
+
+<!--Shows if the buildings have mitigation complete.-->
+<% if (data.mitigation > 0) { %> 
+<b><%= data.mitigation %></b> buildings have had mitigation completed.
+<% } else { %> 
+<b>None</b> of its buildings have had mitigation completed.
+<% }; %>

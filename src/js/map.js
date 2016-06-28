@@ -94,7 +94,7 @@ var loadLayer = function(layerName) {
   }
 }
 
-loadLayer(queryString.layer || document.body.getAttribute("data-layer"));
+loadLayer(queryString.layer || document.body.getAttribute("data-layer") || "schools");
 if (!document.body.classList.contains("standalone")) map.scrollWheelZoom.disable();
 
 map.on("click", e => console.log(e.latlng));
