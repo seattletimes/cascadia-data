@@ -12,18 +12,18 @@ This school has <b><%= data.buildings.length %></b> buildings, built between the
 
 <!--Shows the hazard likelihood.-->
 <% }; if ( data.highHazards > 0 && data.moderateHazards) { %>
-<b><%= data.moderateHazards %></b> with a moderate to high likelihood of hazard, and <b><%= data.highHazards %></b> with a high to very high likelihood of hazard.
+<b><%= data.moderateHazards %></b> with a moderate to high earthquake risk, and <b><%= data.highHazards %></b> with a high to very high earthquake risk.
 <% } else if (data.moderateHazards > 0) { %> 
-<b><%= data.moderateHazards %></b> with a moderate to high likelihood of hazard.
+<b><%= data.moderateHazards %></b> with a moderate to high earthquake risk.
 <% } else if (data.highHazards > 0) { %> 
-<b><%= data.highHazards %></b> with a high to very high likelihood of hazard.
+<b><%= data.highHazards %></b> with a high to very high earthquake risk.
 <% } else { %>
-with either moderate to low or low likelihood of hazard.
+with either moderate to low or low earthquake risk.
 <% }; %>
 
 <!--Shows if the buildings have mitigation complete.-->
 <% if (data.mitigation["Structural Retrofit"]) { %> 
-<b><%= data.mitigation["Structural Retrofit"] %></b> of its buildings have had mitigation completed.
+OSPI data shows <b><%= data.mitigation["Structural Retrofit"] %></b> of its buildings have had seismic upgrades.
 <% } else { %> 
-<b>None</b> of its buildings have had mitigation completed.
+OSPI data shows that <b>none</b> of its buildings have had a seismic upgrade.
 <% }; %>

@@ -61,7 +61,6 @@ module.exports = {
         })
           
           var getRisk = r => risks[r] || 0;
-          var getMitigation = r => mitig[r] || 0;
           group.mitigation = mitig;
           group.moderateHazards = getRisk('Moderate') + getRisk('Moderate to High');
           group.highHazards = getRisk('High') + getRisk('High to Very High') + getRisk('Very High');
