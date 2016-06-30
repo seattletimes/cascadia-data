@@ -64,15 +64,37 @@ module.exports = {
           group.mitigation = mitig;
           group.moderateHazards = getRisk('Moderate') + getRisk('Moderate to High');
           group.highHazards = getRisk('High') + getRisk('High to Very High') + getRisk('Very High');
-          group.hazards = risks;
+          group.hazards = group.moderateHazards + group.highHazards + getRisk('Low') + getRisk('Low to Moderate');
 
           if (!grouped[k].coords) {
             console.log(`No coordinates for ${k}`);
             continue;
           }
+          
+          //if school's risk is 30% or 50%
+          var modRisk = (group.moderateHazards / group.hazards );
+          var highRisk = (group.highHazards / group.hazards );
+
+
+          function riskColor() {
+            
+               if (highRisk > .2) {
+              return "high-risk";
+            }
+          else if (modRisk > .3) {
+             return "medium-risk";
+
+            }
+          else {
+           return "school-marker";
+
+            }
+            return "school-marker";
+          };
+         
           var marker = leaflet.marker(grouped[k].coords, {
             icon: leaflet.divIcon({
-              className: "school-marker"
+              className: riskColor()
             }),
           });
           marker.bindPopup(template(grouped[k]), { className: "school-popup", maxHeight: 300 });
