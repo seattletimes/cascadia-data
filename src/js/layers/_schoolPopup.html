@@ -22,8 +22,8 @@ with either moderate to low or low earthquake risk.
 <% }; %>
 
 <!--Shows if the buildings have mitigation complete.-->
-<% if (data.mitigation["Structural Retrofit"]) { %> 
-OSPI data shows <b><%= data.mitigation["Structural Retrofit"] %></b> of its buildings have had seismic upgrades.
+<% if (data.mitigation > 0) { %> 
+OSPI data shows <b><%= data.mitigation %></b> of its buildings have had seismic upgrades.
 <% } else { %> 
 OSPI data shows that <b>none</b> of its buildings have had a seismic upgrade.
 <% }; %>
