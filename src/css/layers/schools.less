@@ -3,23 +3,20 @@
   width: 20px;
   height: 20px;
   margin: -10px;
-  background: fade(black, 20%);
-  border: 1px solid black;
+  background: fade(@df-middle-gray, 20%);
+  border: 1px solid @df-middle-gray;
   border-radius: 100%;
     
   &.high {
-    background: fade(red, 20%);
-    border: 1px solid red;
+    background: fade(@df-orange, 20%);
+    border: 1px solid @df-orange;
   }
   
   &.medium {
-    background: fade(blue, 20%);
-    border: 1px solid blue;
+    background: fade(@df-blue, 20%);
+    border: 1px solid @df-blue;
   }
-  
-  &.mitigated {
-  border-radius: 0;
-  }
+
 }
   
 .schools.key-block {

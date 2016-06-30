@@ -84,24 +84,14 @@ module.exports = {
             if (highRisk > .25) {
               return "high";
             }
-            else if (modRisk > .3) {
+            else if (modRisk > .25) {
               return "medium";
             }
         };          
           
-          //Assigns a color to each school based on risk
-          function isMitigated() {
-            if (group.mitigation > 0) {
-              return "mitigated";
-            }
-            else {
-              return "";
-            }
-        };
-         console.log(isMitigated());
           var marker = leaflet.marker(grouped[k].coords, {
             icon: leaflet.divIcon({
-              className: "school-marker " + riskColor() + " " + isMitigated()
+              className: "school-marker " + riskColor()
             }),
           });
           marker.bindPopup(template(grouped[k]), { className: "school-popup", maxHeight: 300 });
@@ -119,17 +109,10 @@ module.exports = {
   viewbox: [[45.5948097, -124.387099], [48.5353, -120.29922]],
   key: `
       <h2>Earthquake Preparedness in Washington</h2>
-      <ul class="top-key">
-        <li>
-          <i class="school-marker shape square"></i> Completed seismic upgrade</li>
-        <li>
-          <i class="school-marker shape"></i> No seismic upgrade</li>
-      </ul>
       <ul>
         <li> <i class="school-marker high"></i> Very high to high damage likely for > 25% of buildings
-        <li> <i class="school-marker medium"></i> Moderate damage likely for > 30% of buildings
-        <li> <i class="school-marker"></i> 
-            Low to moderate risk of damage
+        <li> <i class="school-marker medium"></i> Moderate damage likely for > 25% of buildings
+        
       </ul>
 <p class="chatter">Earthquake risk includes building type, potential for ground shaking, and soil type. Some schools have mitigated their risk of damage with facility upgrades.</p>
 <div class="source">Source: <a href="http://www.k12.wa.us/">OSPI</a></div> `
