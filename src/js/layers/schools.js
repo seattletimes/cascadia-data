@@ -109,6 +109,6 @@ module.exports = {
 <li> <i class="school-marker medium"></i> Moderate damage likely for > 25% of buildings
 
 </ul>
-<p class="chatter">Earthquake risk includes building type, potential for ground shaking, and soil type. Some schools have mitigated their risk of damage with facility upgrades.</p>
-<div class="source">Source: <a href="http://www.k12.wa.us/">OSPI</a></div> `
+<p class="chatter">Earthquake risk is based on the type of building, the intensity of potential ground-shaking, type of soil and year built, among other criteria. Some schools have mitigated their risk with seismic upgrades.</p>
+<div class="source">Source: <a href="http://www.k12.wa.us/">Office of Superintendent of Public Instruction</a></div> `
 }
