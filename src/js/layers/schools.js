@@ -7,7 +7,7 @@ var template = dot.compile(require("./_schoolPopup.html"));
 module.exports = {
   standalone: true,
   title: "Selected school buildings",
-  short: "Schools",
+  short: "Earthquake preparedness",
   load(leaflet, map) {
 
     return new Promise(function(ok, fail) {
