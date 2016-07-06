@@ -105,9 +105,8 @@ module.exports = {
   viewbox: [[45.5948097, -124.387099], [48.5353, -120.29922]],
   key: `<h2>Sample of school earthquake risk</h2>
 <ul>
-<li> <i class="school-marker high"></i> Very high to high damage likely for > 25% of buildings </li>
-<li> <i class="school-marker medium"></i> Moderate damage likely for > 25% of buildings </li>
-<li> <i class="school-marker"></i> Low to moderate damage </li>
+<li> <i class="school-marker high"></i> Very high to high damage likely for > 25% of buildings
+<li> <i class="school-marker medium"></i> Moderate damage likely for > 25% of buildings
 
 </ul>
 <p class="chatter">Earthquake risk is based on the type of building, the intensity of potential ground-shaking, type of soil and year built, among other criteria. Some schools have mitigated their risk with seismic upgrades.</p>
